@@ -1,5 +1,39 @@
 [
  {
+  "company": "Amazon",
+  "title": "Robotics Embedded Software Development Engineer",
+  "location": "2 locations",
+  "pay": null,
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://amazon.jobs/en/jobs/10522935/robotics-embedded-software-development-engineer",
+  "date_posted": "2026-10-22T06:15:51+00:00",
+  "date_found": "2026-10-22T06:59:09.636000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
+  "location": "Cupertino, CA",
+  "pay": null,
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+  "date_posted": "2026-10-22T06:15:50+00:00",
+  "date_found": "2026-10-22T06:59:09.636000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Schweitzer Engineering Laboratories",
   "title": "Associate Research Engineer - Power Systems",
   "location": "Washington - Pullman",
@@ -332,6 +366,22 @@
   "url": "https://careers.jhuapl.edu/jobs/60364",
   "date_posted": "2026-10-22T00:05:40+00:00",
   "date_found": "2026-10-22T00:07:20.088000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Dell Technologies",
+  "title": "Electrical Engineer 1 -Power",
+  "location": "TX",
+  "pay": "$81k–$105k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299182",
+  "date_posted": "2026-10-22T00:00:00+00:00",
+  "date_found": "2026-10-22T06:00:03.717000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -2460,6 +2510,22 @@
   "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Junior-Cyber-Threat-Analyst_R-0013497-1",
   "date_posted": "2026-10-20T05:55:59.081000+00:00",
   "date_found": "2026-10-20T06:01:40.115000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Johnson Controls",
+  "title": "BEST Technical Sales Trainee - Equipment - Boston, MA",
+  "location": "Lynnfield-Massachusetts-United States of Ame",
+  "pay": "$85k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Lynnfield-Massachusetts-United-States-of-America/BEST-Technical-Sales-Trainee---Equipment---Boston--MA_EB000753423-1",
+  "date_posted": "2026-10-20T04:53:11.539000+00:00",
+  "date_found": "2026-10-22T04:57:44.945000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -6341,54 +6407,6 @@
   "date_posted": "2026-10-15T06:45:53+00:00",
   "date_found": "2026-10-15T06:52:03.818000+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Google",
-  "title": "Associate Red Team Consultant, US Central, Mandiant, Google Cloud",
-  "location": "2 locations",
-  "pay": "$88,500–$125k/yr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://www.google.com/about/careers/applications/jobs/results/107171846008251078",
-  "date_posted": "2026-10-15T06:36:44+00:00",
-  "date_found": "2026-10-15T06:43:43.680000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "TikTok",
-  "title": "Backend Engineer Graduate (Account) - 2027 Start",
-  "location": "San Jose, CA",
-  "pay": "$128k–$256k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://lifeattiktok.com/search/7696779797359233333",
-  "date_posted": "2026-10-15T06:36:34+00:00",
-  "date_found": "2026-10-15T06:46:40.459000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Duke Energy",
-  "title": "Optimization Engineer I or II - DCC Grid",
-  "location": "Garner, NC",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Garner-NC/Optimization-Engineer-I-or-II---DCC-Grid_R42017",
-  "date_posted": "2026-10-15T04:43:04.799000+00:00",
-  "date_found": "2026-10-15T05:00:47.590000+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false

@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,108 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,109 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,7 +10,8 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=paloaltonetworks.com" width="20" height="20" align="absmiddle">&nbsp; **Palo Alto Networks** | Software Engineer 🔥 🛂 | California<br><sub>$90k–&#8288;$147,500/yr</sub> | Jul&nbsp;1 | <a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011506"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=paloaltonetworks.com" width="20" height="20" align="absmiddle">&nbsp; **Palo Alto Networks** | Software Engineer 🔥 🛂 | California<br><sub>$90k–&#8288;$147,500/yr</sub> | Jul&nbsp;1 | <a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011528"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Software Engineer 🔥 🛂 | California<br><sub>$90k–&#8288;$147,500/yr</sub> | Jul&nbsp;1 | <a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011506"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer 🔥 🛂 | California<br><sub>$90k–&#8288;$147,500/yr</sub> | Jul&nbsp;1 | <a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011504"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer 🔥 🛂 | California<br><sub>$90k–&#8288;$147,500/yr</sub> | Jul&nbsp;1 | <a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011529"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer 🔥 🛂 | California<br><sub>$90k–&#8288;$147,500/yr</sub> | Jul&nbsp;1 | <a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011497"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
