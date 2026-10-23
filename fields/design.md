@@ -2,12 +2,14 @@
 
 # 🎨 Design new grad and entry-level roles
 
-All 26 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
+All 28 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=konrad.com" width="20" height="20" align="absmiddle">&nbsp; **Konrad** | Associate UI/UX Designer ✨ | New&nbsp;York<br><sub>$70k–&#8288;$80k/yr</sub> | Oct&nbsp;22<br><sub>⚡&nbsp;31m</sub> | <a href="https://www.konrad.com/careers/job/8041479003?gh_jid=8041479003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=laskoproducts.com" width="20" height="20" align="absmiddle">&nbsp; **Lasko&nbsp;Products** | Industrial Designer I ✨ | West&nbsp;Chester,&nbsp;PA<br><sub>-</sub> | Oct&nbsp;22<br><sub>⚡&nbsp;39m</sub> | <a href="https://job-boards.greenhouse.io/laskoproducts/jobs/5272267007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=urbn.com" width="20" height="20" align="absmiddle">&nbsp; **URBN** | Free People Associate Concept Designer ✨ | - | Oct&nbsp;22 | <a href="https://homeoffice-na-urbn.icims.com/jobs/31210/free-people-associate-concept-designer/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=selinc.com" width="20" height="20" align="absmiddle">&nbsp; **Schweitzer Engineering Laboratories** | Associate User Experience Designer ✨ | Washington - Pullman<br><sub>$82k–&#8288;$122,900/yr</sub> | Oct&nbsp;22 | <a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-User-Experience-Designer_2026-23305"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=urbn.com" width="20" height="20" align="absmiddle">&nbsp; **URBN** | Anthropologie Associate Designer Soft Wovens ✨ | - | Oct&nbsp;22 | <a href="https://homeoffice-na-urbn.icims.com/jobs/28320/anthropologie-associate-designer---soft-wovens/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,132 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,134 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,6 +10,8 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=notion.com" width="20" height="20" align="absmiddle">&nbsp; **Notion** | Software Engineer – Early Career - AI 🔥 | SF<br><sub>-</sub> | Jul&nbsp;6 | <a href="https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Software Engineer – Early Career 🔥 | SF<br><sub>$130k–&#8288;$150k/yr</sub> | Jul&nbsp;6 | <a href="https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=citadelsecurities.com" width="20" height="20" align="absmiddle">&nbsp; **Citadel Securities** | Graduate Software Engineer 🔥 | 2&nbsp;locations<br><sub>-</sub> | Jul&nbsp;6 | <a href="https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=citadel.com" width="20" height="20" align="absmiddle">&nbsp; **Citadel** | Software Engineer – University Graduate 🔥 | 4&nbsp;locations<br><sub>-</sub> | Jul&nbsp;6 | <a href="https://www.citadel.com/careers/details/software-engineer-university-graduate-us/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=worldscape.ai" width="20" height="20" align="absmiddle">&nbsp; **Worldscape Technology** | Game Engine Engineer - Platform | Redmond,&nbsp;WA<br><sub>-</sub> | Jul&nbsp;4<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.lever.co/worldscape-technology/599859f7-02f1-45f8-ae01-ff9a412d5743/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
