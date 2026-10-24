@@ -2,12 +2,13 @@
 
 # 🛡️ Security new grad and entry-level roles
 
-All 29 open security new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security), or [get them by email, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security).
+All 30 open security new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security), or [get them by email, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=boozallen.com" width="20" height="20" align="absmiddle">&nbsp; **Booz Allen Hamilton** | Cyber Analyst, Junior ✨ 🛂 | Washington,&nbsp;DC<br><sub>$53k–&#8288;$108k/yr</sub> | Oct&nbsp;23 | <a href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Cyber-Analyst--Junior_R0249110"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=microchip.com" width="20" height="20" align="absmiddle">&nbsp; **Microchip Technology** | Analyst I - Security (Program) ✨ | Boulder,&nbsp;CO<br><sub>-</sub> | Oct&nbsp;22 | <a href="https://wd5.myworkdaysite.com/External/job/CO---Boulder/Analyst-I---Security--Program-_R4520-26"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=boozallen.com" width="20" height="20" align="absmiddle">&nbsp; **Booz Allen Hamilton** | ISSO Security Analyst, Junior ✨ 🛂 | Mclean,&nbsp;VA<br><sub>$53k–&#8288;$108k/yr</sub> | Oct&nbsp;22 | <a href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/ISSO-Security-Analyst--Junior_R0252137-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=cmu.edu" width="20" height="20" align="absmiddle">&nbsp; **Carnegie Mellon University** | Associate AI Red Team Engineer ✨ | Pittsburgh,&nbsp;PA<br><sub>-</sub> | Oct&nbsp;22 | <a href="https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Associate-AI-Red-Team-Engineer_2025255-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

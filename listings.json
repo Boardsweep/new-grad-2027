@@ -1,5 +1,150 @@
 [
  {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Test Engineer, HPC & AI Systems - (Early Career)",
+  "location": "Spring, TX",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-3",
+  "date_posted": "2026-10-23T05:00:48.838000+00:00",
+  "date_found": "2026-10-23T05:20:05.555000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Two Sigma",
+  "title": "New York New York United States Software Engineering Full Time Campus Hire Nyc",
+  "location": "",
+  "pay": "$225k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014?source=zero2sudo",
+  "date_posted": "2026-10-23T02:40:25+00:00",
+  "date_found": "2026-10-23T02:50:04.695710+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "System Development Engineer - Region Reliability Engineering",
+  "location": "Denver, CO",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://amazon.jobs/en/jobs/10550753/system-development-engineer-region-reliability-engineering",
+  "date_posted": "2026-10-23T01:47:36+00:00",
+  "date_found": "2026-10-23T02:57:52.456000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Development Engineer - Embedded Systems",
+  "location": "9 locations",
+  "pay": null,
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
+  "date_posted": "2026-10-23T01:45:44+00:00",
+  "date_found": "2026-10-23T02:57:52.456000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "ASIC Engineer - Project Leo",
+  "location": "4 locations",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://amazon.jobs/en/jobs/3176560/asic-engineer-project-leo",
+  "date_posted": "2026-10-23T01:45:38+00:00",
+  "date_found": "2026-10-23T02:57:52.456000+00:00",
+  "top_company": true,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "Cloud Hardware Development Engineer – Early Career",
+  "location": "2 locations",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://amazon.jobs/en/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026",
+  "date_posted": "2026-10-23T01:45:38+00:00",
+  "date_found": "2026-10-23T02:57:52.456000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "Jr Software Development Engineer Detroit Mi Jr Developer Program",
+  "location": "Detroit, MI",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program",
+  "date_posted": "2026-10-23T01:45:31+00:00",
+  "date_found": "2026-10-23T02:50:04.695710+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Booz Allen Hamilton",
+  "title": "Data Scientist, Junior",
+  "location": "2 Locations",
+  "pay": "$62k–$141k/yr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stafford-VA/Data-Scientist--Junior_R0249560",
+  "date_posted": "2026-10-23T01:41:48.483000+00:00",
+  "date_found": "2026-10-23T01:59:35.958000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Booz Allen Hamilton",
+  "title": "Cyber Analyst, Junior",
+  "location": "Washington, DC",
+  "pay": "$53k–$108k/yr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Cyber-Analyst--Junior_R0249110",
+  "date_posted": "2026-10-23T01:41:48.483000+00:00",
+  "date_found": "2026-10-23T01:59:35.958000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Motorola Solutions",
   "title": "Entry Level Power Electronics and Analog Design Engineer",
   "location": "Schaumburg, IL",
@@ -1299,6 +1444,38 @@
   "url": "https://careers.jhuapl.edu/jobs/60364",
   "date_posted": "2026-10-22T00:05:40+00:00",
   "date_found": "2026-10-22T00:07:20.088000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Copart",
+  "title": "Associate Product Manager",
+  "location": "SF",
+  "pay": "$85k–$105k/yr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://copart.wd12.myworkdayjobs.com/copart/job/San-Francisco-CA/Associate-Product-Manager_JR112367",
+  "date_posted": "2026-10-22T00:00:00+00:00",
+  "date_found": "2026-10-23T02:57:52.456000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Hewlett Packard Enterprise",
+  "title": "Graduate Electrical Hdwr Engineer I",
+  "location": "Chippewa Falls, WI",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Graduate-Electrical-Hdwr-Engineer-I_1213433",
+  "date_posted": "2026-10-22T00:00:00+00:00",
+  "date_found": "2026-10-23T01:59:35.958000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -6474,23 +6651,6 @@
   "advanced_degree": false
  },
  {
-  "company": "CME Group",
-  "title": "Platform Engineer I",
-  "location": "Chicago - 20 S. Wacker",
-  "pay": "$73,500–$122,500/yr",
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Staff-Engineer-Data-Platform_33119",
-  "date_posted": "2026-10-16T05:42:18.617000+00:00",
-  "date_found": "2026-10-16T05:59:01.810000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Together AI",
   "title": "Hardware Security Engineer, New Grad (2027)",
   "location": "San Francisco",
@@ -6502,38 +6662,6 @@
   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238471007",
   "date_posted": "2026-10-16T04:32:37+00:00",
   "date_found": "2026-10-16T04:34:02.297000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Shield AI",
-  "title": "EWIS Harness Design - Engineer I",
-  "location": "Seattle, WA",
-  "pay": "$95k–$140k/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.lever.co/shieldai/8436804b-9460-4a14-9062-b45d4583a00a",
-  "date_posted": "2026-10-16T02:47:52.804000+00:00",
-  "date_found": "2026-10-16T02:49:39.220000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "SpaceX",
-  "title": "New Graduate Engineer, Infrastructure",
-  "location": "Starbase, TX",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002",
-  "date_posted": "2026-10-16T01:17:49+00:00",
-  "date_found": "2026-10-16T01:19:27.501000+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -8670,38 +8798,6 @@
   "date_found": "2026-10-10T13:50:14.572912+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "ZOLL Medical",
-  "title": "Associate Full Stack Engineer",
-  "location": "Chelmsford, MA",
-  "pay": "$103k–$115k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Associate-Full-Stack-Engineer_R20171",
-  "date_posted": "2026-10-10T02:48:29.982000+00:00",
-  "date_found": "2026-10-22T02:57:17.265000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Boeing",
-  "title": "Associate Systems Engineer",
-  "location": "2 Locations",
-  "pay": "$98,600–$133,400/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Seal-Beach-CA/Associate-Systems-Engineer_JR2026524693-1",
-  "date_posted": "2026-10-10T02:01:01.563000+00:00",
-  "date_found": "2026-10-22T02:02:17.212000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },

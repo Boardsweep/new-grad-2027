@@ -2,12 +2,13 @@
 
 # 🤖 AI, ML and data new grad and entry-level roles
 
-All 782 open ai, ml and data new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_aiml).
+All 783 open ai, ml and data new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_aiml).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=boozallen.com" width="20" height="20" align="absmiddle">&nbsp; **Booz Allen Hamilton** | Data Scientist, Junior ✨ 🛂 | 2&nbsp;Locations<br><sub>$62k–&#8288;$141k/yr</sub> | Oct&nbsp;23 | <a href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stafford-VA/Data-Scientist--Junior_R0249560"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=guidewire.com" width="20" height="20" align="absmiddle">&nbsp; **Guidewire** | Junior AI Engineer Applied AI Jr | - | Oct&nbsp;22 | <a href="https://www.guidewire.com/about/careers/jobs/junior-ai-engineer--applied-ai-jr_15319"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=clearwateranalytics.com" width="20" height="20" align="absmiddle">&nbsp; **Clearwater Analytics** | Financial Data Associate ✨ | Office&nbsp;-&nbsp;Boise<br><sub>-</sub> | Oct&nbsp;22 | <a href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Financial-Data-Associate_R12503"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=connection.com" width="20" height="20" align="absmiddle">&nbsp; **Connection** | Associate AI Solutions Engineer ✨ 🛂 | -<br><sub>$86k/yr</sub> | Oct&nbsp;22 | <a href="https://careers-connection.icims.com/jobs/10724/associate-ai-solutions-engineer/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
