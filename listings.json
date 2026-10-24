@@ -1,5 +1,263 @@
 [
  {
+  "company": "Riverside Research",
+  "title": "Junior Research Scientist Cybersecurity",
+  "location": "",
+  "pay": "$90k–$125k/yr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://careers-riversideresearch.icims.com/jobs/4436/junior-research-scientist--cybersecurity/job",
+  "date_posted": null,
+  "date_found": "2026-10-23T18:02:38.307000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Torch Technologies",
+  "title": "Junior Modeling and Simulation (M&S) Software Developer",
+  "location": "Huntsville, AL",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Modeling-and-Simulation--M-S--Software-Developer_R2086",
+  "date_posted": "2026-10-23T17:57:54.024000+00:00",
+  "date_found": "2026-10-23T18:02:38.307000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Radiance Technologies",
+  "title": "Junior Modeling and Simulation Engineer",
+  "location": "Beavercreek, OH",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Junior-Modeling-and-Simulation-Engineer_HR102521",
+  "date_posted": "2026-10-23T17:47:20.429000+00:00",
+  "date_found": "2026-10-23T18:02:38.307000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Nike",
+  "title": "Converse AI Enablement Graduate Internship",
+  "location": "Boston, MA",
+  "pay": "$63,500/yr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Converse-AI-Enablement-Graduate-Internship_R-96256",
+  "date_posted": "2026-10-23T17:46:20.121000+00:00",
+  "date_found": "2026-10-23T18:02:38.307000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
+  "company": "Nike",
+  "title": "Converse Merchandising Graduate Internship",
+  "location": "Boston, MA",
+  "pay": "$63,500/yr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Converse-Merchandising-Graduate-Internship_R-96257",
+  "date_posted": "2026-10-23T17:46:20.121000+00:00",
+  "date_found": "2026-10-23T18:02:38.307000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "GDIT",
+  "title": "Cybersecurity Exercise Planner (Junior)",
+  "location": "Arlington, VA",
+  "pay": null,
+  "tracks": [
+   "security"
+  ],
+  "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Cybersecurity-Exercise-Planner--Junior-_RQ230637",
+  "date_posted": "2026-10-23T17:43:58.756000+00:00",
+  "date_found": "2026-10-23T18:02:38.307000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Microchip Technology",
+  "title": "Engineer I - Quality",
+  "location": "San Jose, CA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://wd5.myworkdaysite.com/External/job/CA---San-Jose---3870-N-First-St/Engineer-I---Quality_R4532-26",
+  "date_posted": "2026-10-23T17:36:39.725000+00:00",
+  "date_found": "2026-10-23T17:37:55.888000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "RTX",
+  "title": "Embedded Software Security Engineer I",
+  "location": "El Segundo, CA",
+  "pay": null,
+  "tracks": [
+   "software",
+   "security"
+  ],
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Embedded-Software-Security-Engineer-I_01884615",
+  "date_posted": "2026-10-23T17:21:47.897000+00:00",
+  "date_found": "2026-10-23T17:22:53.282000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "RTX",
+  "title": "Software Engineer I",
+  "location": "Tucson, AZ",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1",
+  "date_posted": "2026-10-23T17:12:47.620000+00:00",
+  "date_found": "2026-10-23T17:14:02.289000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Sierra Space",
+  "title": "Database Engineer I",
+  "location": "2 Locations",
+  "pay": "$67,087–$92,243.50/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Database-Engineer-I_R26247-1",
+  "date_posted": "2026-10-23T16:57:14.068000+00:00",
+  "date_found": "2026-10-23T16:58:23.174000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "BlueYonder",
+  "title": "Software Engineer I (U.S. Citizenship Required)",
+  "location": "BYDS Dallas",
+  "pay": "$75k–$85k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jda.wd5.myworkdayjobs.com/university/job/BYDS-Dallas/Software-Engineer-I--US-Citizenship-Required-_261334",
+  "date_posted": "2026-10-23T15:59:07.425000+00:00",
+  "date_found": "2026-10-23T16:04:41.241000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "GlobalFoundries",
+  "title": "New Product Development Test Engineer (2027 New College Graduate)",
+  "location": "Richardson, TX",
+  "pay": "$86k–$148k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Sr-Engineer-Design_JR-2604139",
+  "date_posted": "2026-10-23T14:44:06.622000+00:00",
+  "date_found": "2026-10-23T15:01:20.761000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Software Engineer I - New Grad (R6052)",
+  "location": "Seattle, WA",
+  "pay": "$100k–$150k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196",
+  "date_posted": "2026-10-23T14:19:22+00:00",
+  "date_found": "2026-10-23T12:58:25.349000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Addepar",
+  "title": "Product Manager - Early Career, AI Platform",
+  "location": "New York, NY",
+  "pay": "$83k–$130k/yr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910404002",
+  "date_posted": "2026-10-23T13:43:19+00:00",
+  "date_found": "2026-10-23T14:01:25.787000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amentum",
+  "title": "Junior DevSecOps Engineer",
+  "location": "Dahlgren, VA",
+  "pay": null,
+  "tracks": [
+   "software",
+   "security"
+  ],
+  "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-DevSecOps-Engineer_R0172729",
+  "date_posted": "2026-10-23T12:56:12.549000+00:00",
+  "date_found": "2026-10-23T13:01:05.535000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Xcel Energy",
+  "title": "Associate Data Scientist - Workforce Analytics",
+  "location": "3 Locations",
+  "pay": "$84,900–$120,567/yr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Associate-Data-Scientist---Workforce-Analytics_JR116164-1",
+  "date_posted": "2026-10-23T12:50:10.581000+00:00",
+  "date_found": "2026-10-23T13:01:05.535000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Jobgether",
   "title": "Entry-Level Java Software Developer",
   "location": "US",
@@ -269,6 +527,102 @@
   "date_found": "2026-10-23T00:02:11.982000+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "RSM",
+  "title": "AI Machine Learning Engineer",
+  "location": "7 locations",
+  "pay": "$102,800–$176k/yr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/AI-Machine-Learning-Engineer_JR122103",
+  "date_posted": "2026-10-23T00:00:00+00:00",
+  "date_found": "2026-10-23T18:02:38.307000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "U.S. Bank",
+  "title": "Software Engineer 1 - Python",
+  "location": "Minneapolis, MN",
+  "pay": "$92,820–$109,200/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Software-Engineer-1---Python_2026-0033403-1",
+  "date_posted": "2026-10-23T00:00:00+00:00",
+  "date_found": "2026-10-23T18:02:38.307000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Regal Rexnord",
+  "title": "Electronics Lab Technician 1",
+  "location": "Radford, VA",
+  "pay": "$38,480–$49,100/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Radford-Virginia-United-States/Electronics-Lab-Technician-I_R26_04131-1",
+  "date_posted": "2026-10-23T00:00:00+00:00",
+  "date_found": "2026-10-23T18:02:38.307000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "Security Engineer I , Stores Security- Healthcare Security",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "security"
+  ],
+  "url": "https://www.amazon.jobs/en/jobs/10587725/security-engineer-i-stores-security-healthcare-security",
+  "date_posted": "2026-10-23T00:00:00+00:00",
+  "date_found": "2026-10-23T16:52:36.647000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Thorlabs",
+  "title": "Engineering Technician I",
+  "location": "Jessup, MD",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://apply.workable.com/thorlabs/j/6C68821644/",
+  "date_posted": "2026-10-23T00:00:00+00:00",
+  "date_found": "2026-10-23T16:04:41.241000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Lowe's",
+  "title": "Associate Analyst-Digital - Launchpad",
+  "location": "Mooresville, NC  1999",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Associate-Analyst-Digital---Launchpad_JR-02681696",
+  "date_posted": "2026-10-23T00:00:00+00:00",
+  "date_found": "2026-10-23T15:01:20.761000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -3950,6 +4304,22 @@
   "advanced_degree": false
  },
  {
+  "company": "RELX",
+  "title": "Software Management Analyst I",
+  "location": "2 Locations",
+  "pay": "$53,900–$89,800/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Dayton-OH/Software-Management-Analyst-I_R119922",
+  "date_posted": "2026-10-20T15:49:35.412000+00:00",
+  "date_found": "2026-10-23T16:04:41.241000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "GRVTY",
   "title": "Cloud Engineer Jr",
   "location": "2 locations",
@@ -6538,135 +6908,6 @@
   "advanced_degree": false
  },
  {
-  "company": "CoStar Group",
-  "title": "Software Engineer I- CoStar Suite- Arlington, VA",
-  "location": "US-VA Arlington",
-  "pay": "$103k–$154k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R40122",
-  "date_posted": "2026-10-16T17:55:03.359000+00:00",
-  "date_found": "2026-10-16T18:02:36.434000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "State Street",
-  "title": "Junior SIEM Data Engineer",
-  "location": "Quincy, MA",
-  "pay": "$70k–$118,750/yr",
-  "tracks": [
-   "software",
-   "security"
-  ],
-  "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-SIEM-Data-Engineer_R-794329",
-  "date_posted": "2026-10-16T16:48:33.746000+00:00",
-  "date_found": "2026-10-16T16:59:33.699000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "iSpot",
-  "title": "Associate Data Analyst",
-  "location": "Remote",
-  "pay": "$76,787–$92,916/yr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://job-boards.greenhouse.io/ispottv/jobs/4742654005",
-  "date_posted": "2026-10-16T16:41:59+00:00",
-  "date_found": "2026-10-16T16:59:33.699000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Visionist",
-  "title": "Junior Cloud Software Engineer",
-  "location": "2 Locations",
-  "pay": "$126,500–$170,500/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.jobvite.com/visionist/job/o5bYAfwy",
-  "date_posted": null,
-  "date_found": "2026-10-16T15:59:56.189000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Applied Materials",
-  "title": "New College Grad Manufacturing Engineer (Bachelors/Masters - Austin, TX)",
-  "location": "Austin, TX",
-  "pay": "$65,500–$90k/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/New-College-Grad-Manufacturing-Engineer--Bachelors-Masters---Austin--TX-_R2626241",
-  "date_posted": "2026-10-16T15:40:32.989000+00:00",
-  "date_found": "2026-10-16T15:59:56.189000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Google",
-  "title": "Network Automation Engineer",
-  "location": "Thornton, CO",
-  "pay": "$104k–$148k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://www.google.com/about/careers/applications/jobs/results/99058910484144838",
-  "date_posted": "2026-10-16T14:08:49+00:00",
-  "date_found": "2026-10-16T14:10:12.869000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Battlespace Cybersecurity Researcher I",
-  "location": "Cedar Rapids, IA",
-  "pay": null,
-  "tracks": [
-   "security"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Battlespace-Cybersecurity-Researcher-I_01882980",
-  "date_posted": "2026-10-16T13:42:43.976000+00:00",
-  "date_found": "2026-10-16T13:43:23.939000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "General Dynamics",
-  "title": "Shipboard Network Systems Engineer I Ii",
-  "location": "",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers-gdeb.icims.com/jobs/20369/shipboard-network-systems-engineer-i-ii/job",
-  "date_posted": null,
-  "date_found": "2026-10-16T12:59:37.538000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Together AI",
   "title": "Hardware Security Engineer, New Grad (2027)",
   "location": "San Francisco",
@@ -6989,22 +7230,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Eihu",
-  "title": "AWS Databricks Developer Junior",
-  "location": "College Park, MD",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618048",
-  "date_posted": "2026-10-16T00:00:00+00:00",
-  "date_found": "2026-10-16T14:00:00.786000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "MUFG",
   "title": "Analyst – Data Products and AI Enablement",
   "location": "2 Locations",
@@ -7297,22 +7522,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Applied Materials",
-  "title": "Product Management II New College Grad- Master's (Santa Clara, CA)",
-  "location": "Santa Clara, CA",
-  "pay": "$100k–$136,500/yr",
-  "tracks": [
-   "product"
-  ],
-  "url": "https://appliedmaterials.eightfold.ai/careers/job/790318838118",
-  "date_posted": "2026-10-15T00:00:00+00:00",
-  "date_found": "2026-10-16T17:50:08.182082+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": true
- },
- {
   "company": "Intuit",
   "title": "Software Engineer 1",
   "location": "Multiple Locations",
@@ -7550,22 +7759,6 @@
   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306",
   "date_posted": "2026-10-14T17:57:40.201000+00:00",
   "date_found": "2026-10-14T17:58:28.513000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Microsoft",
-  "title": "Digital Solution Engineer, Azure Platform",
-  "location": "2 locations",
-  "pay": "$86,100–$169,800/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557027239",
-  "date_posted": "2026-10-14T17:24:55+00:00",
-  "date_found": "2026-10-16T16:34:05.723000+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -7889,6 +8082,22 @@
   "date_found": "2026-10-13T22:17:58+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Moxxi Digital",
+  "title": "Junior Optimization Analyst",
+  "location": "NYC",
+  "pay": "$60k–$65k/yr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/moxxidigital/jobs/5451237008",
+  "date_posted": "2026-10-13T22:16:30+00:00",
+  "date_found": "2026-10-23T17:00:33.953000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -31591,22 +31800,6 @@
   "date_posted": null,
   "date_found": "2026-08-06T01:18:25+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Saalex",
-  "title": "Junior Data Integrity Engineer - Avionics Software & Data Analysis",
-  "location": "Patuxent River, MD",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://apply.workable.com/saalex/j/2D1B9D4A3C/apply",
-  "date_posted": "2026-08-06T01:17:57+00:00",
-  "date_found": "2026-08-06T01:17:57+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
