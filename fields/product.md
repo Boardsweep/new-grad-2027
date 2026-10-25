@@ -2,12 +2,13 @@
 
 # 📱 Product new grad and entry-level roles
 
-All 103 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
+All 104 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=bookofthemonth.com" width="20" height="20" align="absmiddle">&nbsp; **Book&nbsp;of&nbsp;the&nbsp;Month** | Growth &amp; Creative Rotational Program ✨ | New&nbsp;York,&nbsp;NY<br><sub>$70k–&#8288;$90k/yr</sub> | Oct&nbsp;23 | <a href="https://bookofthemonth.applytojob.com/apply/s6UDYlP2mv"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nike.com" width="20" height="20" align="absmiddle">&nbsp; **Nike** | Converse Merchandising Graduate Internship | Boston,&nbsp;MA<br><sub>$63,500/yr</sub> | Oct&nbsp;23 | <a href="https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Converse-Merchandising-Graduate-Internship_R-96257"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=addepar.com" width="20" height="20" align="absmiddle">&nbsp; **Addepar** | Product Manager - Early Career, AI Platform | New&nbsp;York,&nbsp;NY<br><sub>$83k–&#8288;$130k/yr</sub> | Oct&nbsp;23<br><sub>⚡&nbsp;18m</sub> | <a href="https://job-boards.greenhouse.io/addepar1/jobs/8910404002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Hive** | Associate Product Manager - Deploy Models | SF<br><sub>-</sub> | Oct&nbsp;22<br><sub>⚡&nbsp;39m</sub> | <a href="https://jobs.lever.co/hive/d5b22ed0-fdd2-4be1-8e6c-b6d734c17986/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
