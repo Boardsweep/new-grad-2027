@@ -1,5 +1,22 @@
 [
  {
+  "company": "Carvana",
+  "title": "Product Manager",
+  "location": "Tempe, AZ",
+  "pay": null,
+  "tracks": [
+   "product",
+   "aiml"
+  ],
+  "url": "https://www.carvana.com/careers/apply?gh_jid=7543098",
+  "date_posted": "2026-10-24T01:02:16+00:00",
+  "date_found": "2026-10-24T01:57:05.258000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Vishay Intertechnology",
   "title": "Associate Quality Engineer",
   "location": "Fremont, CA",
@@ -43,6 +60,22 @@
   "date_posted": "2026-10-23T23:26:52+00:00",
   "date_found": "2026-10-23T23:47:05.351000+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Farther Finance",
+  "title": "Business Intelligence Associate",
+  "location": "NYC",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/fartherfinance/jobs/4746642005",
+  "date_posted": "2026-10-23T22:47:16+00:00",
+  "date_found": "2026-10-24T02:58:05.021000+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -866,6 +899,38 @@
   "date_found": "2026-10-23T00:02:11.982000+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "RTX",
+  "title": "Engineer I, Software Engineer - Test Engineering (Onsite)",
+  "location": "Burnsville, MN",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521",
+  "date_posted": "2026-10-23T00:00:00+00:00",
+  "date_found": "2026-10-24T03:13:23.440000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TruStage",
+  "title": "Annuity Product Analyst",
+  "location": "Madison, WI",
+  "pay": "$73,100–$109,700/yr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/Annuity-Product-Analyst_R-012250-1",
+  "date_posted": "2026-10-23T00:00:00+00:00",
+  "date_found": "2026-10-24T02:58:05.021000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
