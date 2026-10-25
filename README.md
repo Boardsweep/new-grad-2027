@@ -3,11 +3,11 @@
 
 <a href="https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=cta_email"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-email-dark.png"><img src="assets/cta-email-light.png" height="44" alt="Get the free digest"></picture></a>&nbsp;&nbsp;<a href="https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=cta_instant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-instant-dark.png"><img src="assets/cta-instant-light.png" height="44" alt="Instant alerts, 7 days free"></picture></a>
 
-<img src="assets/stats.svg" width="100%" alt="6 new in the last 24 hours, 2920 open">
+<img src="assets/stats.svg" width="100%" alt="4 new in the last 24 hours, 2920 open">
 </div>
 
 > [!TIP]
-> **This list runs a day behind.** The 6 new grad and entry-level roles we found in the last 24 hours are already in subscribers' inboxes, and appear here tomorrow. [Get a free daily email](https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_email), or [get each one the minute the company posts it](https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_instant) with the season pass (7 days free).
+> **This list runs a day behind.** The 4 new grad and entry-level roles we found in the last 24 hours are already in subscribers' inboxes, and appear here tomorrow. [Get a free daily email](https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_email), or [get each one the minute the company posts it](https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_instant) with the season pass (7 days free).
 
 <br>
 
@@ -15,9 +15,9 @@
 
 | Field | Open now | New this week | |
 | --- | ---: | ---: | --- |
-| 💻 **[Software engineering](fields/software.md)** | 1,157 | 188 | [Email me these, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_software) |
+| 💻 **[Software engineering](fields/software.md)** | 1,156 | 188 | [Email me these, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_software) |
 | 🤖 **[AI, ML and data](fields/aiml.md)** | 810 | 59 | [Email me these, free](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_aiml) |
-| 📈 **[Quant](fields/quant.md)** | 86 | 4 | [Email me these, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_quant) |
+| 📈 **[Quant](fields/quant.md)** | 87 | 5 | [Email me these, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_quant) |
 | 🔧 **[Hardware](fields/hardware.md)** | 658 | 114 | [Email me these, free](https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_hardware) |
 | 📱 **[Product](fields/product.md)** | 105 | 17 | [Email me these, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_product) |
 | 🎨 **[Design](fields/design.md)** | 31 | 20 | [Email me these, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_design) |
@@ -31,7 +31,7 @@
 
 ## Software engineering
 
-<sub>This week's 188 of 1,157. <a href="fields/software.md">See all 1,157 (2 pages)</a> · <a href="https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_software">Get only software engineering new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 188 of 1,156. <a href="fields/software.md">See all 1,156 (2 pages)</a> · <a href="https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_software">Get only software engineering new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -296,11 +296,12 @@
 
 ## Quant
 
-<sub>This week's 4 of 86. <a href="fields/quant.md">See all 86</a> · <a href="https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_quant">Get only quant new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 5 of 87. <a href="fields/quant.md">See all 87</a> · <a href="https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_quant">Get only quant new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
 | <img src="https://boardsweep.io/api/logo?domain=bankofamerica.com" width="20" height="20" align="absmiddle">&nbsp; **Bank&nbsp;of&nbsp;America** | Client Quantitative Analyst I ✨ | 4&nbsp;Locations<br><sub>-</sub> | Oct&nbsp;23 | <a href="https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Client-Quantitative-Analyst-I_26034513-2"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=key.com" width="20" height="20" align="absmiddle">&nbsp; **KeyBank** | Quant Analytics Associate | Cleveland,&nbsp;OH<br><sub>$69k–&#8288;$105k/yr</sub> | Oct&nbsp;23 | <a href="https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Quant-Analytics-Associate_R-42718"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=usaa.com" width="20" height="20" align="absmiddle">&nbsp; **USAA** | Quantitative Risk Analyst I ✨ 🛂 | 3&nbsp;Locations<br><sub>$93,770–&#8288;$179,240/yr</sub> | Oct&nbsp;21 | <a href="https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-I_R0121794"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=mtb.com" width="20" height="20" align="absmiddle">&nbsp; **M&amp;T&nbsp;Bank** | 2027 Management Development Program -  Fixed Income Trader (Wilmington, DE) ✨ | Wilmington,&nbsp;DE<br><sub>$29.57–&#8288;$43.99/hr</sub> | Oct&nbsp;21 | <a href="https://mtb.wd5.myworkdayjobs.com/Campus/job/Wilmington-DE/XMLNAME-2027-Management-Development-Program----Fixed-Income-Trader--Wilmington--DE-_R89083"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=barclays.com" width="20" height="20" align="absmiddle">&nbsp; **Barclays** | Agency CMO Trading Analyst ✨ | New York, 745 7th Avenue<br><sub>$110k/yr</sub> | Oct&nbsp;19 | <a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Agency-CMO-Trading-Analyst_JR-0000115921"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -534,6 +535,6 @@
 
 Also see: [Summer 2027 internships](https://github.com/Boardsweep/summer-2027-internships) · [Every role, filterable, on boardsweep.io](https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=footer)
 
-<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Oct 25, 2026 at 12:57 UTC. Not affiliated with any company listed.</sub>
+<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Oct 25, 2026 at 18:52 UTC. Not affiliated with any company listed.</sub>
 
 </div>
