@@ -210,6 +210,24 @@
   "advanced_degree": false
  },
  {
+  "company": "1X",
+  "title": "Research Engineer, Robot Learning",
+  "location": "San Carlos, CA",
+  "pay": "$130,146–$300k/yr",
+  "tracks": [
+   "aiml",
+   "hardware",
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/1x/6d41e7c8-75c3-4f54-8a76-5abbb3569341",
+  "date_posted": "2026-10-23T21:32:42.085000+00:00",
+  "date_found": "2026-10-24T19:50:26.188723+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
   "company": "Boeing",
   "title": "Associate Manufacturing Engineer - Electrical",
   "location": "USA - El Segundo, CA",
@@ -701,7 +719,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014?source=zero2sudo",
+  "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014",
   "date_posted": "2026-10-23T02:40:25+00:00",
   "date_found": "2026-10-23T02:50:04.695710+00:00",
   "top_company": true,
@@ -7524,23 +7542,6 @@
   "advanced_degree": false
  },
  {
-  "company": "MUFG",
-  "title": "Analyst – Data Products and AI Enablement",
-  "location": "2 Locations",
-  "pay": "$85k–$126k/yr",
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/San-Francisco-CA/Analyst---Data-Products-and-AI-Enablement_10080017-WD",
-  "date_posted": "2026-10-15T23:52:04.166721+00:00",
-  "date_found": "2026-10-17T23:50:44.972132+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Qualcomm",
   "title": "ASIC Engineer - ASIC Engineering",
   "location": "San Diego, CA",
@@ -10170,22 +10171,6 @@
   "date_found": "2026-10-07T23:58:14.601000+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Figma",
-  "title": "Associate Product Manager",
-  "location": "SF",
-  "pay": "$140k/yr",
-  "tracks": [
-   "product"
-  ],
-  "url": "https://boards.greenhouse.io/figma/jobs/6180116004",
-  "date_posted": "2026-10-07T22:40:35+00:00",
-  "date_found": "2026-10-07T23:58:14.601000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -18238,22 +18223,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Deepgram",
-  "title": "People AI & Automation Engineer",
-  "location": "2 locations",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316/application?embed=true",
-  "date_posted": null,
-  "date_found": "2026-09-11T23:53:39+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Pangram Labs",
   "title": "Software Engineer - Customer Solutions",
   "location": "2 locations",
@@ -18457,6 +18426,22 @@
   "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4403125009",
   "date_posted": "2026-09-11T19:47:55+00:00",
   "date_found": "2026-09-24T00:07:54.143000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Deepgram",
+  "title": "People AI & Automation Engineer",
+  "location": "2 locations",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316/application?embed=true",
+  "date_posted": "2026-09-11T17:08:43.899000+00:00",
+  "date_found": "2026-09-11T23:53:39+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
