@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,126 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,124 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,8 +10,6 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=worldscape.ai" width="20" height="20" align="absmiddle">&nbsp; **Worldscape Technology** | Game Engine Engineer - Platform | Redmond,&nbsp;WA<br><sub>-</sub> | Jul&nbsp;4<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.lever.co/worldscape-technology/599859f7-02f1-45f8-ae01-ff9a412d5743/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=caci.com" width="20" height="20" align="absmiddle">&nbsp; **CACI** | Software Engineer | Ypsilanti,&nbsp;MI<br><sub>$60,800–&#8288;$121,800/yr</sub> | Jul&nbsp;4 | <a href="https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_324349"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=psu.edu" width="20" height="20" align="absmiddle">&nbsp; **Pennsylvania State University** | Simulation Software Engineer 🛂 | State College, PA<br><sub>$92,100–&#8288;$174,708/yr</sub> | Jul&nbsp;4 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Simulation-Software-Engineer_REQ_0000076942-2"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Computer Engineer 🛂 | State College, PA<br><sub>$92,100–&#8288;$200,808/yr</sub> | Jul&nbsp;4 | <a href="https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Computer-Engineer_REQ_0000077378-2"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=paloaltonetworks.com" width="20" height="20" align="absmiddle">&nbsp; **Palo Alto Networks** | Software Engineer 🔥 🛂 | California<br><sub>$90k–&#8288;$147,500/yr</sub> | Jul&nbsp;4 | <a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011532"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
