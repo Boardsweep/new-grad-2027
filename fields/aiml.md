@@ -2,12 +2,13 @@
 
 # 🤖 AI, ML and data new grad and entry-level roles
 
-All 788 open ai, ml and data new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_aiml).
+All 789 open ai, ml and data new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_aiml).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=internetbrands.com" width="20" height="20" align="absmiddle">&nbsp; **Internet&nbsp;Brands** | Associate AI Research &amp; Operations Analyst | El&nbsp;Segundo,&nbsp;CA<br><sub>$60k/yr</sub> | Oct&nbsp;26 | <a href="https://jobs.jobvite.com/internetbrands/job/oChZAfwc?nl=1&amp;nl=1&amp;fr=false"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=caterpillar.com" width="20" height="20" align="absmiddle">&nbsp; **Caterpillar** | Data Scientist I, Lens Customer Analytics ✨ 🛂 | Peoria,&nbsp;IL<br><sub>$89,210–&#8288;$144,960/yr</sub> | Oct&nbsp;23 | <a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Data-Scientist-I--Lens-Customer-Analytics_R0000400640"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=farther.com" width="20" height="20" align="absmiddle">&nbsp; **Farther&nbsp;Finance** | Business Intelligence Associate | NYC<br><sub>-</sub> | Oct&nbsp;23 | <a href="https://job-boards.greenhouse.io/fartherfinance/jobs/4746642005"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ama-inc.com" width="20" height="20" align="absmiddle">&nbsp; **Analytical Mechanics Associates** | Materials Engineer I ✨ | Hampton,&nbsp;VA<br><sub>$60k–&#8288;$75k/yr</sub> | Oct&nbsp;23 | <a href="https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Materials-Engineer-I_R-100805"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

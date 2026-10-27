@@ -2,12 +2,13 @@
 
 # 📱 Product new grad and entry-level roles
 
-All 101 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
+All 102 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Product Manager New Grad - Platform Trust and Ecosystem 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$122,574–&#8288;$223,200/yr</sub> | Oct&nbsp;26 | <a href="https://lifeattiktok.com/search/7680761598014015797"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=carvana.com" width="20" height="20" align="absmiddle">&nbsp; **Carvana** | Product Manager | Tempe,&nbsp;AZ<br><sub>-</sub> | Oct&nbsp;24<br><sub>⚡&nbsp;55m</sub> | <a href="https://www.carvana.com/careers/apply?gh_jid=7543098"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=bookofthemonth.com" width="20" height="20" align="absmiddle">&nbsp; **Book&nbsp;of&nbsp;the&nbsp;Month** | Growth &amp; Creative Rotational Program ✨ | New&nbsp;York,&nbsp;NY<br><sub>$70k–&#8288;$90k/yr</sub> | Oct&nbsp;23 | <a href="https://bookofthemonth.applytojob.com/apply/s6UDYlP2mv"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nike.com" width="20" height="20" align="absmiddle">&nbsp; **Nike** | Converse Merchandising Graduate Internship | Boston,&nbsp;MA<br><sub>$63,500/yr</sub> | Oct&nbsp;23 | <a href="https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Converse-Merchandising-Graduate-Internship_R-96257"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

@@ -1,5 +1,102 @@
 [
  {
+  "company": "TikTok",
+  "title": "Product Manager New Grad - Platform Trust and Ecosystem",
+  "location": "San Jose, CA",
+  "pay": "$122,574–$223,200/yr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://lifeattiktok.com/search/7680761598014015797",
+  "date_posted": "2026-10-26T06:22:31+00:00",
+  "date_found": "2026-10-26T07:03:23.558000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Internet Brands",
+  "title": "Associate AI Research & Operations Analyst",
+  "location": "El Segundo, CA",
+  "pay": "$60k/yr",
+  "tracks": [
+   "aiml",
+   "software"
+  ],
+  "url": "https://jobs.jobvite.com/internetbrands/job/oChZAfwc?nl=1&nl=1&fr=false",
+  "date_posted": "2026-10-26T06:09:24+00:00",
+  "date_found": "2026-10-26T07:03:23.558000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Stvinc",
+  "title": "Architectural Designer 1",
+  "location": "Vermont Avenue, Washington, DC",
+  "pay": "$63,557–$72,223/yr",
+  "tracks": [
+   "design"
+  ],
+  "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Vermont-Avenue-Washington-District-of-Columbia/Architectural-Designer-1_JR6445",
+  "date_posted": "2026-10-26T04:50:25.929000+00:00",
+  "date_found": "2026-10-26T04:58:12.201000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Guidehouse",
+  "title": "IT Cybersecurity Compliance Technical Associate- Campus 2027",
+  "location": "4 Locations",
+  "pay": "$56k–$94k/yr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/IT-Cybersecurity-Compliance-Technical-Associate--Campus-2027_45899",
+  "date_posted": "2026-10-26T03:43:59.551000+00:00",
+  "date_found": "2026-10-26T03:58:12.496000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Dow Chemical Company",
+  "title": "2026-2027 Campus Hiring _ Manufacturing and Engineering",
+  "location": "2 Locations",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Ichihara-JPN/XMLNAME-2026-2027-Campus-Hiring---Manufacturing-and-Engineering_R2069278",
+  "date_posted": "2026-10-26T03:42:42.664000+00:00",
+  "date_found": "2026-10-26T03:58:12.496000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Evolent",
+  "title": "Associate Software Engineer",
+  "location": "Remote in USA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-916896",
+  "date_posted": "2026-10-26T00:00:00+00:00",
+  "date_found": "2026-10-26T07:03:23.558000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Northrop Grumman",
   "title": "2027 Associate Embedded Software Engineer - Morrisville NC",
   "location": "United States-North Carolina-Morrisville",
@@ -6689,22 +6786,6 @@
   "advanced_degree": false
  },
  {
-  "company": "AbbVie",
-  "title": "Associate Cloud Engineer I",
-  "location": "North Chicago",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016215066",
-  "date_posted": "2026-10-19T04:31:33.166000+00:00",
-  "date_found": "2026-10-19T04:57:24.905000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Citi",
   "title": "Angular Developer / Frontend Engineer (Entry-Level)",
   "location": "Irving, TX",
@@ -7004,38 +7085,6 @@
   "url": "https://careers.vtgdefense.com/jobs/9669?icims=1",
   "date_posted": "2026-10-18T22:06:47+00:00",
   "date_found": "2026-10-18T22:56:26.622000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Hewlett Packard Enterprise",
-  "title": "VLSI Engineer I -",
-  "location": "Roseville, CA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985-1",
-  "date_posted": "2026-10-18T00:00:00+00:00",
-  "date_found": "2026-10-19T01:56:53.512000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Hewlett Packard Enterprise",
-  "title": "VLSI Engineer I -",
-  "location": "Roseville, CA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985",
-  "date_posted": "2026-10-18T00:00:00+00:00",
-  "date_found": "2026-10-19T01:56:53.512000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,

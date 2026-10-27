@@ -2,12 +2,13 @@
 
 # 🎨 Design new grad and entry-level roles
 
-All 31 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
+All 32 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=stvinc.com" width="20" height="20" align="absmiddle">&nbsp; **Stvinc** | Architectural Designer 1 ✨ 🛂 | Vermont Avenue, Washington, DC<br><sub>$63,557–&#8288;$72,223/yr</sub> | Oct&nbsp;26 | <a href="https://stvinc.wd5.myworkdayjobs.com/stv/job/Vermont-Avenue-Washington-District-of-Columbia/Architectural-Designer-1_JR6445"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=arcteryx.com" width="20" height="20" align="absmiddle">&nbsp; **Arc&#x27;teryx Equipment** | Colour Designer 1, Footwear ✨ | Portland,&nbsp;OR<br><sub>$70k–&#8288;$92k/yr</sub> | Oct&nbsp;23<br><sub>⚡&nbsp;35m</sub> | <a href="https://jobs.lever.co/arcteryx.com/d13eb8f4-c1a1-42a5-b27c-6326ac92a8a5"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=newbalance.com" width="20" height="20" align="absmiddle">&nbsp; **New&nbsp;Balance** | Footwear Color Designer I ✨ | Lawrence, MA Corp<br><sub>$86,800–&#8288;$112k/yr</sub> | Oct&nbsp;23 | <a href="https://newbalance.wd1.myworkdayjobs.com/careers/job/Lawrence-MA-Corp/Footwear-Color-Designer-I_R41517"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=kci.com" width="20" height="20" align="absmiddle">&nbsp; **KCI&nbsp;Technologies** | Distribution Engineering Designer I ✨ | - | Oct&nbsp;22 | <a href="https://careers-kci.icims.com/jobs/8207/distribution-engineering-designer-i/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
