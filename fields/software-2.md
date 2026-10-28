@@ -10,7 +10,6 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=klarity.ai" width="20" height="20" align="absmiddle">&nbsp; **Klarity** | AI Backend Engineer | SF<br><sub>-</sub> | Jun&nbsp;24 | <a href="https://jobs.ashbyhq.com/klarity-ai/99de9d9b-d0c6-42a6-9e4d-2df097dae008/application"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=agiledefense.com" width="20" height="20" align="absmiddle">&nbsp; **Agile&nbsp;Defense** | Software Developer 1 | Aberdeen,&nbsp;MD<br><sub>$95k/yr</sub> | Jun&nbsp;23 | <a href="https://jobs.lever.co/agile-defense/4d5254dd-8366-4983-9156-a7f989fea964/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=solerity.com" width="20" height="20" align="absmiddle">&nbsp; **Solerity** | JavaScript Software Engineer 1 - TS/SCI with Poly | Fort&nbsp;Meade,&nbsp;MD<br><sub>-</sub> | Jun&nbsp;22 | <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | JavaScript Developer Software Engineer 1 | Fort&nbsp;Meade,&nbsp;MD<br><sub>-</sub> | Jun&nbsp;22 | <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272488"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

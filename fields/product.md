@@ -2,12 +2,13 @@
 
 # 📱 Product new grad and entry-level roles
 
-All 101 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
+All 102 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=bcbsm.com" width="20" height="20" align="absmiddle">&nbsp; **Blue Cross Blue Shield of Michigan** | Associate Product Owner - Provider ✨ | Detroit,&nbsp;MI<br><sub>-</sub> | Oct&nbsp;27 | <a href="https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15029"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=mastercard.com" width="20" height="20" align="absmiddle">&nbsp; **Mastercard** | Associate Product Specialist, Product Management ✨ | O&#x27;Fallon, MO<br><sub>$67k–&#8288;$111k/yr</sub> | Oct&nbsp;26 | <a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Associate-Product-Specialist--Product-Management_R-293774"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=kissusa.com" width="20" height="20" align="absmiddle">&nbsp; **Kissusa** | Product Associate Product Development/Management ✨ | USA, NY, Port Washington, HQ<br><sub>-</sub> | Oct&nbsp;26 | <a href="https://kissusa.wd12.myworkdayjobs.com/KISS_Careers_External/job/USA-NY-Port-Washington-HQ/Product-Associate-Product-Development-Management_R4320"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Product Manager New Grad - Platform Trust and Ecosystem 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$122,574–&#8288;$223,200/yr</sub> | Oct&nbsp;26 | <a href="https://lifeattiktok.com/search/7680761598014015797"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
