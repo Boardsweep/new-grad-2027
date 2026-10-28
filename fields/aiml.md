@@ -2,12 +2,13 @@
 
 # 🤖 AI, ML and data new grad and entry-level roles
 
-All 756 open ai, ml and data new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_aiml).
+All 757 open ai, ml and data new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_aiml), or [get them by email, free](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_aiml).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=homedepot.com" width="20" height="20" align="absmiddle">&nbsp; **Home&nbsp;Depot** | Associate Data Scientist, Merchandise Execution Team (MET) ✨ | STORE SUPPORT CENTER, ATLANTA - 9090<br><sub>-</sub> | Oct&nbsp;27 | <a href="https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist--Merchandise-Execution-Team--MET-_Req197209"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=atlassian.com" width="20" height="20" align="absmiddle">&nbsp; **Atlassian** | AI Researcher, 2027 Graduate U.S. 🔥 ✨ 🎓 | San Francisco, CA<br><sub>$178,200–&#8288;$232,650/yr</sub> | Oct&nbsp;26 | <a href="https://campus-americas.icims.com/jobs/26246/ai-researcher%2c-2027-graduate-u.s./job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=fnal.gov" width="20" height="20" align="absmiddle">&nbsp; **Fermilab** | Artificial Intelligence Associate | Batavia,&nbsp;IL<br><sub>$70,800–&#8288;$93,200/yr</sub> | Oct&nbsp;26 | <a href="https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/AI-Associates_R_009869"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=internetbrands.com" width="20" height="20" align="absmiddle">&nbsp; **Internet&nbsp;Brands** | Associate AI Research &amp; Operations Analyst | El&nbsp;Segundo,&nbsp;CA<br><sub>$60k/yr</sub> | Oct&nbsp;26 | <a href="https://jobs.jobvite.com/internetbrands/job/oChZAfwc?nl=1&amp;nl=1&amp;fr=false"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

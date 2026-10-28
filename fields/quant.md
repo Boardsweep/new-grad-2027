@@ -2,12 +2,13 @@
 
 # 📈 Quant new grad and entry-level roles
 
-All 84 open quant new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant).
+All 85 open quant new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=aerospace.org" width="20" height="20" align="absmiddle">&nbsp; **The Aerospace Corporation** | 2027 Quantum Photonics Scientist - Engineer I ✨ 🛂 | El&nbsp;Segundo,&nbsp;CA<br><sub>$110,400–&#8288;$165,500/yr</sub> | Oct&nbsp;27 | <a href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Quantum-Photonics-Scientist---Engineer-I_R016929"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Aquatic Capital Management** | Software Engineer, Early Career | 2&nbsp;locations<br><sub>$150k–&#8288;$200k/yr</sub> | Oct&nbsp;26 | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=bankofamerica.com" width="20" height="20" align="absmiddle">&nbsp; **Bank&nbsp;of&nbsp;America** | Client Quantitative Analyst I ✨ | 4&nbsp;Locations<br><sub>-</sub> | Oct&nbsp;23 | <a href="https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Client-Quantitative-Analyst-I_26034513-2"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=key.com" width="20" height="20" align="absmiddle">&nbsp; **KeyBank** | Quant Analytics Associate | Cleveland,&nbsp;OH<br><sub>$69k–&#8288;$105k/yr</sub> | Oct&nbsp;23 | <a href="https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Quant-Analytics-Associate_R-42718"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

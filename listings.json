@@ -16,6 +16,102 @@
   "advanced_degree": false
  },
  {
+  "company": "Duke Energy",
+  "title": "Electrical Engineer I OR Electrical Engineer II (Nuclear)",
+  "location": "Huntersville, NC",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Huntersville-NC/Electrical-Engineer-I-OR-Electrical-Engineer-II--Nuclear-_R42175-1",
+  "date_posted": "2026-10-27T04:42:54.839000+00:00",
+  "date_found": "2026-10-27T04:59:49.965000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Light & Wonder",
+  "title": "Associate QA Engineer, Software",
+  "location": "Chicago, IL",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Chicago-IL/Associate-QA-Engineer--Software_R323051",
+  "date_posted": "2026-10-27T02:56:34.559000+00:00",
+  "date_found": "2026-10-27T03:01:58.055000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Home Depot",
+  "title": "Associate Data Scientist, Merchandise Execution Team (MET)",
+  "location": "STORE SUPPORT CENTER, ATLANTA - 9090",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist--Merchandise-Execution-Team--MET-_Req197209",
+  "date_posted": "2026-10-27T02:45:17.351000+00:00",
+  "date_found": "2026-10-27T03:01:58.055000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Cadmus Group",
+  "title": "Jr. Full Stack Developer",
+  "location": "",
+  "pay": "$80k–$100k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers-cadmusgroup.icims.com/jobs/3254/jr.-full-stack-developer/job",
+  "date_posted": null,
+  "date_found": "2026-10-27T01:58:01.191000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "U-Haul",
+  "title": "Software Developer - Junior",
+  "location": "Phoenix, AZ",
+  "pay": "$60k–$90k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Developer_R256644",
+  "date_posted": "2026-10-27T01:54:55.710000+00:00",
+  "date_found": "2026-10-27T01:58:01.191000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "The Aerospace Corporation",
+  "title": "2027 Quantum Photonics Scientist - Engineer I",
+  "location": "El Segundo, CA",
+  "pay": "$110,400–$165,500/yr",
+  "tracks": [
+   "quant"
+  ],
+  "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Quantum-Photonics-Scientist---Engineer-I_R016929",
+  "date_posted": "2026-10-27T01:40:31.771000+00:00",
+  "date_found": "2026-10-27T01:58:01.191000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "General Dynamics Mission Systems",
   "title": "Systems Test Engineer – Entry Level",
   "location": "",
@@ -6368,38 +6464,6 @@
   "advanced_degree": false
  },
  {
-  "company": "YouTube",
-  "title": "Global Product Activation Associate, Subscriptions, YouTube",
-  "location": "2 locations",
-  "pay": "$100k–$141k/yr",
-  "tracks": [
-   "product"
-  ],
-  "url": "https://www.google.com/about/careers/applications/jobs/results/133918900872979142",
-  "date_posted": "2026-10-20T07:12:37+00:00",
-  "date_found": "2026-10-20T07:14:05.200000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Raymond James Financial",
-  "title": "Junior Cyber Threat Analyst",
-  "location": "",
-  "pay": null,
-  "tracks": [
-   "security"
-  ],
-  "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Junior-Cyber-Threat-Analyst_R-0013497-1",
-  "date_posted": "2026-10-20T05:55:59.081000+00:00",
-  "date_found": "2026-10-20T06:01:40.115000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Johnson Controls",
   "title": "BEST Technical Sales Trainee - Equipment - Boston, MA",
   "location": "Lynnfield-Massachusetts-United States of Ame",
@@ -6410,22 +6474,6 @@
   "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Lynnfield-Massachusetts-United-States-of-America/BEST-Technical-Sales-Trainee---Equipment---Boston--MA_EB000753423-1",
   "date_posted": "2026-10-20T04:53:11.539000+00:00",
   "date_found": "2026-10-22T04:57:44.945000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Jobgether",
-  "title": "Systems Engineer I",
-  "location": "US",
-  "pay": "$80k–$100k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.lever.co/jobgether/e99063ae-38c8-4a4f-b7b7-22146edfd776",
-  "date_posted": "2026-10-20T04:19:35.594000+00:00",
-  "date_found": "2026-10-20T05:07:06.301000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
