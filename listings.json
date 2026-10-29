@@ -1,5 +1,86 @@
 [
  {
+  "company": "StarTree",
+  "title": "Software Engineer I",
+  "location": "US",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/startree/jobs/6235909004",
+  "date_posted": "2026-10-28T05:30:13+00:00",
+  "date_found": "2026-10-28T06:03:31.314000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Nuvacore",
+  "title": "CPU Design & Verification Engineer",
+  "location": "3 locations",
+  "pay": "$140k–$200k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.lever.co/nuvacore/0fa8362f-cff1-408b-a55f-18725dc311a1/apply",
+  "date_posted": "2026-10-28T01:41:40+00:00",
+  "date_found": "2026-10-28T02:58:38.962000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Relativity Space",
+  "title": "GNC Performance Engineer I",
+  "location": "Long Beach, CA",
+  "pay": "$106k–$160k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://boards.greenhouse.io/relativity/jobs/8920809002?gh_jid=8920809002",
+  "date_posted": "2026-10-28T01:24:10+00:00",
+  "date_found": "2026-10-28T02:00:48.309000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "onsemi",
+  "title": "AI Engineer",
+  "location": "Scottsdale, AZ",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506767",
+  "date_posted": "2026-10-28T01:07:54+00:00",
+  "date_found": "2026-10-28T02:00:48.309000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Humble Robotics",
+  "title": "Autonomy Engineer - Data",
+  "location": "SF",
+  "pay": null,
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://jobs.lever.co/humble-robotics/93ca2ae3-c549-402f-b6a6-ff0b84f554f9/apply",
+  "date_posted": "2026-10-28T01:06:46+00:00",
+  "date_found": "2026-10-28T02:00:48.309000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Northrop Grumman",
   "title": "2027 Associate Pathways Electronics Engineer / Pathways Electronics Engineer - Linthicum MD",
   "location": "United States-Maryland-Baltimore",
@@ -236,6 +317,87 @@
   "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR103439",
   "date_posted": "2026-10-27T21:53:22.610000+00:00",
   "date_found": "2026-10-27T21:58:58.875000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Engineer II, Software Test and Automation (R6221) - New Grad",
+  "location": "Washington, D.C.",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6daa027a-903b-43d5-9ad7-14c09f2928d4",
+  "date_posted": "2026-10-27T21:32:26.431000+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Engineer II, Integration (R6202) - New Grad",
+  "location": "Washington, D.C.",
+  "pay": null,
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/1ecb2a62-28a4-405b-86cd-7a889996e989",
+  "date_posted": "2026-10-27T21:32:09.630000+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Engineer II, Flight Test (R6222) - New Grad",
+  "location": "San Diego, CA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/32d8f4a9-ec01-444d-8986-cbd1ab831b1b",
+  "date_posted": "2026-10-27T21:31:37.837000+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Engineer I, Software Test and Automation (R6216) - New Grad",
+  "location": "Washington, D.C.",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/3fe76139-6112-4ff1-a337-5034dcd45942",
+  "date_posted": "2026-10-27T21:31:23.109000+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Engineer I, Flight Test (R6219) - New Grad",
+  "location": "San Diego, CA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/be1430ea-f612-4271-ae5b-29e653b043b6",
+  "date_posted": "2026-10-27T21:31:01.270000+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -494,6 +656,38 @@
   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Radar-Systems-Engineer-I_01874482",
   "date_posted": "2026-10-27T19:18:33.388000+00:00",
   "date_found": "2026-10-28T00:24:29.407000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "RTX",
+  "title": "Sr Systems Engineer – Integration and Test",
+  "location": "Aurora, CO",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Sr-Systems-Engineer---Integration-and-Test_01885198",
+  "date_posted": "2026-10-27T19:18:31.305000+00:00",
+  "date_found": "2026-10-28T04:00:47.360000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "RTX",
+  "title": "Software Security Engineer - II, Onsite",
+  "location": "Goleta, CA",
+  "pay": null,
+  "tracks": [
+   "security"
+  ],
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H03--6380-Hollister-Ave--BLDG-H03/Software-Security-Engineer---II--Onsite_01876900",
+  "date_posted": "2026-10-27T19:18:31.305000+00:00",
+  "date_found": "2026-10-28T02:58:38.962000+00:00",
   "top_company": false,
   "no_sponsorship": true,
   "citizenship_required": false,
@@ -932,6 +1126,22 @@
   "advanced_degree": false
  },
  {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "EWIS Harness Design - Engineer I",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a0ea5b02-79ed-48e8-b2a6-e31443dd5411",
+  "date_posted": "2026-10-27T10:48:27.927000+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "RTX",
   "title": "Flight Control Software Engineer I (Onsite)",
   "location": "Cedar Rapids, IA",
@@ -1102,6 +1312,70 @@
   "url": "https://jobs.smartrecruiters.com/LLNL/3743990016422126",
   "date_posted": "2026-10-27T00:00:18+00:00",
   "date_found": "2026-10-27T01:58:01.191000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Engineer II, Software - Factory (R6217) - New Grad",
+  "location": "Washington, D.C.",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86",
+  "date_posted": "2026-10-27T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Software Development Engineer - New Graduate",
+  "location": "San Diego, CA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606",
+  "date_posted": "2026-10-27T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Engineer I, Software Integration (R6214) - New Grad",
+  "location": "Washington, D.C.",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252",
+  "date_posted": "2026-10-27T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Electrical Engineer I - New Grad",
+  "location": "Dallas, TX",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/b2660259-a5db-4530-95e6-20e48a41068d",
+  "date_posted": "2026-10-27T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -3618,6 +3892,22 @@
   "date_found": "2026-10-23T00:02:11.982000+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Software Engineer New Grad",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
+  "date_posted": "2026-10-23T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -6635,54 +6925,6 @@
   "advanced_degree": false
  },
  {
-  "company": "RTX",
-  "title": "Systems Engineer I - Electronic Warfare",
-  "location": "Goleta, CA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Systems-Engineer-I---Electronic-Warfare_01852305",
-  "date_posted": "2026-10-21T05:33:42.884000+00:00",
-  "date_found": "2026-10-21T05:34:42.225000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Northrop Grumman",
-  "title": "Associate Software Engineer",
-  "location": "United States-Nebraska-Bellevue",
-  "pay": "$65,800–$98,800/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006",
-  "date_posted": "2026-10-21T04:09:15.669000+00:00",
-  "date_found": "2026-10-21T04:10:30.475000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Amentum",
-  "title": "Jr. Systems Administrator",
-  "location": "Waimea, HI",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-HI-Waimea/Jr-Systems-Administrator_R0173352",
-  "date_posted": "2026-10-21T02:53:11.213000+00:00",
-  "date_found": "2026-10-21T02:57:05.930000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "KBR",
   "title": "Associate Designer - Electrical",
   "location": "Circleville, OH",
@@ -6694,22 +6936,6 @@
   "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Circleville-Ohio/Associate-Designer---Electrical_R2128818",
   "date_posted": "2026-10-21T02:44:39.442000+00:00",
   "date_found": "2026-10-22T02:57:17.265000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Wellmark",
-  "title": "Data Wrangler",
-  "location": "Des Moines, IA",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156421724",
-  "date_posted": "2026-10-21T01:43:27+00:00",
-  "date_found": "2026-10-21T02:57:05.930000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -6765,23 +6991,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Renesas Electronics",
-  "title": "Application Engineer",
-  "location": "San Jose, CA",
-  "pay": "$98,500–$123,100/yr",
-  "tracks": [
-   "hardware",
-   "software"
-  ],
-  "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000156404329",
-  "date_posted": "2026-10-21T01:11:48+00:00",
-  "date_found": "2026-10-21T02:06:31.908000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "RoboForce",
   "title": "AI Resident",
   "location": "Milpitas, CA",
@@ -6793,6 +7002,70 @@
   "date_posted": "2026-10-21T01:04:08+00:00",
   "date_found": "2026-10-21T02:06:31.908000+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Electrical Engineer 1 New Grad",
+  "location": "Boston, MA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/4abd60c3-04fa-4168-bed7-bc63707e1d0a/application?embed=true",
+  "date_posted": "2026-10-21T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Electrical Engineer New Grad",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/88fb99dc-26b8-4937-92a9-b8d13ce4e0f0/application?embed=true",
+  "date_posted": "2026-10-21T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Engineer 1 New Grad - Electrical Integration & Test",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/278bdf33-85f0-49ab-a448-567e7e362ca2/application?embed=true",
+  "date_posted": "2026-10-21T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "PCB Designer New Grad",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7/application?embed=true",
+  "date_posted": "2026-10-21T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -8555,22 +8828,6 @@
   "date_posted": "2026-10-15T06:45:53+00:00",
   "date_found": "2026-10-15T06:52:03.818000+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "ABB",
-  "title": "Associate Designer",
-  "location": "USA, NC, Mebane",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Associate-Designer_JR00049480",
-  "date_posted": "2026-10-15T02:41:15.431000+00:00",
-  "date_found": "2026-10-22T02:57:17.265000+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false

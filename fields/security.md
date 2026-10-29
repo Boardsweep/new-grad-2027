@@ -2,12 +2,13 @@
 
 # 🛡️ Security new grad and entry-level roles
 
-All 36 open security new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security), or [get them by email, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security).
+All 37 open security new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security), or [get them by email, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=rtx.com" width="20" height="20" align="absmiddle">&nbsp; **RTX** | Software Security Engineer - II, Onsite ✨ 🛂 | Goleta,&nbsp;CA<br><sub>-</sub> | Oct&nbsp;27 | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H03--6380-Hollister-Ave--BLDG-H03/Software-Security-Engineer---II--Onsite_01876900"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=amentum.com" width="20" height="20" align="absmiddle">&nbsp; **Amentum** | Jr. Cyber Defense Analyst MDX - SSFB/HSV ✨ | 2&nbsp;Locations<br><sub>-</sub> | Oct&nbsp;27 | <a href="https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-CO-Colorado-Springs/Jr-Cyber-Defense-Analyst-MDX---SSFB-HSV_R0174104"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=jhuapl.edu" width="20" height="20" align="absmiddle">&nbsp; **Johns&nbsp;Hopkins&nbsp;APL** | 2027 Graduate – Cybersecurity Engineer - Critical Infrastructure Protection ✨ | Laurel,&nbsp;MD<br><sub>$85k/yr</sub> | Oct&nbsp;27 | <a href="https://careers.jhuapl.edu/jobs/60384"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=securitas.com" width="20" height="20" align="absmiddle">&nbsp; **Securitas** | Entry Level Security Officer - Part Time ✨ | Waynesboro,&nbsp;VA<br><sub>$18–&#8288;$19.50/hr</sub> | Oct&nbsp;27 | <a href="https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/176399"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
