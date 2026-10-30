@@ -2,12 +2,13 @@
 
 # 📈 Quant new grad and entry-level roles
 
-All 91 open quant new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant).
+All 92 open quant new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=glencore.com" width="20" height="20" align="absmiddle">&nbsp; **Glencore** | Junior Trade Analyst ✨ | New&nbsp;York<br><sub>$75k–&#8288;$95k/yr</sub> | Oct&nbsp;29 | <a href="https://glencorecorp.wd3.myworkdayjobs.com/External/job/New-York/Junior-Trade-Analyst_R200001843"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=akunacapital.com" width="20" height="20" align="absmiddle">&nbsp; **Akuna&nbsp;Capital** | Junior Trader, 2027 &#124; Carnegie Mellon University 🔥 | Chicago<br><sub>$145k/yr</sub> | Oct&nbsp;29 | <a href="https://job-boards.greenhouse.io/akunacapitaloci/jobs/8059752"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=pentagroup.com" width="20" height="20" align="absmiddle">&nbsp; **Penta&nbsp;Group** | Quantitative Research Associate | Washington,&nbsp;D.C.<br><sub>$67k–&#8288;$77k/yr</sub> | Oct&nbsp;28 | <a href="https://jobs.lever.co/pentagrp/32e124e9-1980-452e-9e03-6e98ccf094a9"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=oldmissioncapital.com" width="20" height="20" align="absmiddle">&nbsp; **Old Mission Capital** | Junior Quantitative Trader (Asian Market Hours) 🔥 | Chicago,&nbsp;IL<br><sub>$125k–&#8288;$150k/yr</sub> | Oct&nbsp;28 | <a href="https://jobs.ashbyhq.com/old-mission-capital/35d81ba6-a441-4362-8bd7-ecf750c5b00d"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
