@@ -1,5 +1,70 @@
 [
  {
+  "company": "Northrop Grumman",
+  "title": "2027 Associate Embedded Software Engineer Beavercreek Ohio",
+  "location": "United States-Ohio-Beavercreek",
+  "pay": "$69,300–$103,900/yr",
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Associate-Embedded-Software-Engineer-Beavercreek-Ohio_R10256623",
+  "date_posted": "2026-10-29T13:12:37.241000+00:00",
+  "date_found": "2026-10-29T13:13:34.816000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Akuna Capital",
+  "title": "Junior Trader, 2027 | Carnegie Mellon University",
+  "location": "Chicago",
+  "pay": "$145k/yr",
+  "tracks": [
+   "quant"
+  ],
+  "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8059752",
+  "date_posted": null,
+  "date_found": "2026-10-29T11:52:07.233196+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Uline",
+  "title": "Associate Product Quality Analyst",
+  "location": "5 Locations",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Product-Quality-Analyst_R268780-1",
+  "date_posted": "2026-10-29T08:48:17.079000+00:00",
+  "date_found": "2026-10-29T08:58:08.911000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Jobgether",
+  "title": "Junior SAP ABAP Developer",
+  "location": "US",
+  "pay": "$63,500–$105,900/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/jobgether/7a7db648-9786-4d91-b6f5-cf2074823311",
+  "date_posted": "2026-10-29T08:27:40.809000+00:00",
+  "date_found": "2026-10-29T07:58:00.561000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "American Fidelity",
   "title": "Actuarial Analytics Support Analyst I",
   "location": "Oklahoma City, OK",
@@ -175,6 +240,71 @@
   "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
+ },
+ {
+  "company": "KLA Corporation",
+  "title": "System Software Engineer - Distributed Computing",
+  "location": "Milpitas, CA",
+  "pay": "$114,800–$195,200/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720-1",
+  "date_posted": "2026-10-29T00:00:00+00:00",
+  "date_found": "2026-10-29T12:59:28.682000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TSC",
+  "title": "Software Engineer I",
+  "location": "Plymouth, MA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890",
+  "date_posted": "2026-10-29T00:00:00+00:00",
+  "date_found": "2026-10-29T12:59:28.682000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "RTX",
+  "title": "Software Security Engineer I",
+  "location": "El Segundo, CA",
+  "pay": null,
+  "tracks": [
+   "software",
+   "security"
+  ],
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443",
+  "date_posted": "2026-10-29T00:00:00+00:00",
+  "date_found": "2026-10-29T12:55:21.806000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "KLA",
+  "title": "System Software Engineer - Distributed Computing",
+  "location": "Milpitas, CA",
+  "pay": "$114,800–$195,200/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720",
+  "date_posted": "2026-10-29T00:00:00+00:00",
+  "date_found": "2026-10-29T10:59:10.885000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
  },
  {
   "company": "Montenson",
@@ -366,22 +496,6 @@
   "date_found": "2026-10-28T22:01:56.827000+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Iowa State University",
-  "title": "Data Analyst I",
-  "location": "Ames, IA",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Data-Analyst-I_R20155",
-  "date_posted": "2026-10-28T21:55:59.807000+00:00",
-  "date_found": "2026-10-28T22:01:56.827000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -1769,6 +1883,22 @@
   "date_found": "2026-10-28T22:58:34.872000+00:00",
   "top_company": false,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Iowa State University",
+  "title": "Data Analyst I",
+  "location": "Ames, IA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Data-Analyst-I_R20155",
+  "date_posted": "2026-10-28T00:00:00+00:00",
+  "date_found": "2026-10-28T22:01:56.827000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -6892,119 +7022,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Eversource Energy",
-  "title": "Distribution Design Associate Engineer - Hartford, CT",
-  "location": "Hartford, CT",
-  "pay": "$82k–$88k/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Distribution-Design-Associate-Engineer---Hartford--CT_R-032322",
-  "date_posted": "2026-10-22T12:43:20.930000+00:00",
-  "date_found": "2026-10-22T12:59:31.945000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Sierra Space",
-  "title": "Systems Engineer I - Velocity Satellite Ground Systems",
-  "location": "2 Locations",
-  "pay": "$77,685–$106,816.50/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Systems-Engineer-I---Velocity-Satellite-Ground-Systems_R26457-1",
-  "date_posted": "2026-10-22T12:21:15.531000+00:00",
-  "date_found": "2026-10-22T12:22:55.387000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Jobgether",
-  "title": "Junior Software Engineer (React)",
-  "location": "US",
-  "pay": "$75k–$95k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.lever.co/jobgether/a306ed52-5f83-4956-a5a2-97a76d91a560",
-  "date_posted": "2026-10-22T10:49:28.811000+00:00",
-  "date_found": "2026-10-22T10:15:54.924000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Jobgether",
-  "title": "Junior Software Engineer (SQL)",
-  "location": "US",
-  "pay": "$75k–$95k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.lever.co/jobgether/c867873f-ffca-4e96-912f-a2922a1cecf3",
-  "date_posted": "2026-10-22T10:48:05.705000+00:00",
-  "date_found": "2026-10-22T10:15:54.924000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "TD Synnex",
-  "title": "Associate Software Asset Management Analyst",
-  "location": "2 Locations",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/Associate-Software-Asset-Management-Analyst_R57422",
-  "date_posted": "2026-10-22T10:05:38.737000+00:00",
-  "date_found": "2026-10-22T10:15:54.924000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Sargent & Lundy",
-  "title": "Electrical Engineer 1 (Entry Level) Nuclear (Summer 2027)",
-  "location": "",
-  "pay": "$62,998–$90,586/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://careers-sargentlundy.icims.com/jobs/28149/electrical-engineer-1-%28entry-level%29---nuclear-%28summer-2027%29/job",
-  "date_posted": null,
-  "date_found": "2026-10-22T08:57:40.917000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Google",
-  "title": "UX Engineer, HUE Futures",
-  "location": "San Francisco, CA",
-  "pay": "$109k–$155k/yr",
-  "tracks": [
-   "software",
-   "design"
-  ],
-  "url": "https://www.google.com/about/careers/applications/jobs/results/131685895836181190",
-  "date_posted": "2026-10-22T08:09:55+00:00",
-  "date_found": "2026-10-22T08:10:50.469000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Amazon",
   "title": "Robotics Embedded Software Development Engineer",
   "location": "2 locations",
@@ -7700,23 +7717,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Provectus",
-  "title": "Associate Forward Deployed Engineer",
-  "location": "NYC",
-  "pay": "$120k–$145k/yr",
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://jobs.lever.co/provectus/62394851-693e-47fe-a86c-f8d9acf43ec2",
-  "date_posted": "2026-10-21T10:21:11.701000+00:00",
-  "date_found": "2026-10-21T15:04:06.306000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Mach9",
   "title": "Software Engineer - 3D Graphics",
   "location": "SF",
@@ -8137,22 +8137,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Microsoft",
-  "title": "Software Engineering IC2",
-  "location": "Redmond, WA",
-  "pay": "$85,400–$168,100/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557043616",
-  "date_posted": "2026-10-20T21:35:00+00:00",
-  "date_found": "2026-10-20T21:46:42.416000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "RELX",
   "title": "Software Management Analyst I",
   "location": "2 Locations",
@@ -8229,38 +8213,6 @@
   "date_found": "2026-09-09T00:00:00+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Entegris",
-  "title": "Scientist I, Analytics & Metrology",
-  "location": "San Luis Obispo, CA",
-  "pay": "$75k–$80k/yr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Scientist-I--Analytics---Metrology_REQ-15350",
-  "date_posted": "2026-10-20T08:43:03.647000+00:00",
-  "date_found": "2026-10-22T08:57:40.917000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Northrop Grumman",
-  "title": "2027 Associate Systems Engineer - Woodland Hills CA",
-  "location": "United States-California-Woodland Hills",
-  "pay": "$76,200–$114,400/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2027-Associate-Systems-Engineer---Woodland-Hills-CA_R10254664",
-  "date_posted": "2026-10-20T08:01:03.368000+00:00",
-  "date_found": "2026-10-22T08:02:07.357000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -8443,23 +8395,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Leidos",
-  "title": "Research Scientist",
-  "location": "Huntsville, AL",
-  "pay": "$57,850–$104,575/yr",
-  "tracks": [
-   "aiml",
-   "software"
-  ],
-  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Research-Scientist_R-00194936",
-  "date_posted": "2026-10-20T00:00:00+00:00",
-  "date_found": "2026-10-20T15:03:07.412000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": true
- },
- {
   "company": "Texas A&M University System",
   "title": "Programmer I",
   "location": "Laredo, TX",
@@ -8508,22 +8443,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Electronic Arts",
-  "title": "Software Engineer 1",
-  "location": "Orlando, FL",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/216357",
-  "date_posted": "2026-10-19T22:43:20+00:00",
-  "date_found": "2026-10-20T00:04:37.571000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "SpaceX",
   "title": "New Graduate Engineer, Electrical (Starshield)",
   "location": "Hawthorne, CA",
@@ -8535,23 +8454,6 @@
   "date_posted": "2026-10-19T22:41:10+00:00",
   "date_found": "2026-10-19T22:46:39.350000+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "NRG Energy",
-  "title": "Data Science Analyst - Agentic AI Developer",
-  "location": "2 locations",
-  "pay": "$65k–$75k/yr",
-  "tracks": [
-   "aiml",
-   "software"
-  ],
-  "url": "https://careers.nrgenergy.com/nrg/job/Houston-Data-Science-Analyst-Agentic-AI-Developer-TX-77010/1441481900/?ats=successfactors",
-  "date_posted": "2026-10-19T22:35:16+00:00",
-  "date_found": "2026-10-20T00:04:37.571000+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -9043,6 +8945,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Citi",
+  "title": "Python Developer",
+  "location": "New York New York United States",
+  "pay": "$95,770–$133,630/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Python-Developer_261002498-1",
+  "date_posted": "2026-10-16T00:00:00+00:00",
+  "date_found": "2026-10-18T18:50:15.794603+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Brown & Brown Insurance",
   "title": "Software Engineer",
   "location": "Olivette, MO",
@@ -9087,23 +9005,6 @@
   "date_found": "2026-10-16T23:57:27.615000+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Mastercard",
-  "title": "AI Engineer I, Launch Program 2027 – St. Louis, MO, US",
-  "location": "O'Fallon, MO",
-  "pay": "$100k/yr",
-  "tracks": [
-   "aiml",
-   "software"
-  ],
-  "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/AI-Engineer-I--Launch-Program-2027---St-Louis--MO--US_R-284852",
-  "date_posted": "2026-10-16T00:00:00+00:00",
-  "date_found": "2026-10-16T19:00:59.937000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -10318,23 +10219,6 @@
   "advanced_degree": false
  },
  {
-  "company": "TMEIC",
-  "title": "Associate Software Developer - AI (EE26117)",
-  "location": "Houston, TX",
-  "pay": null,
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://apply.workable.com/tmeic-corporation-americas/j/C4B8B72648/",
-  "date_posted": "2026-10-13T00:00:00+00:00",
-  "date_found": "2026-10-13T19:03:58.809000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Draper",
   "title": "Integration and Test Engineer",
   "location": "Cambridge, MA",
@@ -10930,22 +10814,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Circle Logistics",
-  "title": "Entry Level Data Engineer",
-  "location": "Fort Wayne, IN",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.smartrecruiters.com/CircleLogistics1/3743990016023696",
-  "date_posted": "2026-10-09T16:37:24.072000+00:00",
-  "date_found": "2026-10-09T22:51:45.674000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Anduril",
   "title": "2027 Early Career Systems Engineer",
   "location": "8 locations",
@@ -11506,22 +11374,6 @@
   "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/7540-Metropolitan-Dr-San-Diego-CA/Software-Engineer--Apps---I_8655",
   "date_posted": "2026-10-08T00:00:00+00:00",
   "date_found": "2026-10-09T01:53:41.760000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Leidos",
-  "title": "Entry-Level Electrical Hardware Design Engineer",
-  "location": "Huntsville, AL",
-  "pay": "$57,850–$104,575/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Electrical-Hardware-Design-Engineer_R-00194096",
-  "date_posted": "2026-10-08T00:00:00+00:00",
-  "date_found": "2026-10-08T23:53:26.958000+00:00",
   "top_company": false,
   "no_sponsorship": true,
   "citizenship_required": false,
@@ -12094,22 +11946,6 @@
  },
  {
   "company": "RTX",
-  "title": "Production Support Engineer I - Onsite",
-  "location": "Plano, TX",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Production-Support-Engineer-I---Onsite_01876984",
-  "date_posted": "2026-10-07T00:00:00+00:00",
-  "date_found": "2026-10-07T16:04:23.221000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
   "title": "Embedded Software Developer I  (Onsite)",
   "location": "El Segundo, CA",
   "pay": null,
@@ -12446,6 +12282,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Omen AI",
+  "title": "GTM Wizard",
+  "location": "SF",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://www.omen.ai/careers?gh_jid=4435132009",
+  "date_posted": "2026-10-06T15:44:27+00:00",
+  "date_found": "2026-10-06T15:44:27+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "RTX",
   "title": "Software Engineer I - Test",
   "location": "Tucson, AZ",
@@ -12621,22 +12473,6 @@
   "date_found": "2026-10-06T06:53:58.402000+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "SAIC",
-  "title": "Junior Hardware Engineer",
-  "location": "Huntsville, AL",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2617221",
-  "date_posted": "2026-10-06T06:16:55+00:00",
-  "date_found": "2026-10-06T06:53:58.402000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -13188,22 +13024,6 @@
   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/COBOL-Software-Developer_R_14568",
   "date_posted": "2026-10-05T00:00:00+00:00",
   "date_found": "2026-10-05T23:49:23.031000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Mastercard",
-  "title": "Software Engineer I",
-  "location": "O'Fallon, MO",
-  "pay": "$72k–$115k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661",
-  "date_posted": "2026-10-05T00:00:00+00:00",
-  "date_found": "2026-10-05T21:48:21.192000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -13906,6 +13726,22 @@
   "advanced_degree": false
  },
  {
+  "company": "PPG Industries",
+  "title": "Operations Analytics Specialist",
+  "location": "Delaware, OH",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/USA---Delaware-Plant/Manufacturing-Data-Analyst_JR2611628",
+  "date_posted": "2026-10-01T00:00:00+00:00",
+  "date_found": "2026-10-01T00:00:00+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Astranis",
   "title": "Radiation Effects Associate Engineer (Winter 2027)",
   "location": "San Francisco",
@@ -14336,22 +14172,6 @@
   "url": "https://careers.capgemini.com/job/Pittsburg-Associate-Data-Engineer-AR/1442511233/?ats=successfactors",
   "date_posted": "2026-09-29T22:19:08+00:00",
   "date_found": "2026-09-29T23:48:13.886000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Formlabs",
-  "title": "R&D Reliability/Test Engineer - June 2027 Grads",
-  "location": "Boston, MA",
-  "pay": "$85k–$123k/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://careers.formlabs.com/job/8241472/apply/?gh_jid=8241472",
-  "date_posted": "2026-09-29T21:45:21+00:00",
-  "date_found": "2026-09-29T22:49:42.199000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -14904,22 +14724,6 @@
   "advanced_degree": false
  },
  {
-  "company": "RTX",
-  "title": "Flight Controls Hardware Engineer I (Onsite)",
-  "location": "Cedar Rapids, IA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Hardware-Engineer-I--Onsite-_01870404",
-  "date_posted": "2026-09-27T00:00:00+00:00",
-  "date_found": "2026-09-28T00:48:02.689000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "GlobalFoundries",
   "title": "Device Engineer - ULP CMOS",
   "location": "Malta, NY",
@@ -15078,22 +14882,6 @@
   "date_found": "2026-09-08T00:00:00+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Software Engineer I (Onsite)",
-  "location": "Cedar Rapids, IA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684",
-  "date_posted": "2026-09-25T17:42:10.283000+00:00",
-  "date_found": "2026-09-25T17:48:29.049000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -15596,6 +15384,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Reach3 Insights",
+  "title": "Research Associate",
+  "location": "Chicago, IL",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/reach3insights/jobs/5433674008",
+  "date_posted": "2026-09-23T22:59:57+00:00",
+  "date_found": "2026-09-23T22:59:57+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "American Express",
   "title": "Data & Analytics Analyst - Enterprise Technology Services",
   "location": "Charlotte, NC",
@@ -15783,22 +15587,6 @@
   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704714006",
   "date_posted": null,
   "date_found": "2026-09-23T01:16:52+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Keysight Technologies",
-  "title": "R&D Engineer 1",
-  "location": "Santa Rosa, CA",
-  "pay": "$76,870/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.keysight.com/jobs/54405?icims=1",
-  "date_posted": null,
-  "date_found": "2026-09-23T01:11:58+00:00",
   "top_company": false,
   "no_sponsorship": true,
   "citizenship_required": false,
@@ -16056,6 +15844,22 @@
   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Engineer-1_01868084",
   "date_posted": "2026-09-22T16:39:18.762000+00:00",
   "date_found": "2026-09-22T22:19:03+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Exelixis",
+  "title": "Associate Engineer - AI and Agentics",
+  "location": "Alameda, CA",
+  "pay": "$103k–$145k/yr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/AI-and-Agentic-Engineer-Associate_JR7032",
+  "date_posted": "2026-09-22T14:51:30.409298+00:00",
+  "date_found": "2026-08-26T00:00:00+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -16542,22 +16346,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Northrop Grumman",
-  "title": "Associate Digital Engineer",
-  "location": "Baltimore, MD",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Digital-Engineer---Pathways-Program---Baltimore-MD_R10251163",
-  "date_posted": "2026-09-21T00:00:00+00:00",
-  "date_found": "2026-09-24T00:07:54.143000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "State Street",
   "title": "Software Engineer Junior - REST API Development - Officer",
   "location": "Burlington, MA",
@@ -16843,22 +16631,6 @@
   "url": "https://bookofthemonth.applytojob.com/apply/6LKA2Mq9dx/Associate-Product-Engineer",
   "date_posted": "2026-09-18T22:20:10+00:00",
   "date_found": "2026-09-18T22:20:10+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Valency",
-  "title": "Software Engineer - Full-stack",
-  "location": "Berkeley, CA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/valency/2bcd9b30-d76b-40ee-afc7-43302ce18fff/application?embed=true",
-  "date_posted": null,
-  "date_found": "2026-09-18T22:20:02+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -17393,22 +17165,6 @@
   "advanced_degree": false
  },
  {
-  "company": "BIP Ventures",
-  "title": "Associate AI Engineer",
-  "location": "Atlanta, GA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://apply.workable.com/bipventures/j/75C9D6B9AF/apply",
-  "date_posted": "2026-09-16T22:19:54+00:00",
-  "date_found": "2026-09-16T22:19:54+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Anduril",
   "title": "Software Engineer - Battlespace Awareness",
   "location": "2 locations",
@@ -17451,6 +17207,22 @@
   "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009",
   "date_posted": "2026-09-16T21:00:37+00:00",
   "date_found": "2026-09-16T22:25:34+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "AST SpaceMobile",
+  "title": "Associate Electrical Test Engineer",
+  "location": "Midland, TX",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://ast-science.com/company/careers/?gh_jid=4734515005",
+  "date_posted": "2026-09-16T16:25:26+00:00",
+  "date_found": "2026-09-16T16:25:26+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -18830,54 +18602,6 @@
   "date_posted": "2026-09-12T15:51:41.435999+00:00",
   "date_found": "2026-02-05T23:26:15+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Acuity",
-  "title": "Software Engineering Specialist - BUILD Leadership Program",
-  "location": "Conyers, GA",
-  "pay": "$68,900–$148,100/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429302100/?ats=successfactors",
-  "date_posted": null,
-  "date_found": "2026-09-12T06:08:19+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Acuity",
-  "title": "Software Engineering Specialist - BUILD Leadership Program",
-  "location": "Conyers, GA",
-  "pay": "$68,900–$148,100/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429301800/?ats=successfactors",
-  "date_posted": null,
-  "date_found": "2026-09-12T06:08:19+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Acuity",
-  "title": "Software Engineering Specialist - BUILD Leadership Program",
-  "location": "Conyers, GA",
-  "pay": "$68,900–$148,100/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429301900/?ats=successfactors",
-  "date_posted": null,
-  "date_found": "2026-09-12T06:08:18+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -20440,6 +20164,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Mission One Media",
+  "title": "Analyst – Reporting",
+  "location": "4 locations",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/missiononemedia/jobs/6185658004",
+  "date_posted": "2026-09-08T19:28:39+00:00",
+  "date_found": "2026-09-08T19:28:39+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Silna Health",
   "title": "AI Deployment Analyst",
   "location": "NYC",
@@ -20658,6 +20398,38 @@
   "url": "https://job-boards.greenhouse.io/castelioncorporation/jobs/4395018009",
   "date_posted": "2026-09-07T17:03:54+00:00",
   "date_found": "2026-09-07T17:03:54+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "BarkleyOKRP",
+  "title": "Analyst – Reporting",
+  "location": "4 locations",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/barkleyokrp/jobs/6184401004",
+  "date_posted": "2026-09-07T16:35:37+00:00",
+  "date_found": "2026-09-07T16:35:37+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Lodestar",
+  "title": "Graduate Software Engineer - State Estimation & Prediction - III",
+  "location": "LA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4965825101",
+  "date_posted": "2026-09-07T12:35:41+00:00",
+  "date_found": "2026-09-07T12:35:41+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -21459,22 +21231,6 @@
   ],
   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Digital-Hardware-Design-Electrical-Engineer-II--Onsite-_01872579",
   "date_posted": "2026-09-03T00:00:00+00:00",
-  "date_found": "2026-09-03T00:00:00+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Amentum",
-  "title": "Entry Level Radiation Test Engineer",
-  "location": "Crane, IN",
-  "pay": "$70k–$80k/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Entry-Level-Radiation-Test-Engineer_R0169716",
-  "date_posted": null,
   "date_found": "2026-09-03T00:00:00+00:00",
   "top_company": false,
   "no_sponsorship": true,
@@ -22758,22 +22514,6 @@
   "url": "https://jobs.ashbyhq.com/prelim/bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409/application?embed=true",
   "date_posted": null,
   "date_found": "2026-09-01T04:56:01+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Nomad GCS",
-  "title": "IT Engineering Technician",
-  "location": "Columbia Falls, MT",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://nomadgcs.bamboohr.com/careers/488/",
-  "date_posted": "2026-09-01T04:55:04+00:00",
-  "date_found": "2026-09-01T04:55:04+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -24912,6 +24652,38 @@
   "advanced_degree": false
  },
  {
+  "company": "TrellisWare Technologies",
+  "title": "Hardware Engineer - Multiple Teams",
+  "location": "San Diego, CA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/trelliswaretechnologies-newgrads/jobs/4382014009",
+  "date_posted": "2026-08-25T17:16:53+00:00",
+  "date_found": "2026-08-25T17:16:53+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TrellisWare Technologies",
+  "title": "Software Engineer - Applications - Real-Time",
+  "location": "San Diego, CA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/trelliswaretechnologies-newgrads/jobs/4381984009",
+  "date_posted": "2026-08-25T17:16:50+00:00",
+  "date_found": "2026-08-25T17:16:50+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Foundation Healthcare",
   "title": "Software Engineer",
   "location": "2 locations",
@@ -25274,22 +25046,6 @@
   "url": "https://careers.garmin.com/jobs/19695?icims=1",
   "date_posted": null,
   "date_found": "2026-08-24T21:51:55+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Caesars Entertainment",
-  "title": "Digital Analyst 1",
-  "location": "Las Vegas, NV",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/88689",
-  "date_posted": null,
-  "date_found": "2026-08-24T21:50:25+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -25675,22 +25431,6 @@
   "date_posted": null,
   "date_found": "2026-08-21T00:00:00+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Infinitum",
-  "title": "Test Development Engineer",
-  "location": "Austin, TX",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://job-boards.greenhouse.io/infinitumelectric/jobs/5216958007",
-  "date_posted": "2026-08-20T22:23:09+00:00",
-  "date_found": "2026-08-20T22:23:09+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -26273,22 +26013,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Voya Financial",
-  "title": "Quantitative Analyst - Multi-Asset Strategies and Solutions Group",
-  "location": "NYC",
-  "pay": "$90,500–$127k/yr",
-  "tracks": [
-   "quant"
-  ],
-  "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Quantitative-Analyst_JR0033088",
-  "date_posted": null,
-  "date_found": "2026-08-19T00:00:00+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "CACI",
   "title": "Software Engineer - Engineering",
   "location": "2 locations",
@@ -26780,6 +26504,22 @@
   "date_posted": null,
   "date_found": "2026-08-18T01:29:40+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Tesla",
+  "title": "Field Reliability Engineer - Autopilot Hardware",
+  "location": "Palo Alto, CA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://www.tesla.com/careers/search/job/280217",
+  "date_posted": null,
+  "date_found": "2026-08-18T01:29:03+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -28341,6 +28081,22 @@
   "advanced_degree": false
  },
  {
+  "company": "First Due",
+  "title": "Cloud Security Software Engineer",
+  "location": "Remote in USA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009",
+  "date_posted": "2026-08-13T23:19:10+00:00",
+  "date_found": "2026-08-13T23:19:10+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Keysight Technologies",
   "title": "Electrical Engineer - Hardware Design",
   "location": "Mt Olive, NJ",
@@ -28958,6 +28714,22 @@
   ],
   "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Data-Analyst---2026-2027-graduates_112849",
   "date_posted": null,
+  "date_found": "2026-08-13T00:00:00+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Dexcom",
+  "title": "Software Development Engineer 1",
+  "location": "Remote in USA",
+  "pay": "$68,200–$113,600/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540",
+  "date_posted": "2026-08-13T00:00:00+00:00",
   "date_found": "2026-08-13T00:00:00+00:00",
   "top_company": false,
   "no_sponsorship": false,
@@ -29670,22 +29442,6 @@
  },
  {
   "company": "Deloitte",
-  "title": "Delivery Analyst - Discovery Solutions - Government & Public Services",
-  "location": "Mechanicsburg, PA",
-  "pay": "$67,500–$70,500/yr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Discovery-Solutions/362504",
-  "date_posted": null,
-  "date_found": "2026-08-11T22:24:18+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Deloitte",
   "title": "Delivery Analyst - Multiple Teams",
   "location": "Gilbert, AZ",
   "pay": null,
@@ -29711,22 +29467,6 @@
   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Cyber-Software-Engineering-Solutions/362503",
   "date_posted": null,
   "date_found": "2026-08-11T22:24:06+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Deloitte",
-  "title": "Cyber Analytics Solutions Delivery Analyst - Multiple Teams",
-  "location": "Gilbert, AZ",
-  "pay": "$70k–$73k/yr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Cyber-Analytics-Solutions/362502",
-  "date_posted": null,
-  "date_found": "2026-08-11T22:24:01+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -30015,22 +29755,6 @@
   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-AI-Data-Engineering-Solutions/357022",
   "date_posted": null,
   "date_found": "2026-08-10T22:37:02+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Deloitte",
-  "title": "Delivery Analyst - Government & Public Services - Business Analytics Solutions",
-  "location": "Gilbert, AZ",
-  "pay": "$70k–$73k/yr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Business-Analytics-Solutions/362389",
-  "date_posted": null,
-  "date_found": "2026-08-10T22:36:58+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -34549,22 +34273,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Everfox",
-  "title": "Software Engineer 1",
-  "location": "Richardson, TX",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500749-1",
-  "date_posted": "2026-07-29T00:00:00+00:00",
-  "date_found": "2026-07-29T00:00:00+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Kearney",
   "title": "Full Stack Developer",
   "location": "3 locations",
@@ -34869,22 +34577,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Westinghouse Electric Company",
-  "title": "Computer Science Software Engineer",
-  "location": "Cranberry Township, PA",
-  "pay": "$58,400–$73k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Computer-ScienceSoftware-Engineer-NC/1412516200/?ats=successfactors",
-  "date_posted": "2026-07-24T22:10:43+00:00",
-  "date_found": "2026-07-24T22:10:43+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "NVIDIA",
   "title": "GPU Verification Engineer New Grad",
   "location": "Westford, MA",
@@ -34959,22 +34651,6 @@
   "url": "https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true",
   "date_posted": null,
   "date_found": "2026-07-23T22:22:43+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Hive",
-  "title": "Associate Product Manager - Hive Models",
-  "location": "SF",
-  "pay": null,
-  "tracks": [
-   "product"
-  ],
-  "url": "https://jobs.lever.co/hive/c9da614c-7ebe-493f-a770-b79b711fd7df/apply",
-  "date_posted": null,
-  "date_found": "2026-07-23T22:03:29+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -35126,22 +34802,6 @@
  },
  {
   "company": "Deloitte",
-  "title": "Cyber Analytics Analyst - Government & Public Services - Cyber Analytics",
-  "location": "Arlington, VA",
-  "pay": "$88k–$91k/yr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Cyber-Analytics/360076",
-  "date_posted": "2026-07-21T22:14:21+00:00",
-  "date_found": "2026-07-21T22:14:21+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Deloitte",
   "title": "Consultative Offerings Analyst - Government & Public Services - Software Engineering",
   "location": "Arlington, VA",
   "pay": "$100k–$103k/yr",
@@ -35149,22 +34809,6 @@
    "software"
   ],
   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering/350277",
-  "date_posted": null,
-  "date_found": "2026-07-21T22:14:16+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Deloitte",
-  "title": "Consultative Offerings - Government & Public Services - AI & Data Engineering",
-  "location": "Arlington, VA",
-  "pay": "$100k–$103k/yr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering/350596",
   "date_posted": null,
   "date_found": "2026-07-21T22:14:16+00:00",
   "top_company": false,
@@ -38437,22 +38081,6 @@
   "advanced_degree": false
  },
  {
-  "company": "WHOOP",
-  "title": "Software Engineer I (Backend)",
-  "location": "Boston, MA",
-  "pay": "$105k–$145k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133",
-  "date_posted": "2026-07-01T14:17:11.982000+00:00",
-  "date_found": "2026-09-27T13:50:10.730974+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Gentex",
   "title": "Machine Vision Development Engineer 1",
   "location": "Holland, MI",
@@ -38527,22 +38155,6 @@
   "url": "https://jobs.ashbyhq.com/wealth-com/30842daf-a487-4d21-abbc-452acb72518b/application?embed=true",
   "date_posted": null,
   "date_found": "2026-07-01T01:09:18+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Internet Brands",
-  "title": "Associate AI Software Engineer",
-  "location": "Newark, NJ",
-  "pay": "$60k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.jobvite.com/internetbrands/job/oSkoAfwU?nl=1&nl=1&fr=false",
-  "date_posted": null,
-  "date_found": "2026-07-01T01:09:15+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -39237,22 +38849,6 @@
   "advanced_degree": false
  },
  {
-  "company": "TeamSnap",
-  "title": "Full-Stack Engineer - Backend Focused",
-  "location": "LA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.lever.co/teamsnap/58d0ad09-5a31-47c2-8cd0-251815b207d9/apply",
-  "date_posted": "2026-06-18T22:05:30+00:00",
-  "date_found": "2026-06-18T22:05:30+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "NewsBreak",
   "title": "Applied AI Engineer - Advertising Agents",
   "location": "Mountain View, CA",
@@ -39824,6 +39420,38 @@
   "date_posted": null,
   "date_found": "2026-06-11T22:09:11+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Quantiq",
+  "title": "Software Developer New Grad",
+  "location": "Austin, TX",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/quantiq/jobs/4280650009",
+  "date_posted": "2026-06-11T21:26:30+00:00",
+  "date_found": "2026-06-11T21:26:30+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Quantiq",
+  "title": "Hardware Developer New Grad",
+  "location": "Chicago, IL",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/quantiq/jobs/4280673009",
+  "date_posted": "2026-06-11T21:26:28+00:00",
+  "date_found": "2026-06-11T21:26:28+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -41199,6 +40827,22 @@
   "url": "https://boards.greenhouse.io/spacex/jobs/8562450002",
   "date_posted": "2026-05-22T22:10:07+00:00",
   "date_found": "2026-05-22T22:10:07+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "Front-End Engineer",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us",
+  "date_posted": "2026-05-22T22:05:38+00:00",
+  "date_found": "2026-05-22T22:05:38+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -43190,22 +42834,6 @@
  },
  {
   "company": "Observable Space",
-  "title": "Junior Electrical Technician",
-  "location": "LA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/observable-space/18d4da43-e393-466f-9f81-47c97b51d0ac/application?embed=true",
-  "date_posted": "2026-04-03T22:09:25+00:00",
-  "date_found": "2026-04-03T22:09:25+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Observable Space",
   "title": "Junior Optical Technician",
   "location": "LA",
   "pay": null,
@@ -43327,6 +42955,22 @@
   "url": "https://jobs.bytedance.com/en/position/7623525222555961605/detail",
   "date_posted": null,
   "date_found": "2026-04-01T06:09:04+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "xAI",
+  "title": "AI Tutor – Finnish",
+  "location": "Remote in USA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5090199007",
+  "date_posted": "2026-04-01T06:05:10+00:00",
+  "date_found": "2026-04-01T06:05:10+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -43903,22 +43547,6 @@
   "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4738026101",
   "date_posted": null,
   "date_found": "2026-03-05T02:25:18+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "2026 Fulltime - Electronics Design Engineer I",
-  "location": "Goleta, CA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/XMLNAME-2026-Fulltime---Electronics-Design-Engineer-I---Onsite_01826209",
-  "date_posted": null,
-  "date_found": "2026-03-04T02:32:28+00:00",
   "top_company": false,
   "no_sponsorship": true,
   "citizenship_required": false,
