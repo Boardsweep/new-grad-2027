@@ -1,5 +1,185 @@
 [
  {
+  "company": "RTX",
+  "title": "Cyber Software Engineer II",
+  "location": "Anaheim, CA",
+  "pay": null,
+  "tracks": [
+   "software",
+   "security"
+  ],
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Cyber-Software-Engineer-II_01885961",
+  "date_posted": "2026-10-30T07:00:23.809000+00:00",
+  "date_found": "2026-10-30T07:01:32.780000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "RTX",
+  "title": "Software Engineer II (Cybersecurity | Networking)",
+  "location": "Annapolis Junction, MD",
+  "pay": null,
+  "tracks": [
+   "software",
+   "security"
+  ],
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineer-II--Cybersecurity---Networking-_01885972",
+  "date_posted": "2026-10-30T06:40:18.451000+00:00",
+  "date_found": "2026-10-30T06:40:39.708000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Saab",
+  "title": "Associate Software Engineer",
+  "location": "East Syracuse, NY",
+  "pay": "$72k–$90k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Associate-Software-Engineer_R-03377-1",
+  "date_posted": "2026-10-30T05:47:26.683000+00:00",
+  "date_found": "2026-10-30T05:59:35.868000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Formlabs",
+  "title": "Industrial Designer - Entry Level",
+  "location": "Boston, MA",
+  "pay": "$90k–$120k/yr",
+  "tracks": [
+   "design"
+  ],
+  "url": "https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032",
+  "date_posted": null,
+  "date_found": "2026-10-30T02:57:59.210000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Formlabs",
+  "title": "Embedded Software Engineer - Entry Level",
+  "location": "Boston, MA",
+  "pay": "$110k–$140k/yr",
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://careers.formlabs.com/job/7909577/apply/?gh_jid=7909577",
+  "date_posted": null,
+  "date_found": "2026-10-30T02:57:59.210000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Caterpillar",
+  "title": "Associate Design Engineer",
+  "location": "Rapid City, SD",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rapid-City-South-Dakota/Associate-Design-Engineer_R0000402088",
+  "date_posted": "2026-10-30T02:42:13.260000+00:00",
+  "date_found": "2026-10-30T02:57:59.210000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Formlabs",
+  "title": "Robotic Systems Integration Engineer - Entry Level (SLA & SLS)",
+  "location": "Boston, MA",
+  "pay": "$110k–$140k/yr",
+  "tracks": [
+   "hardware",
+   "software"
+  ],
+  "url": "https://careers.formlabs.com/job/8241436/apply/?gh_jid=8241436",
+  "date_posted": null,
+  "date_found": "2026-10-30T01:57:59.667000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Formlabs",
+  "title": "R&D Engineer - Entry Level",
+  "location": "Boston, MA",
+  "pay": "$110k–$140k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://careers.formlabs.com/job/8249038/apply/?gh_jid=8249038",
+  "date_posted": null,
+  "date_found": "2026-10-30T01:57:59.667000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Formlabs",
+  "title": "R&D Reliability/Test Engineer - Entry Level",
+  "location": "Boston, MA",
+  "pay": "$100k–$140k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://careers.formlabs.com/job/8241461/apply/?gh_jid=8241461",
+  "date_posted": null,
+  "date_found": "2026-10-30T01:57:59.667000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Formlabs",
+  "title": "Technical Program Manager - Entry Level",
+  "location": "Boston, MA",
+  "pay": "$110k–$140k/yr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://careers.formlabs.com/job/8249069/apply/?gh_jid=8249069",
+  "date_posted": null,
+  "date_found": "2026-10-30T01:57:59.667000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Citi",
+  "title": "Junior Application Developer",
+  "location": "Tampa Florida United States",
+  "pay": "$76,560–$106,840/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Junior-Application-Developer_261003010",
+  "date_posted": "2026-10-30T01:42:36.904000+00:00",
+  "date_found": "2026-10-30T01:57:59.667000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Formlabs",
   "title": "Mechanical Engineer - Entry Level",
   "location": "Boston, MA",
@@ -27,6 +207,23 @@
   "date_posted": "2026-10-30T00:51:15+00:00",
   "date_found": "2026-10-30T00:55:49.684000+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Verizon Communications",
+  "title": "Engineer I-Systems Engineering",
+  "location": "Temple Terrace, FL",
+  "pay": null,
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1",
+  "date_posted": "2026-10-30T00:00:00+00:00",
+  "date_found": "2026-10-30T05:59:35.868000+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -1109,6 +1306,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Raydar",
+  "title": "Junior Software Engineer",
+  "location": "United States",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://apply.workable.com/raydar/j/36D21159FF/",
+  "date_posted": "2026-10-29T00:00:00+00:00",
+  "date_found": "2026-10-30T01:57:59.667000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Zoom",
   "title": "AI Engineer",
   "location": "Seattle, WA",
@@ -2110,6 +2323,22 @@
   "date_found": "2026-10-28T19:04:51.871000+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Formlabs",
+  "title": "Electrical Engineer - Entry Level",
+  "location": "Boston, MA",
+  "pay": "$110k–$140k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://careers.formlabs.com/job/8331686/apply/?gh_jid=8331686",
+  "date_posted": "2026-10-28T18:38:50+00:00",
+  "date_found": "2026-10-30T01:57:59.667000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -6945,38 +7174,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Hewlett Packard Enterprise",
-  "title": "Test Engineer, HPC & AI Systems - (Early Career)",
-  "location": "Spring, TX",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-3",
-  "date_posted": "2026-10-23T05:00:48.838000+00:00",
-  "date_found": "2026-10-23T05:20:05.555000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Two Sigma",
-  "title": "New York New York United States Software Engineering Full Time Campus Hire Nyc",
-  "location": "",
-  "pay": "$225k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014",
-  "date_posted": "2026-10-23T02:40:25+00:00",
-  "date_found": "2026-10-23T02:50:04.695710+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Amazon",
   "title": "System Development Engineer - Region Reliability Engineering",
   "location": "Denver, CO",
@@ -7054,38 +7251,6 @@
   "date_found": "2026-10-23T02:50:04.695710+00:00",
   "top_company": true,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Booz Allen Hamilton",
-  "title": "Data Scientist, Junior",
-  "location": "2 Locations",
-  "pay": "$62k–$141k/yr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stafford-VA/Data-Scientist--Junior_R0249560",
-  "date_posted": "2026-10-23T01:41:48.483000+00:00",
-  "date_found": "2026-10-23T01:59:35.958000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Booz Allen Hamilton",
-  "title": "Cyber Analyst, Junior",
-  "location": "Washington, DC",
-  "pay": "$53k–$108k/yr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Cyber-Analyst--Junior_R0249110",
-  "date_posted": "2026-10-23T01:41:48.483000+00:00",
-  "date_found": "2026-10-23T01:59:35.958000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -24532,22 +24697,6 @@
   "advanced_degree": false
  },
  {
-  "company": "TeleTracking",
-  "title": "Software Engineer 1 - Logistics Engineering",
-  "location": "Pittsburgh, PA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008",
-  "date_posted": "2026-08-26T19:30:38+00:00",
-  "date_found": "2026-08-26T19:30:38+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Tesla",
   "title": "Field Reliability Engineer - Infotainment Hardware",
   "location": "Palo Alto, CA",
@@ -24574,6 +24723,22 @@
   "url": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application?embed=true",
   "date_posted": null,
   "date_found": "2026-08-26T19:11:16+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TeleTracking",
+  "title": "Software Engineer 1 - Logistics Engineering",
+  "location": "Pittsburgh, PA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008",
+  "date_posted": "2026-08-26T18:00:43+00:00",
+  "date_found": "2026-08-26T19:30:38+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,

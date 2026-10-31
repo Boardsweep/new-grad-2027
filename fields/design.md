@@ -2,12 +2,13 @@
 
 # 🎨 Design new grad and entry-level roles
 
-All 21 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
+All 22 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=formlabs.com" width="20" height="20" align="absmiddle">&nbsp; **Formlabs** | Industrial Designer - Entry Level ✨ | Boston,&nbsp;MA<br><sub>$90k–&#8288;$120k/yr</sub> | Oct&nbsp;30 | <a href="https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=sargentlundy.com" width="20" height="20" align="absmiddle">&nbsp; **Sargent &amp; Lundy** | Structural Designer 1 Energy &amp; Industrial Group ✨ | -<br><sub>$58,925–&#8288;$84,728/yr</sub> | Oct&nbsp;29 | <a href="https://careers-sargentlundy.icims.com/jobs/28388/structural-designer-1---energy-%26-industrial-group/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Structural Designer 1 Energy &amp; Industrial Group ✨ | -<br><sub>$58,925–&#8288;$84,728/yr</sub> | Oct&nbsp;29 | <a href="https://careers-sargentlundy.icims.com/jobs/28389/structural-designer-1---energy-%26-industrial-group/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **VF** | Associate Designer, Color Palette Creation ✨ | USCA &gt; USA &gt; Colorado &gt; Denver HQ - VFC<br><sub>$60,480–&#8288;$75,600/yr</sub> | Oct&nbsp;29 | <a href="https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Associate-Designer--Color-Palette-Creation_R-20261021-0020-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
