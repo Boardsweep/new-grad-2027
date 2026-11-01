@@ -1,5 +1,21 @@
 [
  {
+  "company": "Parsons",
+  "title": "Linux Systems Administrator - Junior",
+  "location": "",
+  "pay": "$88,400–$154,700/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Centreville/Systems-Engineer---Junior_R188078",
+  "date_posted": null,
+  "date_found": "2026-10-31T01:57:40.071000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "RTX",
   "title": "Sr Software Engineer - Airborne Radar Systems, Onsite",
   "location": "El Segundo, CA",
@@ -14,6 +30,22 @@
   "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
+ },
+ {
+  "company": "NVIDIA",
+  "title": "ASIC Design Verification Engineer",
+  "location": "Austin, TX",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391",
+  "date_posted": "2026-10-31T01:07:40+00:00",
+  "date_found": "2026-10-31T01:57:40.071000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
  },
  {
   "company": "Sargent & Lundy",
@@ -42,6 +74,38 @@
   "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Entry-Level-DSP---SDR-Engineer_R016560",
   "date_posted": "2026-10-31T00:00:51.895000+00:00",
   "date_found": "2026-10-31T00:01:50.802000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Bristol-Myers Squibb",
+  "title": "Associate Engineer, Analytical AI Engineering",
+  "location": "Princeton - NJ - US",
+  "pay": "$81,260–$98,468/yr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005",
+  "date_posted": "2026-10-31T00:00:00+00:00",
+  "date_found": "2026-10-31T04:59:55.299000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Northrop Grumman",
+  "title": "Associate Software Engineer - Hollywood (MD)",
+  "location": "United States-Maryland-Hollywood",
+  "pay": "$76,200–$114,400/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018",
+  "date_posted": "2026-10-31T00:00:00+00:00",
+  "date_found": "2026-10-31T04:37:10.594000+00:00",
   "top_company": false,
   "no_sponsorship": true,
   "citizenship_required": false,
@@ -172,6 +236,22 @@
   "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Licensing-Associate---Software-and-AI_R-098471-2",
   "date_posted": "2026-10-30T21:56:34.814000+00:00",
   "date_found": "2026-10-30T21:58:41.002000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Cobalt",
+  "title": "Associate Security Researcher",
+  "location": "Remote",
+  "pay": "$55k–$70k/yr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://job-boards.greenhouse.io/cobaltio/jobs/8924332002",
+  "date_posted": "2026-10-30T21:29:33+00:00",
+  "date_found": "2026-10-31T05:57:17.040000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -4438,6 +4518,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Discernis",
+  "title": "Software Engineer",
+  "location": "NYC",
+  "pay": "$120k–$150k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/discernis/53496201-b984-4e50-938e-19c21cf26667/application?embed=true",
+  "date_posted": "2026-10-28T00:00:00+00:00",
+  "date_found": "2026-10-31T02:58:02.719000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "GlobalFoundries",
   "title": "AI Enabled Device Modeling",
   "location": "2 locations",
@@ -5336,6 +5432,22 @@
   "date_found": "2026-10-27T21:02:36.899000+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Publicis Groupe",
+  "title": "Media Analytics Analyst",
+  "location": "Chicago, IL",
+  "pay": "$55,765–$77,070/yr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://publicisgroupe.jibeapply.com/jobs/178975?icims=1",
+  "date_posted": "2026-10-27T19:05:00+00:00",
+  "date_found": "2026-10-31T06:50:06.502000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -8721,6 +8833,23 @@
   "date_posted": "2026-10-21T21:16:19+00:00",
   "date_found": "2026-10-21T21:19:27.162000+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Orbis Operations",
+  "title": "Research Engineer - AI",
+  "location": "Remote in USA",
+  "pay": null,
+  "tracks": [
+   "aiml",
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009",
+  "date_posted": "2026-10-21T19:35:51+00:00",
+  "date_found": "2026-10-31T06:50:06.502000+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -44605,6 +44734,23 @@
   "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/D-A-Rotational-Development-Program-Associate_J00171083",
   "date_posted": null,
   "date_found": "2026-01-29T02:35:32+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Carvana",
+  "title": "Software Engineering",
+  "location": "Tempe, AZ",
+  "pay": null,
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://www.carvana.com/careers/apply?gh_jid=7542940",
+  "date_posted": "2026-01-23T20:18:07+00:00",
+  "date_found": "2026-10-24T01:57:05.258000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
