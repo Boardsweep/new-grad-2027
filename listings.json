@@ -2145,6 +2145,22 @@
   "advanced_degree": false
  },
  {
+  "company": "USAA",
+  "title": "Data Scientist II (Mid Level) - Pricing and Product Analytics",
+  "location": "7 Locations",
+  "pay": "$93,770–$179,240/yr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Scientist-II--Mid-Level----Pricing-and-Product-Analytics_R0121951-1",
+  "date_posted": "2026-10-29T16:52:45.987858+00:00",
+  "date_found": "2026-10-29T19:03:50.920000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "RTX",
   "title": "CCA/PCB Product Development Engineer I (Onsite)",
   "location": "Mckinney, TX",
@@ -7832,22 +7848,6 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
- },
- {
-  "company": "KeyBank",
-  "title": "Quant Analytics Associate",
-  "location": "Cleveland, OH",
-  "pay": "$69k–$105k/yr",
-  "tracks": [
-   "quant"
-  ],
-  "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Quant-Analytics-Associate_R-42718",
-  "date_posted": "2026-10-23T17:51:43.730420+00:00",
-  "date_found": "2026-10-24T17:50:23.972261+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
  },
  {
   "company": "Nike",
@@ -14337,6 +14337,22 @@
   "date_found": "2026-10-02T17:30:00+00:00",
   "top_company": false,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Motorola Solutions",
+  "title": "Web Interface Software Engineer",
+  "location": "LA",
+  "pay": "$43.27–$57/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Web-Interface-Software-Engineer_R66626",
+  "date_posted": "2026-10-02T16:52:34.943072+00:00",
+  "date_found": "2026-07-14T00:00:00+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -36667,22 +36683,6 @@
   "date_found": "2026-07-14T01:11:22+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Motorola Solutions",
-  "title": "Web Interface Software Engineer",
-  "location": "LA",
-  "pay": "$43.27–$57/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Web-Interface-Software-Engineer_R66626",
-  "date_posted": null,
-  "date_found": "2026-07-14T00:00:00+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },

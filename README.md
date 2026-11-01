@@ -16,8 +16,8 @@
 | Field | Open now | New this week | |
 | --- | ---: | ---: | --- |
 | 💻 **[Software engineering](fields/software.md)** | 1,134 | 223 | [Email me these, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_software) |
-| 🤖 **[AI, ML and data](fields/aiml.md)** | 748 | 50 | [Email me these, free](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_aiml) |
-| 📈 **[Quant](fields/quant.md)** | 88 | 6 | [Email me these, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_quant) |
+| 🤖 **[AI, ML and data](fields/aiml.md)** | 749 | 51 | [Email me these, free](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_aiml) |
+| 📈 **[Quant](fields/quant.md)** | 87 | 6 | [Email me these, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_quant) |
 | 🔧 **[Hardware](fields/hardware.md)** | 663 | 161 | [Email me these, free](https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_hardware) |
 | 📱 **[Product](fields/product.md)** | 99 | 10 | [Email me these, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_product) |
 | 🎨 **[Design](fields/design.md)** | 22 | 12 | [Email me these, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_design) |
@@ -263,7 +263,7 @@
 
 ## AI, ML and data
 
-<sub>This week's 50 of 748. <a href="fields/aiml.md">See all 748</a> · <a href="https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_aiml">Get only ai, ml and data new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 51 of 749. <a href="fields/aiml.md">See all 749</a> · <a href="https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_aiml">Get only ai, ml and data new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -275,6 +275,7 @@
 | <img src="https://boardsweep.io/api/logo?domain=davita.com" width="20" height="20" align="absmiddle">&nbsp; **DaVita** | People Analytics Analyst | 05555 - Casa del Mundo Office<br><sub>$57,784–&#8288;$85k/yr</sub> | Oct&nbsp;30 | <a href="https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/People-Analytics-Analyst_R0483553"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=coherent.com" width="20" height="20" align="absmiddle">&nbsp; **Coherent** | Data Analyst - Project Management Support | Mt&nbsp;Olive,&nbsp;NJ<br><sub>-</sub> | Oct&nbsp;29 | <a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2015589"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=llnl.gov" width="20" height="20" align="absmiddle">&nbsp; **Lawrence Livermore National Laboratory** | SI/ML Computational Biologist - Academic Graduate Appointee ✨ 🎓 | Livermore<br><sub>$6,748–&#8288;$7,718/mo</sub> | Oct&nbsp;29 | <a href="https://jobs.smartrecruiters.com/LLNL/3743990016508836"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=usaa.com" width="20" height="20" align="absmiddle">&nbsp; **USAA** | Data Scientist II (Mid Level) - Pricing and Product Analytics ✨ 🛂 | 7&nbsp;Locations<br><sub>$93,770–&#8288;$179,240/yr</sub> | Oct&nbsp;29 | <a href="https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Scientist-II--Mid-Level----Pricing-and-Product-Analytics_R0121951-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=cisco.com" width="20" height="20" align="absmiddle">&nbsp; **Cisco** | Data Science Analyst 1 | San&nbsp;Jose,&nbsp;CA<br><sub>$107,800–&#8288;$136,800/yr</sub> | Oct&nbsp;29 | <a href="https://careers.cisco.com/global/en/job/2028889"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=americanfidelity.com" width="20" height="20" align="absmiddle">&nbsp; **American&nbsp;Fidelity** | Actuarial Analytics Support Analyst I ✨ | Oklahoma City, OK<br><sub>-</sub> | Oct&nbsp;29 | <a href="https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Actuarial-Analytics-Support-Analyst-I_JR1133"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=zoom.com" width="20" height="20" align="absmiddle">&nbsp; **Zoom** | AI Engineer | Seattle,&nbsp;WA<br><sub>$137,700–&#8288;$275,400/yr</sub> | Oct&nbsp;29 | <a href="https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer_R19823-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -322,7 +323,7 @@
 
 ## Quant
 
-<sub>This week's 6 of 88. <a href="fields/quant.md">See all 88</a> · <a href="https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_quant">Get only quant new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 6 of 87. <a href="fields/quant.md">See all 87</a> · <a href="https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_quant">Get only quant new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -578,6 +579,6 @@
 
 Also see: [Summer 2027 internships](https://github.com/Boardsweep/summer-2027-internships) · [Every role, filterable, on boardsweep.io](https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=footer)
 
-<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 01, 2026 at 13:09 UTC. Not affiliated with any company listed.</sub>
+<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 01, 2026 at 19:00 UTC. Not affiliated with any company listed.</sub>
 
 </div>
