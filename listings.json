@@ -1,5 +1,21 @@
 [
  {
+  "company": "Sparksoft",
+  "title": "Junior Technical Engineer",
+  "location": "Remote/Hybrid if local to Maryland",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5281142007",
+  "date_posted": "2026-10-31T21:33:59+00:00",
+  "date_found": "2026-10-31T21:56:38.303000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Amazon",
   "title": "Hardware Development Engineer 1 - Drone Engineering",
   "location": "Seattle, WA",
@@ -92,6 +108,22 @@
   "date_found": "2026-10-31T00:01:50.802000+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Pocket",
+  "title": "Firmware Engineer",
+  "location": "SF",
+  "pay": "$160k–$250k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/pocket/dcb3b89f-d6b9-4c2d-aa70-4b8d01bf0848/application?embed=true",
+  "date_posted": "2026-10-31T00:00:00+00:00",
+  "date_found": "2026-10-31T23:58:09.952000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -7832,24 +7864,6 @@
   "advanced_degree": false
  },
  {
-  "company": "1X",
-  "title": "Research Engineer, Robot Learning",
-  "location": "San Carlos, CA",
-  "pay": "$130,146–$300k/yr",
-  "tracks": [
-   "aiml",
-   "hardware",
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/1x/6d41e7c8-75c3-4f54-8a76-5abbb3569341",
-  "date_posted": "2026-10-23T21:32:42.085000+00:00",
-  "date_found": "2026-10-24T19:50:26.188723+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": true
- },
- {
   "company": "Nike",
   "title": "Converse Merchandising Graduate Internship",
   "location": "Boston, MA",
@@ -9670,22 +9684,6 @@
   "url": "https://www.osfcareers.org/jobs/112750?icims=1",
   "date_posted": "2026-10-19T06:25:33+00:00",
   "date_found": "2026-10-19T07:00:30.573000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Banner Health",
-  "title": "DevOps Engineer I",
-  "location": "Arizona",
-  "pay": "$39.78–$66.30/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/DevOps-Engineer-II_R4457524",
-  "date_posted": "2026-10-19T00:00:00+00:00",
-  "date_found": "2026-10-26T23:00:32.580000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -18828,22 +18826,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Rocket Lab",
-  "title": "Electrical Engineer 1",
-  "location": "Long Beach, CA",
-  "pay": "$89,350–$125,325/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996354003",
-  "date_posted": null,
-  "date_found": "2026-09-15T22:07:32+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Hardin Design",
   "title": "Entry-Level Web Developer",
   "location": "Madison, WI",
@@ -18871,22 +18853,6 @@
   "date_posted": null,
   "date_found": "2026-09-15T22:03:39+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Rocket Lab",
-  "title": "Systems Engineer I",
-  "location": "Long Beach, CA",
-  "pay": "$89k–$125k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996430003",
-  "date_posted": "2026-09-15T19:49:25+00:00",
-  "date_found": "2026-10-12T16:07:20.070000+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -19787,22 +19753,6 @@
   "date_found": "2026-09-11T22:07:06+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Rocket Lab",
-  "title": "Mechanical Development & Test Engineer I",
-  "location": "Long Beach, CA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985641003",
-  "date_posted": "2026-09-11T20:41:20+00:00",
-  "date_found": "2026-09-11T20:41:20+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
