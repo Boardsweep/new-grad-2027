@@ -2,12 +2,13 @@
 
 # 🛡️ Security new grad and entry-level roles
 
-All 19 open security new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security), or [get them by email, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security).
+All 20 open security new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security), or [get them by email, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=pwc.com" width="20" height="20" align="absmiddle">&nbsp; **PricewaterhouseCoopers** | Associate - Cyber Security Consultant ✨ | 2&nbsp;Locations<br><sub>-</sub> | Nov&nbsp;3 | <a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Ho-Chi-Minh-City/Associate---Cyber-Security-Consultant_771804WD"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=clarity-innovations.com" width="20" height="20" align="absmiddle">&nbsp; **Clarity Innovations** | Junior Reverse Engineering/Vulnerability Research Engineer ✨ | Columbus,&nbsp;OH<br><sub>$102k–&#8288;$173k/yr</sub> | Nov&nbsp;2 | <a href="https://job-boards.greenhouse.io/clarityinnovates/jobs/5280086007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tsys.com" width="20" height="20" align="absmiddle">&nbsp; **TSYS** | Info Sec Engineering Analyst I ✨ | COLUMBUS,&nbsp;GA<br><sub>-</sub> | Nov&nbsp;2 | <a href="https://tsys.wd1.myworkdayjobs.com/tsys/job/COLUMBUS-GEORGIA/Info-Sec-Engineering-Analyst-I_R0075252"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=guidehouse.com" width="20" height="20" align="absmiddle">&nbsp; **Guidehouse** | Consultant - Defense &amp; Security - IT Controls - Campus 2027 ✨ 🛂 | US&nbsp;-&nbsp;VA,&nbsp;McLean<br><sub>$56k–&#8288;$94k/yr</sub> | Nov&nbsp;2 | <a href="https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Consultant---Defense---Security---IT-Controls---Campus-2027_46116-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

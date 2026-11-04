@@ -2,12 +2,13 @@
 
 # 🎨 Design new grad and entry-level roles
 
-All 21 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
+All 22 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=terex.com" width="20" height="20" align="absmiddle">&nbsp; **Terex** | Designer I - Engineering ✨ | US-PA Nesquehoning<br><sub>-</sub> | Nov&nbsp;3 | <a href="https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-PA-Nesquehoning/Designer-I---Engineering_REQ-14967"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=openart.ai" width="20" height="20" align="absmiddle">&nbsp; **OpenArt** | Product UI/UX Designer - Junior Level ✨ | San&nbsp;Francisco<br><sub>$150k–&#8288;$200k/yr</sub> | Nov&nbsp;2 | <a href="https://jobs.ashbyhq.com/openart/4cc44d51-f824-4d54-bbfa-25a1937bec2d"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=gap.com" width="20" height="20" align="absmiddle">&nbsp; **GAP** | Associate Graphic Designer, Digital ✨ | NY&nbsp;55&nbsp;Thomas&nbsp;St<br><sub>-</sub> | Nov&nbsp;2 | <a href="https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/NY-55-Thomas-St/Associate-Graphic-Designer--Digital_R223831"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=atkinsrealis.com" width="20" height="20" align="absmiddle">&nbsp; **Atkinsréalis** | Graduate Graphic Designer ✨ | 2&nbsp;Locations<br><sub>-</sub> | Nov&nbsp;2 | <a href="https://slihrms.wd3.myworkdayjobs.com/careers/job/AEDubaiEmaarSq/Graduate-Graphic-Designer_R-169994"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

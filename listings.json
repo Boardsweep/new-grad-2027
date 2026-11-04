@@ -1,5 +1,117 @@
 [
  {
+  "company": "Brillio",
+  "title": "Data Acquisition Analyst",
+  "location": "Frisco, TX",
+  "pay": "$30–$35/hr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://jobs.lever.co/brillio-2/0663c1d8-d32a-4f52-a0ce-71fb6b5f0966/apply",
+  "date_posted": "2026-11-03T07:31:04+00:00",
+  "date_found": "2026-11-03T07:31:04+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Baker Hughes",
+  "title": "Software Engineer",
+  "location": "Minden, NV",
+  "pay": "$67,690–$125,860/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272",
+  "date_posted": "2026-11-03T05:51:56.562738+00:00",
+  "date_found": "2026-11-03T05:50:37.890364+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "PricewaterhouseCoopers",
+  "title": "Associate - Cyber Security Consultant",
+  "location": "2 Locations",
+  "pay": null,
+  "tracks": [
+   "security"
+  ],
+  "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Ho-Chi-Minh-City/Associate---Cyber-Security-Consultant_771804WD",
+  "date_posted": "2026-11-03T03:56:03.814000+00:00",
+  "date_found": "2026-11-03T03:59:10.705000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "WEX",
+  "title": "Software Development Engineer 1",
+  "location": "2 Locations",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Portland-ME/Software-Development-Engineer-1_R23233",
+  "date_posted": "2026-11-03T03:49:19.319000+00:00",
+  "date_found": "2026-11-03T03:59:10.705000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Terex",
+  "title": "Designer I - Engineering",
+  "location": "US-PA Nesquehoning",
+  "pay": null,
+  "tracks": [
+   "design"
+  ],
+  "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-PA-Nesquehoning/Designer-I---Engineering_REQ-14967",
+  "date_posted": "2026-11-03T02:48:00.929000+00:00",
+  "date_found": "2026-11-03T02:58:02.714000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Centene",
+  "title": "Cloud Platform Engineer I",
+  "location": "28 Locations",
+  "pay": "$30.58–$55.09/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cloud-Platform-Engineer-I_1671976",
+  "date_posted": "2026-11-03T01:59:08.376000+00:00",
+  "date_found": "2026-11-03T02:06:11.077000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Airbus",
+  "title": "Stress Engineer I",
+  "location": "Wichita, KS",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Stress-Engineer-I_JR10454658",
+  "date_posted": "2026-11-03T01:45:34.353000+00:00",
+  "date_found": "2026-11-03T02:06:11.077000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "GDIT",
   "title": "Junior DS Engineer (Travel)",
   "location": "Any Location / Remote",
@@ -1623,6 +1735,87 @@
   "date_posted": "2026-10-31T06:49:35+00:00",
   "date_found": "2026-10-31T08:00:15.516000+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Verizon Communications",
+  "title": "Archt I-Solutions Archt",
+  "location": "2 Locations",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Archt-I-Solutions-Archt_R-1102712-1",
+  "date_posted": "2026-10-31T03:56:53.997000+00:00",
+  "date_found": "2026-11-03T03:59:10.705000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Verizon Communications",
+  "title": "Archt I-DevOps",
+  "location": "2 Locations",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Archt-I-DevOps_R-1102716",
+  "date_posted": "2026-10-31T03:56:53.997000+00:00",
+  "date_found": "2026-11-03T03:59:10.705000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Verizon Communications",
+  "title": "Archt I-DevOps",
+  "location": "2 Locations",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Archt-I-DevOps_R-1102713",
+  "date_posted": "2026-10-31T03:56:52.610000+00:00",
+  "date_found": "2026-11-03T03:59:10.705000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "BlackRock",
+  "title": "Associate, Quant Research",
+  "location": "San Francisco, CA",
+  "pay": "$132,500–$162k/yr",
+  "tracks": [
+   "quant"
+  ],
+  "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/Associate--Quant-Research_R267061",
+  "date_posted": "2026-10-31T03:41:20.780000+00:00",
+  "date_found": "2026-11-03T03:59:10.705000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "BlackRock",
+  "title": "Associate, Application Deployment Engineer",
+  "location": "Atlanta, GA",
+  "pay": "$112k–$140k/yr",
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Atlanta-GA/Associate--Application-Deployment-Engineer_R266359-1",
+  "date_posted": "2026-10-31T03:41:20.780000+00:00",
+  "date_found": "2026-11-03T03:59:10.705000+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -7624,118 +7817,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Duke Energy",
-  "title": "Electrical Engineer I OR Electrical Engineer II (Nuclear)",
-  "location": "Huntersville, NC",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Huntersville-NC/Electrical-Engineer-I-OR-Electrical-Engineer-II--Nuclear-_R42175-1",
-  "date_posted": "2026-10-27T04:42:54.839000+00:00",
-  "date_found": "2026-10-27T04:59:49.965000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Light & Wonder",
-  "title": "Associate QA Engineer, Software",
-  "location": "Chicago, IL",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Chicago-IL/Associate-QA-Engineer--Software_R323051",
-  "date_posted": "2026-10-27T02:56:34.559000+00:00",
-  "date_found": "2026-10-27T03:01:58.055000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Home Depot",
-  "title": "Associate Data Scientist, Merchandise Execution Team (MET)",
-  "location": "STORE SUPPORT CENTER, ATLANTA - 9090",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist--Merchandise-Execution-Team--MET-_Req197209",
-  "date_posted": "2026-10-27T02:45:17.351000+00:00",
-  "date_found": "2026-10-27T03:01:58.055000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Systems Engineering I - Cargo Systems- Onsite",
-  "location": "3 Locations",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Systems-Engineering-I---Cargo-Systems--Onsite_01880733",
-  "date_posted": "2026-10-27T02:44:41.133000+00:00",
-  "date_found": "2026-10-27T03:01:58.055000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Product Test Engineer II (2nd Shift)",
-  "location": "Tucson, AZ",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801A--1151-E-Hermans-Rd--BLDG-801A-External-Site/Product-Test-Engineer-II--2nd-Shift-_01882218-1",
-  "date_posted": "2026-10-27T02:44:32.084000+00:00",
-  "date_found": "2026-10-27T03:01:58.055000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Cadmus Group",
-  "title": "Jr. Full Stack Developer",
-  "location": "",
-  "pay": "$80k–$100k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers-cadmusgroup.icims.com/jobs/3254/jr.-full-stack-developer/job",
-  "date_posted": null,
-  "date_found": "2026-10-27T01:58:01.191000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "U-Haul",
-  "title": "Software Developer - Junior",
-  "location": "Phoenix, AZ",
-  "pay": "$60k–$90k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Developer_R256644",
-  "date_posted": "2026-10-27T01:54:55.710000+00:00",
-  "date_found": "2026-10-27T01:58:01.191000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Lawrence Livermore National Laboratory",
   "title": "Data Visualization Software Engineer",
   "location": "Livermore, CA",
@@ -8313,22 +8394,6 @@
   "advanced_degree": false
  },
  {
-  "company": "The Aerospace Corporation",
-  "title": "2027 Quantum Photonics Scientist - Engineer I",
-  "location": "El Segundo, CA",
-  "pay": "$110,400–$165,500/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Quantum-Photonics-Scientist---Engineer-I_R016929",
-  "date_posted": "2026-10-26T19:06:36.445000+00:00",
-  "date_found": "2026-10-27T01:58:01.191000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "ABB",
   "title": "Associate Project Engineer (Electrical)",
   "location": "USA, NC, Mebane",
@@ -8568,38 +8633,6 @@
   "date_found": "2026-10-26T18:22:05.781000+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "EMI / EMC / Power Quality Engineer",
-  "location": "El Segundo, CA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E02--2002-E-El-Segundo-Blvd--BLDG-E02/EMI---EMC---Power-Quality-Engineer_01884394",
-  "date_posted": "2026-10-24T02:45:15.229000+00:00",
-  "date_found": "2026-10-27T03:01:58.055000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "EMI / EMC / Power Quality Engineer",
-  "location": "Mckinney, TX",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/EMI---EMC---Power-Quality-Engineer_01884403",
-  "date_posted": "2026-10-24T02:45:15.229000+00:00",
-  "date_found": "2026-10-27T03:01:58.055000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -13128,13 +13161,13 @@
  },
  {
   "company": "Shield AI",
-  "title": "Simulation Framework Engineer 2 - Simulation Framework",
+  "title": "Engineer II, Simulation Framework - New Grad - 6204",
   "location": "San Diego, CA",
-  "pay": null,
+  "pay": "$100k–$150k/yr",
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62/apply",
+  "url": "https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62",
   "date_posted": "2026-10-07T22:11:04+00:00",
   "date_found": "2026-10-07T22:53:49.482000+00:00",
   "top_company": true,
