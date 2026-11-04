@@ -2,12 +2,13 @@
 
 # 📱 Product new grad and entry-level roles
 
-All 94 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
+All 95 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=deluxe.com" width="20" height="20" align="absmiddle">&nbsp; **Deluxe** | Technical Product Analyst I ✨ | 3&nbsp;Locations<br><sub>$17.50–&#8288;$19/hr</sub> | Nov&nbsp;3 | <a href="https://deluxe.wd5.myworkdayjobs.com/USA_CAN/job/Remote-MN-USA/Technical-Product-Analyst-I_261298WD"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=fiserv.com" width="20" height="20" align="absmiddle">&nbsp; **Fiserv** | Product Analyst I ✨ | Omaha,&nbsp;NE<br><sub>-</sub> | Nov&nbsp;2 | <a href="https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Product-Analyst-I_R-10405253-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **AWE** | Graduate- Project Management ✨ | - | Nov&nbsp;2 | <a href="https://awepeople.wd3.myworkdayjobs.com/Grad_Careers/job/Graduate--Project-Management_R32506-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Product Solutions And Operations - Graduate (Global Monetization Product and Technology) - 2027 Start 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$76k–&#8288;$128k/yr</sub> | Oct&nbsp;30 | <a href="https://lifeattiktok.com/search/7702517151362976053"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
