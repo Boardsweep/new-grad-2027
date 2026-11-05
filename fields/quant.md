@@ -2,12 +2,13 @@
 
 # 📈 Quant new grad and entry-level roles
 
-All 91 open quant new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant).
+All 92 open quant new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=xcelenergy.com" width="20" height="20" align="absmiddle">&nbsp; **Xcel&nbsp;Energy** | Trading Associate Analyst or Analyst ✨ | Denver, CO, 80205<br><sub>$84,900–&#8288;$138,600/yr</sub> | Nov&nbsp;4 | <a href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Trading-Associate-Analyst-or-Analyst_JR116110-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=citadelsecurities.com" width="20" height="20" align="absmiddle">&nbsp; **Citadel Securities** | Quantitative Research Engineer – PhD Graduate (US) 🔥 🎓 | Miami,&nbsp;FL<br><sub>-</sub> | Nov&nbsp;2 | <a href="https://www.linkedin.com/jobs/view/4439274261"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=blackrock.com" width="20" height="20" align="absmiddle">&nbsp; **BlackRock** | Associate, Quant Research ✨ | San Francisco, CA<br><sub>$132,500–&#8288;$162k/yr</sub> | Oct&nbsp;31 | <a href="https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/Associate--Quant-Research_R267061"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=chicagotrading.com" width="20" height="20" align="absmiddle">&nbsp; **Chicago Trading Company** | Quant Trading Associate - Options Theory Intensive 🔥 | Chicago,&nbsp;IL<br><sub>$200k/yr</sub> | Oct&nbsp;30 | <a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4749020005"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

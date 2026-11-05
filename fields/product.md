@@ -2,12 +2,13 @@
 
 # 📱 Product new grad and entry-level roles
 
-All 100 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
+All 101 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=rtx.com" width="20" height="20" align="absmiddle">&nbsp; **RTX** | Product Definition Analyst (Onsite) ✨ 🛂 | East Hartford, CT<br><sub>-</sub> | Nov&nbsp;4 | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Engineer-II--Engineering-Excellence-Product-Definition--Onsite-_01887002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=mohawkind.com" width="20" height="20" align="absmiddle">&nbsp; **Mohawk** | Product Management Associate | Calhoun,&nbsp;GA<br><sub>-</sub> | Nov&nbsp;3 | <a href="https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Associate-ASPIRE-LDP-Geor-30701/1447354900/?ats=successfactors"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=boeing.com" width="20" height="20" align="absmiddle">&nbsp; **Boeing** | Associate Production Specialist ✨ 🛂 | USA - Huntsville, AL<br><sub>$71,400–&#8288;$96,600/yr</sub> | Nov&nbsp;3 | <a href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Associate-Production-Specialist_JR2026527020"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=blackhawknetwork.com" width="20" height="20" align="absmiddle">&nbsp; **Blackhawk&nbsp;Network** | Associate Product Manager - Technology | Pleasanton,&nbsp;CA<br><sub>$105,300–&#8288;$136,916/yr</sub> | Nov&nbsp;3 | <a href="https://blackhawknetwork.jibeapply.com/jobs/27263?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
