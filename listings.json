@@ -1,5 +1,167 @@
 [
  {
+  "company": "Northrop Grumman",
+  "title": "2027 Associate Systems Engineer – Sykesville MD",
+  "location": "United States-Maryland-Sykesville",
+  "pay": "$72,700–$109,100/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-Systems-Engineer---Sykesville-MD_R10258617-1",
+  "date_posted": "2026-11-04T05:27:06.400000+00:00",
+  "date_found": "2026-11-04T05:28:22.196000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Keysight Technologies",
+  "title": "Recent Graduate-Process Engineer – Semiconductor Wafer Fabrication",
+  "location": "Santa Rosa, CA",
+  "pay": "$76,870/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.keysight.com/jobs/55351",
+  "date_posted": "2026-11-04T05:21:28+00:00",
+  "date_found": "2026-11-04T05:25:24.658000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Keysight Technologies",
+  "title": "Recent Graduate-Process Engineer – Advanced Semiconductor Packaging",
+  "location": "Santa Rosa, CA",
+  "pay": "$76,870/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.keysight.com/jobs/55350",
+  "date_posted": "2026-11-04T05:20:28+00:00",
+  "date_found": "2026-11-04T05:22:13.557000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "RTX",
+  "title": "Engineering Development Program, Test Equipment Design, Engineer I (Onsite)",
+  "location": "East Hartford, CT",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Engineering-Development-Program--Test-Equipment-Design--Engineer-I--Onsite-_01884132",
+  "date_posted": "2026-11-04T04:42:33.353000+00:00",
+  "date_found": "2026-11-04T04:43:48.165000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Cotiviti",
+  "title": "Associate Software Engineer",
+  "location": "",
+  "pay": "$77k–$92k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers-cotiviti.icims.com/jobs/21591/associate-software-engineer/job",
+  "date_posted": null,
+  "date_found": "2026-11-04T02:57:59.696000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "AbbVie",
+  "title": "Associate DevSecOps Engineer, Platform and Tooling",
+  "location": "Mettawa",
+  "pay": null,
+  "tracks": [
+   "software",
+   "security"
+  ],
+  "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016610096",
+  "date_posted": "2026-11-04T02:25:48.475000+00:00",
+  "date_found": "2026-11-04T02:57:59.696000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Riverside Research",
+  "title": "Jr Software Engineer",
+  "location": "",
+  "pay": "$75k–$95k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers-riversideresearch.icims.com/jobs/4456/jr-software-engineer/job",
+  "date_posted": null,
+  "date_found": "2026-11-04T02:05:03.380000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Riverside Research",
+  "title": "Jr Software Engineer",
+  "location": "",
+  "pay": "$75k–$95k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers-riversideresearch.icims.com/jobs/4454/jr-software-engineer/job",
+  "date_posted": null,
+  "date_found": "2026-11-04T02:05:03.380000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Northrop Grumman",
+  "title": "2027 Associate S/W Embedded Engineer – Sykesville MD",
+  "location": "United States-Maryland-Sykesville",
+  "pay": "$72,700–$109,100/yr",
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Sykesville-MD_R10258626",
+  "date_posted": "2026-11-04T00:00:00+00:00",
+  "date_found": "2026-11-04T05:28:22.196000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Northrop Grumman",
+  "title": "2027 Associate H/W Electronics Engineer – Sykesville MD",
+  "location": "United States-Maryland-Sykesville",
+  "pay": "$72,700–$109,100/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-H-W-Electronics-Engineer---Sykesville-MD_R10258576",
+  "date_posted": "2026-11-04T00:00:00+00:00",
+  "date_found": "2026-11-04T05:28:22.196000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Endeavor AI",
   "title": "Forward Deployed Engineer, 2027 Graduate",
   "location": "Chicago",
@@ -112,6 +274,22 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
+ },
+ {
+  "company": "Pacific Northwest National Laboratory",
+  "title": "Post-Masters Research Associate - Large Language Models",
+  "location": "United States",
+  "pay": "$80,500/yr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://careers.pnnl.gov/jobs/12956?icims=1",
+  "date_posted": "2026-11-03T23:36:00+00:00",
+  "date_found": "2026-11-04T02:57:59.696000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
  },
  {
   "company": "Boston Scientific",
@@ -1375,6 +1553,22 @@
   "date_found": "2026-11-03T00:11:13.867000+00:00",
   "top_company": false,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Northrop Grumman",
+  "title": "Optical Subsystem I&T Engineer - Level 1",
+  "location": "United States-Arizona-Chandler",
+  "pay": "$72,400–$108,600/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Optical-Subsystem-I-T-Engineer---Level-1_R10259164",
+  "date_posted": "2026-11-03T00:00:00+00:00",
+  "date_found": "2026-11-04T01:34:47.971000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -7960,38 +8154,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Relativity Space",
-  "title": "GNC Performance Engineer I",
-  "location": "Long Beach, CA",
-  "pay": "$106k–$160k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://boards.greenhouse.io/relativity/jobs/8920809002?gh_jid=8920809002",
-  "date_posted": "2026-10-28T01:24:10+00:00",
-  "date_found": "2026-10-28T02:00:48.309000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "onsemi",
-  "title": "AI Engineer",
-  "location": "Scottsdale, AZ",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506767",
-  "date_posted": "2026-10-28T01:07:54+00:00",
-  "date_found": "2026-10-28T02:00:48.309000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Humble Robotics",
   "title": "Autonomy Engineer - Data",
   "location": "SF",
@@ -8458,71 +8620,6 @@
   "advanced_degree": false
  },
  {
-  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
-  "title": "Engineer II, Integration (R6202) - New Grad",
-  "location": "Washington, D.C.",
-  "pay": null,
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/1ecb2a62-28a4-405b-86cd-7a889996e989",
-  "date_posted": "2026-10-27T21:32:09.630000+00:00",
-  "date_found": "2026-10-28T06:58:07.359000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
-  "title": "Engineer II, Flight Test (R6222) - New Grad",
-  "location": "San Diego, CA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/32d8f4a9-ec01-444d-8986-cbd1ab831b1b",
-  "date_posted": "2026-10-27T21:31:37.837000+00:00",
-  "date_found": "2026-10-28T06:58:07.359000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
-  "title": "Engineer I, Software Test and Automation (R6216) - New Grad",
-  "location": "Washington, D.C.",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/3fe76139-6112-4ff1-a337-5034dcd45942",
-  "date_posted": "2026-10-27T21:31:23.109000+00:00",
-  "date_found": "2026-10-28T06:58:07.359000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
-  "title": "Engineer I, Flight Test (R6219) - New Grad",
-  "location": "San Diego, CA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/be1430ea-f612-4271-ae5b-29e653b043b6",
-  "date_posted": "2026-10-27T21:31:01.270000+00:00",
-  "date_found": "2026-10-28T06:58:07.359000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "SambaNova Systems",
   "title": "ML Infrastructure Engineer New Grad",
   "location": "2 locations",
@@ -8568,38 +8665,6 @@
   "date_found": "2026-10-28T00:24:29.407000+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Sr Systems Engineer – Integration and Test",
-  "location": "Aurora, CO",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Sr-Systems-Engineer---Integration-and-Test_01885198",
-  "date_posted": "2026-10-27T19:18:31.305000+00:00",
-  "date_found": "2026-10-28T04:00:47.360000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Software Security Engineer - II, Onsite",
-  "location": "Goleta, CA",
-  "pay": null,
-  "tracks": [
-   "security"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H03--6380-Hollister-Ave--BLDG-H03/Software-Security-Engineer---II--Onsite_01876900",
-  "date_posted": "2026-10-27T19:18:31.305000+00:00",
-  "date_found": "2026-10-28T02:58:38.962000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -8662,22 +8727,6 @@
   "url": "https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769",
   "date_posted": "2026-10-27T13:23:19.896000+00:00",
   "date_found": "2026-10-27T15:01:16.390000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
-  "title": "EWIS Harness Design - Engineer I",
-  "location": "Seattle, WA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a0ea5b02-79ed-48e8-b2a6-e31443dd5411",
-  "date_posted": "2026-10-27T10:48:27.927000+00:00",
-  "date_found": "2026-10-28T06:58:07.359000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -10441,6 +10490,70 @@
   "date_posted": "2026-10-21T01:04:08+00:00",
   "date_found": "2026-10-21T02:06:31.908000+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Electrical Engineer 1 New Grad",
+  "location": "Boston, MA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/4abd60c3-04fa-4168-bed7-bc63707e1d0a/application?embed=true",
+  "date_posted": "2026-10-21T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Electrical Engineer New Grad",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/88fb99dc-26b8-4937-92a9-b8d13ce4e0f0/application?embed=true",
+  "date_posted": "2026-10-21T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Engineer 1 New Grad - Electrical Integration & Test",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/278bdf33-85f0-49ab-a448-567e7e362ca2/application?embed=true",
+  "date_posted": "2026-10-21T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "PCB Designer New Grad",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7/application?embed=true",
+  "date_posted": "2026-10-21T00:00:00+00:00",
+  "date_found": "2026-10-28T06:58:07.359000+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false

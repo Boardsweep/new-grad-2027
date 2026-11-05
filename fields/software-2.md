@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,139 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,141 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,6 +10,9 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=oligospace.com" width="20" height="20" align="absmiddle">&nbsp; **Oligo&nbsp;Space** | AI Space Systems Software Engineer | Hawthorne,&nbsp;CA<br><sub>$110k–&#8288;$164k/yr</sub> | Jul&nbsp;21 | <a href="https://jobs.ashbyhq.com/oligo/1eda6c7f-694c-497e-a648-f9f388130cbc/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=pmg.com" width="20" height="20" align="absmiddle">&nbsp; **PMG** | Graduate Leadership Program - AI &amp; Software Engineering 🛂 | Dallas,&nbsp;TX<br><sub>-</sub> | Jul&nbsp;20 | <a href="https://job-boards.greenhouse.io/pmg/jobs/8587050002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Graduate Leadership Program - AI &amp; Software Engineering 🛂 | Dallas,&nbsp;TX<br><sub>-</sub> | Jul&nbsp;20 | <a href="https://job-boards.greenhouse.io/pmg/jobs/8587038002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=stvinc.com" width="20" height="20" align="absmiddle">&nbsp; **STV** | AI Engineer | 2&nbsp;locations<br><sub>-</sub> | Jul&nbsp;20 | <a href="https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/AI-Engineer_JR5923"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=globusmedical.com" width="20" height="20" align="absmiddle">&nbsp; **Globus&nbsp;Medical** | Associate Software Engineer | King of Prussia, PA<br><sub>-</sub> | Jul&nbsp;20 | <a href="https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Software-Engineer_JR106980-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=boeing.com" width="20" height="20" align="absmiddle">&nbsp; **Boeing** | Associate Software Engineer | Omaha,&nbsp;NE<br><sub>-</sub> | Jul&nbsp;18 | <a href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Omaha-NE/Software-Engineer_JR2026517990"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
