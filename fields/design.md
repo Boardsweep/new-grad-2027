@@ -2,13 +2,14 @@
 
 # 🎨 Design new grad and entry-level roles
 
-All 28 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
+All 29 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
 | <img src="https://boardsweep.io/api/logo?domain=twosixtechnologies.com" width="20" height="20" align="absmiddle">&nbsp; **Two Six Technologies** | Junior Product Designer ✨ | Remote<br><sub>$25–&#8288;$45/hr</sub> | Nov&nbsp;4 | <a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6241561004"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=wsp.com" width="20" height="20" align="absmiddle">&nbsp; **WSP** | Junior Technical Graphic Designer ✨ 🛂 | Pittsburgh,&nbsp;PA<br><sub>$52,200–&#8288;$67k/yr</sub> | Nov&nbsp;4 | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98833"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ryancompanies.com" width="20" height="20" align="absmiddle">&nbsp; **Ryan&nbsp;Companies** | Designer I ✨ | Minneapolis<br><sub>$58k–&#8288;$65k/yr</sub> | Nov&nbsp;3 | <a href="https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Designer-I_R-102342"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=maxar.com" width="20" height="20" align="absmiddle">&nbsp; **Maxar** | Junior UI/UX Designer (Secret) ✨ 🛂 | Herndon,&nbsp;VA<br><sub>$60k–&#8288;$85k/yr</sub> | Nov&nbsp;3 | <a href="https://maxar.wd1.myworkdayjobs.com/Vantor/job/Herndon-VA/Junior-UI-UX-Designer--Secret-_R24874-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=heliosww.com" width="20" height="20" align="absmiddle">&nbsp; **Heliosww** | Junior Digital Graphic Designer ✨ | Santa&nbsp;Monica,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;3 | <a href="https://heliosww.applytojob.com/apply/xluksXWZ96"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
