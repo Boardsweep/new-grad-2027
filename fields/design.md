@@ -2,12 +2,14 @@
 
 # 🎨 Design new grad and entry-level roles
 
-All 25 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
+All 27 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=fschumacher.com" width="20" height="20" align="absmiddle">&nbsp; **F. Schumacher &amp;** | Junior Graphic Designer ✨ | New&nbsp;York,&nbsp;NY<br><sub>$55k–&#8288;$60k/yr</sub> | Nov&nbsp;5<br><sub>⚡&nbsp;6m</sub> | <a href="https://job-boards.greenhouse.io/fschumacherco/jobs/5474520008"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=aecom.com" width="20" height="20" align="absmiddle">&nbsp; **AECOM** | Entry-Level Architecture Designer - Hiring Event with AECOM - Arlington, VA ✨ 🛂 | Arlington<br><sub>-</sub> | Nov&nbsp;5 | <a href="https://jobs.smartrecruiters.com/AECOM2/744000159874369"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=twosixtechnologies.com" width="20" height="20" align="absmiddle">&nbsp; **Two Six Technologies** | Junior Product Designer ✨ | Remote<br><sub>$25–&#8288;$45/hr</sub> | Nov&nbsp;4 | <a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6241561004"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=wsp.com" width="20" height="20" align="absmiddle">&nbsp; **WSP** | Junior Technical Graphic Designer ✨ 🛂 | Pittsburgh,&nbsp;PA<br><sub>$52,200–&#8288;$67k/yr</sub> | Nov&nbsp;4 | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98833"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ryancompanies.com" width="20" height="20" align="absmiddle">&nbsp; **Ryan&nbsp;Companies** | Designer I ✨ | Minneapolis<br><sub>$58k–&#8288;$65k/yr</sub> | Nov&nbsp;3 | <a href="https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Designer-I_R-102342"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
