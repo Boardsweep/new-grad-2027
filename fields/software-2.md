@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,187 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,179 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,14 +10,7 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Backend Software Engineer Graduate - Business Governance 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$316,800/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7663042453461600517"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Backend Software Engineer New Grad - Trust &amp; Safety 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$256k/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7665994926887291189"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Backend Software Engineer New Grad - Trust &amp; Safety 🔥 | Seattle,&nbsp;WA<br><sub>$121,600–&#8288;$243,200/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7664533229944178949"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Backend Software Engineer New Grad - Emerging Products &amp; AI Safety 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$316,800/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7663036952090347829"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Software Engineer New Grad - Business Integrity 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$256k/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7668592494649690421"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Software Engineer Graduate - Ads Delivery 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$256k/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7668662545059023157"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Software Engineer Graduate - MLOps 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$256k/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7668700671828707589"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$256k/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7668701834807101749"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$256k/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7668701834807101749"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer New Grad - Ads Signal &amp; Measurement 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$256k/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7668724383120804149"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer New Grad - Ads Measurement Signal Technology 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$256k/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7668717356843977013"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=petersontechnologies.com" width="20" height="20" align="absmiddle">&nbsp; **Peterson Technologies** | Junior Software Engineer | Annapolis Junction, MD<br><sub>$71k–&#8288;$120k/yr</sub> | Aug&nbsp;3 | <a href="https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

@@ -3,11 +3,11 @@
 
 <a href="https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=cta_email"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-email-dark.png"><img src="assets/cta-email-light.png" height="44" alt="Get the free digest"></picture></a>&nbsp;&nbsp;<a href="https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=cta_instant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-instant-dark.png"><img src="assets/cta-instant-light.png" height="44" alt="Instant alerts, 7 days free"></picture></a>
 
-<img src="assets/stats.svg" width="100%" alt="106 new in the last 24 hours, 2927 open">
+<img src="assets/stats.svg" width="100%" alt="105 new in the last 24 hours, 2897 open">
 </div>
 
 > [!TIP]
-> **This list runs a day behind.** The 106 new grad and entry-level roles we found in the last 24 hours are already in subscribers' inboxes, and appear here tomorrow. [Get a free daily email](https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_email), or [get each one the minute the company posts it](https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_instant) with the season pass (7 days free).
+> **This list runs a day behind.** The 105 new grad and entry-level roles we found in the last 24 hours are already in subscribers' inboxes, and appear here tomorrow. [Get a free daily email](https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_email), or [get each one the minute the company posts it](https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_instant) with the season pass (7 days free).
 
 <br>
 
@@ -15,11 +15,11 @@
 
 | Field | Open now | New this week | |
 | --- | ---: | ---: | --- |
-| 💻 **[Software engineering](fields/software.md)** | 1,187 | 181 | [Email me these, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_software) |
-| 🤖 **[AI, ML and data](fields/aiml.md)** | 754 | 49 | [Email me these, free](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_aiml) |
-| 📈 **[Quant](fields/quant.md)** | 91 | 5 | [Email me these, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_quant) |
-| 🔧 **[Hardware](fields/hardware.md)** | 698 | 142 | [Email me these, free](https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_hardware) |
-| 📱 **[Product](fields/product.md)** | 104 | 18 | [Email me these, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_product) |
+| 💻 **[Software engineering](fields/software.md)** | 1,179 | 183 | [Email me these, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_software) |
+| 🤖 **[AI, ML and data](fields/aiml.md)** | 746 | 51 | [Email me these, free](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_aiml) |
+| 📈 **[Quant](fields/quant.md)** | 89 | 5 | [Email me these, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_quant) |
+| 🔧 **[Hardware](fields/hardware.md)** | 687 | 142 | [Email me these, free](https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_hardware) |
+| 📱 **[Product](fields/product.md)** | 103 | 18 | [Email me these, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_product) |
 | 🎨 **[Design](fields/design.md)** | 30 | 19 | [Email me these, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_design) |
 | 🛡️ **[Security](fields/security.md)** | 31 | 22 | [Email me these, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_security) |
 
@@ -31,12 +31,14 @@
 
 ## Software engineering
 
-<sub>This week's 181 of 1,187. <a href="fields/software.md">See all 1,187 (2 pages)</a> · <a href="https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_software">Get only software engineering new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 183 of 1,179. <a href="fields/software.md">See all 1,179 (2 pages)</a> · <a href="https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_software">Get only software engineering new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=amazon.com" width="20" height="20" align="absmiddle">&nbsp; **Amazon** | Software Development Engineer - SoC Hardware Abstraction Layer 🔥 | Cupertino,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nc.gov" width="20" height="20" align="absmiddle">&nbsp; **State of North Carolina** | Applications Systems Analyst I ✨ | Wake&nbsp;County,&nbsp;NC<br><sub>$70,528–&#8288;$105,793/yr</sub> | Nov&nbsp;6 | <a href="https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Applications-Systems-Analyst-I_JR-128072"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=americanexpress.com" width="20" height="20" align="absmiddle">&nbsp; **American&nbsp;Express** | Software Engineer I ✨ | Sunrise,&nbsp;FL<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016174"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=charlesschwab.com" width="20" height="20" align="absmiddle">&nbsp; **Charles&nbsp;Schwab** | Associate Software Engineer | Austin,&nbsp;TX<br><sub>$44.23–&#8288;$45.19/hr</sub> | Nov&nbsp;6 | <a href="https://career-schwab.icims.com/jobs/127949/associate-software-engineer/job"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=medtronic.com" width="20" height="20" align="absmiddle">&nbsp; **Medtronic** | Software Quality Engineer I ✨ 🛂 | 2&nbsp;Locations<br><sub>$64,800–&#8288;$97,200/yr</sub> | Nov&nbsp;5 | <a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R72406-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Quality Engineer I ✨ 🛂 | 2&nbsp;Locations<br><sub>$64,800–&#8288;$97,200/yr</sub> | Nov&nbsp;5 | <a href="https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Quality-Engineer-I_R72406"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=abbott.com" width="20" height="20" align="absmiddle">&nbsp; **Abbott** | Test Systems Development Engineer I ✨ | United States - Massachusetts - Burlington<br><sub>$50,700–&#8288;$101,300/yr</sub> | Nov&nbsp;5 | <a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Burlington/Test-Systems-Development-Engineer-I_31166246-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -221,10 +223,11 @@
 
 ## AI, ML and data
 
-<sub>This week's 49 of 754. <a href="fields/aiml.md">See all 754</a> · <a href="https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_aiml">Get only ai, ml and data new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 51 of 746. <a href="fields/aiml.md">See all 746</a> · <a href="https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_aiml">Get only ai, ml and data new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Research Engineer - Agentic Video Editing 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$162k–&#8288;$387,600/yr</sub> | Nov&nbsp;6 | <a href="https://lifeattiktok.com/search/7704036750285867269"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=td.com" width="20" height="20" align="absmiddle">&nbsp; **TD&nbsp;Bank** | Applied Machine Learning Scientist I ✨ | 2&nbsp;Locations<br><sub>-</sub> | Nov&nbsp;5 | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1508642"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=sanofi.com" width="20" height="20" align="absmiddle">&nbsp; **Sanofi** | Scientist 1 MSAT ✨ | Framingham,&nbsp;MA<br><sub>$85,500–&#8288;$123,500/yr</sub> | Nov&nbsp;5 | <a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/Scientist-1-MSAT_R2870022"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=altasciences.com" width="20" height="20" align="absmiddle">&nbsp; **Altasciences** | PK Scientist I ✨ | 3&nbsp;Locations<br><sub>-</sub> | Nov&nbsp;5 | <a href="https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/PK-Scientist-I_R103271"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -237,6 +240,7 @@
 | <img src="https://boardsweep.io/api/logo?domain=gm.com" width="20" height="20" align="absmiddle">&nbsp; **General&nbsp;Motors** | Machine Learning Systems Engineer - Data Labeling Engineering | Sunnyvale,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;5 | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=regeneron.com" width="20" height="20" align="absmiddle">&nbsp; **Regeneron Pharmaceuticals** | Data Analyst - Quality Assurance | Troy,&nbsp;NY<br><sub>$62,355–&#8288;$131,300/yr</sub> | Nov&nbsp;5 | <a href="https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSS---GLOBAL-VIEW/Data-Analyst--Quality-Assurance_R52701"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **First National Bank** | Data Analytics Engineer 1 - Pittsburgh or Hermitage, PA 🛂 | 2&nbsp;Locations<br><sub>-</sub> | Nov&nbsp;5 | <a href="https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Data-Analytics-Engineer-1---Pittsburgh-or-Hermitage--PA_2026-02664"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=tufts.edu" width="20" height="20" align="absmiddle">&nbsp; **Tufts&nbsp;University** | Postdoctoral Scholar | Medford,&nbsp;MA<br><sub>$67,500/yr</sub> | Nov&nbsp;4 | <a href="https://jobs.tufts.edu/jobs/24682?icims=1&amp;lang=en-us"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=turnerandtownsend.com" width="20" height="20" align="absmiddle">&nbsp; **Turner &amp; Townsend** | Operations and Data Assistant - AI and Data Analyst | Charlotte,&nbsp;NC<br><sub>-</sub> | Nov&nbsp;4 | <a href="https://jobs.smartrecruiters.com/TurnerTownsend/744000159691614"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=shadowdragon.io" width="20" height="20" align="absmiddle">&nbsp; **ShadowDragon** | Junior AI/Machine Learning Engineer | 2&nbsp;locations<br><sub>-</sub> | Nov&nbsp;4 | <a href="https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=loft.com" width="20" height="20" align="absmiddle">&nbsp; **Knitwell&nbsp;Group** | Digital Analytics &amp; Reporting Analyst 🛂 | NYC<br><sub>$60k–&#8288;$65k/yr</sub> | Nov&nbsp;4 | <a href="https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/Times-Square-Tower-ANN-New-York-NY-10036/Digital-Analytics---Reporting-Analyst_R-2041770"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -279,7 +283,7 @@
 
 ## Quant
 
-<sub>This week's 5 of 91. <a href="fields/quant.md">See all 91</a> · <a href="https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_quant">Get only quant new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 5 of 89. <a href="fields/quant.md">See all 89</a> · <a href="https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_quant">Get only quant new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -293,7 +297,7 @@
 
 ## Hardware
 
-<sub>This week's 142 of 698. <a href="fields/hardware.md">See all 698</a> · <a href="https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_hardware">Get only hardware new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 142 of 687. <a href="fields/hardware.md">See all 687</a> · <a href="https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_hardware">Get only hardware new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -444,7 +448,7 @@
 
 ## Product
 
-<sub>This week's 18 of 104. <a href="fields/product.md">See all 104</a> · <a href="https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_product">Get only product new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 18 of 103. <a href="fields/product.md">See all 103</a> · <a href="https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_product">Get only product new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -508,7 +512,7 @@
 | ↳ | Assistant Contractor Special Security Officer (ACSSO) - McKinney, TX ✨ 🛂 | Mckinney,&nbsp;TX<br><sub>-</sub> | Nov&nbsp;5 | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Assistant-Contractor-Special-Security-Officer--ACSSO----McKinney--TX_01884981"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=northropgrumman.com" width="20" height="20" align="absmiddle">&nbsp; **Northrop&nbsp;Grumman** | 2027 Associate Cyber Systems Engineer - Roy UT ✨ 🛂 | United States-Utah-Roy<br><sub>$65,800–&#8288;$98,800/yr</sub> | Nov&nbsp;5 | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Cyber-Systems-Engineer---Roy-UT_R10259435"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rtx.com" width="20" height="20" align="absmiddle">&nbsp; **RTX** | Information System Security Officer (ISSO) - Tucson, AZ ✨ 🛂 | Tucson,&nbsp;AZ<br><sub>-</sub> | Nov&nbsp;5 | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M05--1151-E-Hermans-Rd--BLDG-M05-External-Site/Information-System-Security-Officer--ISSO----Tucson--AZ_01887378"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=cissecure.com" width="20" height="20" align="absmiddle">&nbsp; **CIS&nbsp;Secure** | TEMPEST Engineer Trainee 🛂 | Ashburn,&nbsp;VA<br><sub>$95k–&#8288;$115k/yr</sub> | Nov&nbsp;5 | <a href="https://careers-cis.icims.com/jobs/2385/job?mobile=true&amp;needsRedirect=false"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=cissecure.com" width="20" height="20" align="absmiddle">&nbsp; **CIS&nbsp;Secure** | Tempest Engineer Trainee 🛂 | Ashburn,&nbsp;VA<br><sub>$95k–&#8288;$115k/yr</sub> | Nov&nbsp;5 | <a href="https://careers-cis.icims.com/jobs/2385/tempest-engineer-trainee/job"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nc.gov" width="20" height="20" align="absmiddle">&nbsp; **State of North Carolina** | IT Security &amp; Compliance Specialist I - EHRA ✨ | Wake&nbsp;County,&nbsp;NC<br><sub>$75,818–&#8288;$113,727/yr</sub> | Nov&nbsp;5 | <a href="https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/IT-Security---Compliance-Specialist-I---EHRA_JR-127887"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=horizon3.ai" width="20" height="20" align="absmiddle">&nbsp; **Horizon3.ai** | Research Staff, Adversarial Intelligence | US,&nbsp;Remote<br><sub>$145k–&#8288;$170k/yr</sub> | Nov&nbsp;5 | <a href="https://jobs.ashbyhq.com/horizon3ai/6134d6f9-4b78-47e9-a57a-93636bc4b666"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rtx.com" width="20" height="20" align="absmiddle">&nbsp; **RTX** | Sr. Analyst, Industrial Security - Tucson, AZ ✨ 🛂 | Tucson,&nbsp;AZ<br><sub>-</sub> | Nov&nbsp;4 | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M05--1151-E-Hermans-Rd--BLDG-M05-External-Site/Sr-Analyst--Industrial-Security---Tucson--AZ_01886086"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -536,6 +540,6 @@
 
 Also see: [Summer 2027 internships](https://github.com/Boardsweep/summer-2027-internships) · [Every role, filterable, on boardsweep.io](https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=footer)
 
-<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 07, 2026 at 07:21 UTC. Not affiliated with any company listed.</sub>
+<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 07, 2026 at 13:12 UTC. Not affiliated with any company listed.</sub>
 
 </div>
