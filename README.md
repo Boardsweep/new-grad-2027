@@ -3,11 +3,11 @@
 
 <a href="https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=cta_email"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-email-dark.png"><img src="assets/cta-email-light.png" height="44" alt="Get the free digest"></picture></a>&nbsp;&nbsp;<a href="https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=cta_instant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-instant-dark.png"><img src="assets/cta-instant-light.png" height="44" alt="Instant alerts, 7 days free"></picture></a>
 
-<img src="assets/stats.svg" width="100%" alt="87 new in the last 24 hours, 2933 open">
+<img src="assets/stats.svg" width="100%" alt="106 new in the last 24 hours, 2927 open">
 </div>
 
 > [!TIP]
-> **This list runs a day behind.** The 87 new grad and entry-level roles we found in the last 24 hours are already in subscribers' inboxes, and appear here tomorrow. [Get a free daily email](https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_email), or [get each one the minute the company posts it](https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_instant) with the season pass (7 days free).
+> **This list runs a day behind.** The 106 new grad and entry-level roles we found in the last 24 hours are already in subscribers' inboxes, and appear here tomorrow. [Get a free daily email](https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_email), or [get each one the minute the company posts it](https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_instant) with the season pass (7 days free).
 
 <br>
 
@@ -15,12 +15,12 @@
 
 | Field | Open now | New this week | |
 | --- | ---: | ---: | --- |
-| 💻 **[Software engineering](fields/software.md)** | 1,192 | 186 | [Email me these, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_software) |
+| 💻 **[Software engineering](fields/software.md)** | 1,187 | 181 | [Email me these, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_software) |
 | 🤖 **[AI, ML and data](fields/aiml.md)** | 754 | 49 | [Email me these, free](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_aiml) |
-| 📈 **[Quant](fields/quant.md)** | 91 | 6 | [Email me these, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_quant) |
-| 🔧 **[Hardware](fields/hardware.md)** | 698 | 141 | [Email me these, free](https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_hardware) |
-| 📱 **[Product](fields/product.md)** | 105 | 18 | [Email me these, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_product) |
-| 🎨 **[Design](fields/design.md)** | 30 | 18 | [Email me these, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_design) |
+| 📈 **[Quant](fields/quant.md)** | 91 | 5 | [Email me these, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_quant) |
+| 🔧 **[Hardware](fields/hardware.md)** | 698 | 142 | [Email me these, free](https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_hardware) |
+| 📱 **[Product](fields/product.md)** | 104 | 18 | [Email me these, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_product) |
+| 🎨 **[Design](fields/design.md)** | 30 | 19 | [Email me these, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_design) |
 | 🛡️ **[Security](fields/security.md)** | 31 | 22 | [Email me these, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_security) |
 
 <br>
@@ -31,7 +31,7 @@
 
 ## Software engineering
 
-<sub>This week's 186 of 1,192. <a href="fields/software.md">See all 1,192 (2 pages)</a> · <a href="https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_software">Get only software engineering new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 181 of 1,187. <a href="fields/software.md">See all 1,187 (2 pages)</a> · <a href="https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_software">Get only software engineering new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -216,11 +216,6 @@
 | **Brown &amp; Brown Insurance** | Junior HubSpot Developer | Plano,&nbsp;TX<br><sub>-</sub> | Nov&nbsp;1 | <a href="https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=northropgrumman.com" width="20" height="20" align="absmiddle">&nbsp; **Northrop&nbsp;Grumman** | 2027 Associate Software Engineer - Bellevue (NE) 🛂 | United States-Alabama-Huntsville<br><sub>$65,800–&#8288;$98,800/yr</sub> | Nov&nbsp;1 | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=sparksoftcorp.com" width="20" height="20" align="absmiddle">&nbsp; **Sparksoft** | Junior Technical Engineer ✨ | Remote/Hybrid if local to Maryland<br><sub>-</sub> | Oct&nbsp;31<br><sub>⚡&nbsp;23m</sub> | <a href="https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5281142007"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=verizoncommunications.com" width="20" height="20" align="absmiddle">&nbsp; **Verizon Communications** | Archt I-Solutions Archt ✨ | 2&nbsp;Locations<br><sub>-</sub> | Oct&nbsp;31 | <a href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Archt-I-Solutions-Archt_R-1102712-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Archt I-DevOps ✨ | 2&nbsp;Locations<br><sub>-</sub> | Oct&nbsp;31 | <a href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Archt-I-DevOps_R-1102716"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Archt I-DevOps ✨ | 2&nbsp;Locations<br><sub>-</sub> | Oct&nbsp;31 | <a href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Archt-I-DevOps_R-1102713"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=blackrock.com" width="20" height="20" align="absmiddle">&nbsp; **BlackRock** | Associate, Application Deployment Engineer ✨ | Atlanta,&nbsp;GA<br><sub>$112k–&#8288;$140k/yr</sub> | Oct&nbsp;31 | <a href="https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Atlanta-GA/Associate--Application-Deployment-Engineer_R266359-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=parsons.com" width="20" height="20" align="absmiddle">&nbsp; **Parsons** | Linux Systems Administrator - Junior ✨ | -<br><sub>$88,400–&#8288;$154,700/yr</sub> | Oct&nbsp;31 | <a href="https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Centreville/Systems-Engineer---Junior_R188078"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 <br>
 
@@ -284,7 +279,7 @@
 
 ## Quant
 
-<sub>This week's 6 of 91. <a href="fields/quant.md">See all 91</a> · <a href="https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_quant">Get only quant new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 5 of 91. <a href="fields/quant.md">See all 91</a> · <a href="https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_quant">Get only quant new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -293,16 +288,17 @@
 | <img src="https://boardsweep.io/api/logo?domain=xcelenergy.com" width="20" height="20" align="absmiddle">&nbsp; **Xcel&nbsp;Energy** | Trading Associate Analyst or Analyst ✨ | Denver, CO, 80205<br><sub>$84,900–&#8288;$138,600/yr</sub> | Nov&nbsp;4 | <a href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Trading-Associate-Analyst-or-Analyst_JR116110-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=morganstanley.com" width="20" height="20" align="absmiddle">&nbsp; **Morgan&nbsp;Stanley** | Quantitative Strategist - Associate - Municipal Markets | NYC<br><sub>$110k–&#8288;$125k/yr</sub> | Nov&nbsp;4 | <a href="https://ms.wd5.myworkdayjobs.com/private/job/New-York-New-York-United-States-of-America/Fixed-Income-Division---Associate--Municipal-Markets--New-York-_JR046276"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=citadelsecurities.com" width="20" height="20" align="absmiddle">&nbsp; **Citadel Securities** | Quantitative Research Engineer – PhD Graduate (US) 🔥 🎓 | Miami,&nbsp;FL<br><sub>-</sub> | Nov&nbsp;2 | <a href="https://www.linkedin.com/jobs/view/4439274261"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=blackrock.com" width="20" height="20" align="absmiddle">&nbsp; **BlackRock** | Associate, Quant Research ✨ | San Francisco, CA<br><sub>$132,500–&#8288;$162k/yr</sub> | Oct&nbsp;31 | <a href="https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/Associate--Quant-Research_R267061"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 <br>
 
 ## Hardware
 
-<sub>This week's 141 of 698. <a href="fields/hardware.md">See all 698</a> · <a href="https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_hardware">Get only hardware new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 142 of 698. <a href="fields/hardware.md">See all 698</a> · <a href="https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_hardware">Get only hardware new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=abb.com" width="20" height="20" align="absmiddle">&nbsp; **ABB** | Associate Electrical Designer ✨ | USA,&nbsp;NC,&nbsp;Mebane<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Associate-Electrical-Designer_JR00052222"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=stokespace.com" width="20" height="20" align="absmiddle">&nbsp; **Stoke&nbsp;Space** | Test Engineer (Level 1 - Early Career) 🛂 | Moses&nbsp;Lake,&nbsp;WA<br><sub>$95,550–&#8288;$120,645/yr</sub> | Nov&nbsp;6 | <a href="https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=appliedmaterials.com" width="20" height="20" align="absmiddle">&nbsp; **Applied&nbsp;Materials** | New College Grad - Process Engineer - Doctorate (Winter 2026) ✨ 🎓 | Santa&nbsp;Clara,&nbsp;CA<br><sub>$124k–&#8288;$171k/yr</sub> | Nov&nbsp;6 | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer_R2632288"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | New College Grad - Process Engineer - Doctorate (Winter 2026) ✨ 🎓 | Santa&nbsp;Clara,&nbsp;CA<br><sub>$124k–&#8288;$171k/yr</sub> | Nov&nbsp;6 | <a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad---Process-Engineer---Doctorate--Winter-2026-_R2633193"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=abbott.com" width="20" height="20" align="absmiddle">&nbsp; **Abbott** | Test Systems Development Engineer I ✨ | United States - Massachusetts - Burlington<br><sub>$50,700–&#8288;$101,300/yr</sub> | Nov&nbsp;5 | <a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Massachusetts---Burlington/Test-Systems-Development-Engineer-I_31166246"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -443,13 +439,12 @@
 | ↳ | AEGS Pro Electrical Engineer I (On-Site) 🛂 | Tucson,&nbsp;AZ<br><sub>-</sub> | Nov&nbsp;2 | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/AEGS-Pro-Electrical-Engineer-I--On-Site-_01886301"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=thorlabs.com" width="20" height="20" align="absmiddle">&nbsp; **Thorlabs** | Photonics Engineer I ✨ | Ann&nbsp;Arbor,&nbsp;MI<br><sub>-</sub> | Nov&nbsp;2 | <a href="https://apply.workable.com/thorlabs/j/0FFF6F86F8/"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=northropgrumman.com" width="20" height="20" align="absmiddle">&nbsp; **Northrop&nbsp;Grumman** | Associate Hardware Engineer 🛂 | San&nbsp;Diego,&nbsp;CA<br><sub>$69,400–&#8288;$104k/yr</sub> | Nov&nbsp;2 | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Hardware-Engineer---San-Diego-CA_R10258705"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=amazon.com" width="20" height="20" align="absmiddle">&nbsp; **Amazon** | Hardware Development Engineer 1 - Drone Engineering 🔥 | Seattle,&nbsp;WA<br><sub>-</sub> | Oct&nbsp;31 | <a href="https://amazon.jobs/en/jobs/10593930/hardware-dev-engineer-i-prime-air-drone-engineering"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 <br>
 
 ## Product
 
-<sub>This week's 18 of 105. <a href="fields/product.md">See all 105</a> · <a href="https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_product">Get only product new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 18 of 104. <a href="fields/product.md">See all 104</a> · <a href="https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_product">Get only product new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -476,10 +471,11 @@
 
 ## Design
 
-<sub>This week's 18 of 30. <a href="fields/design.md">See all 30</a> · <a href="https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_design">Get only design new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 19 of 30. <a href="fields/design.md">See all 30</a> · <a href="https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_design">Get only design new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=powerdesigninc.us" width="20" height="20" align="absmiddle">&nbsp; **Powerdesigninc** | Associate Mechanical Designer ✨ | FL&nbsp;Tampa&nbsp;Bay&nbsp;HQ<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/FL-Tampa-Bay-HQ/Associate-Mechanical-Designer_R9500-1"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=upbound.com" width="20" height="20" align="absmiddle">&nbsp; **Upbound&nbsp;Group** | Learning Specialist (Designer and Developer I) ✨ 🛂 | Plano,&nbsp;TX<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Learning-Specialist--Designer-and-Developer-I-_R-100864"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=abbott.com" width="20" height="20" align="absmiddle">&nbsp; **Abbott** | Designer I CAD ✨ | United States - Minnesota - Plymouth<br><sub>$19.35–&#8288;$38.75/hr</sub> | Nov&nbsp;5 | <a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Plymouth/Designer-I-CAD_31166599"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tamus.edu" width="20" height="20" align="absmiddle">&nbsp; **Texas A&amp;M University System** | Instructional Designer I or II ✨ | College Station, TX<br><sub>-</sub> | Nov&nbsp;5 | <a href="https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Instructional-Designer-I-or-II_R-098658"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -540,6 +536,6 @@
 
 Also see: [Summer 2027 internships](https://github.com/Boardsweep/summer-2027-internships) · [Every role, filterable, on boardsweep.io](https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=footer)
 
-<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 07, 2026 at 01:21 UTC. Not affiliated with any company listed.</sub>
+<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 07, 2026 at 07:21 UTC. Not affiliated with any company listed.</sub>
 
 </div>

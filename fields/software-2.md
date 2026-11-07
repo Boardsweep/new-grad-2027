@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,192 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,187 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,12 +10,7 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=eai-technologies.com" width="20" height="20" align="absmiddle">&nbsp; **EAi&nbsp;Technologies** | Physics/Math Graduate Software Developer | Vienna,&nbsp;VA<br><sub>$70k–&#8288;$85k/yr</sub> | Aug&nbsp;3 | <a href="https://eaiti.applytojob.com/apply/04bnB7a43f/PhysicsMath-Graduate-Entry-Level-Software-Developer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Entry Level .NET Software Developer | Vienna,&nbsp;VA<br><sub>$70k–&#8288;$85k/yr</sub> | Aug&nbsp;3 | <a href="https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Backend Software Engineer Graduate - Risk &amp; Response 🔥 | Seattle,&nbsp;WA<br><sub>$121,600–&#8288;$243,200/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7663032057264244997"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Backend Software Engineer New Grad - Feed Safety 🔥 | Seattle,&nbsp;WA<br><sub>$121,600–&#8288;$243,200/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7663028952600807733"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Backend Software Engineer - Machine Moderation Platform 🔥 | Seattle,&nbsp;WA<br><sub>$121,600–&#8288;$243,200/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7663036950303050037"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Backend Software Engineer Graduate - Business Governance 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$316,800/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7663042453461600517"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Backend Software Engineer Graduate - Business Governance 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$316,800/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7663042453461600517"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Backend Software Engineer New Grad - Trust &amp; Safety 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$256k/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7665994926887291189"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Backend Software Engineer New Grad - Trust &amp; Safety 🔥 | Seattle,&nbsp;WA<br><sub>$121,600–&#8288;$243,200/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7664533229944178949"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Backend Software Engineer New Grad - Emerging Products &amp; AI Safety 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$316,800/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7663036952090347829"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

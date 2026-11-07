@@ -1,5 +1,54 @@
 [
  {
+  "company": "Powerdesigninc",
+  "title": "Associate Mechanical Designer",
+  "location": "FL Tampa Bay HQ",
+  "pay": null,
+  "tracks": [
+   "design"
+  ],
+  "url": "https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/FL-Tampa-Bay-HQ/Associate-Mechanical-Designer_R9500-1",
+  "date_posted": "2026-11-06T02:49:43.287000+00:00",
+  "date_found": "2026-11-06T02:58:20.362000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "ABB",
+  "title": "Associate Electrical Designer",
+  "location": "USA, NC, Mebane",
+  "pay": null,
+  "tracks": [
+   "hardware",
+   "design"
+  ],
+  "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Associate-Electrical-Designer_JR00052222",
+  "date_posted": "2026-11-06T02:41:02.721000+00:00",
+  "date_found": "2026-11-06T02:58:20.362000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Stoke Space",
+  "title": "Test Engineer (Level 1 - Early Career)",
+  "location": "Moses Lake, WA",
+  "pay": "$95,550–$120,645/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004",
+  "date_posted": null,
+  "date_found": "2026-11-06T01:53:30.213732+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Upbound Group",
   "title": "Learning Specialist (Designer and Developer I)",
   "location": "Plano, TX",
@@ -8135,72 +8184,6 @@
   "advanced_degree": false
  },
  {
-  "company": "RTX",
-  "title": "Cyber Software Engineer II",
-  "location": "Anaheim, CA",
-  "pay": null,
-  "tracks": [
-   "software",
-   "security"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Cyber-Software-Engineer-II_01885961",
-  "date_posted": "2026-10-30T07:00:23.809000+00:00",
-  "date_found": "2026-10-30T07:01:32.780000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Software Engineer II (Cybersecurity | Networking)",
-  "location": "Annapolis Junction, MD",
-  "pay": null,
-  "tracks": [
-   "software",
-   "security"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineer-II--Cybersecurity---Networking-_01885972",
-  "date_posted": "2026-10-30T06:40:18.451000+00:00",
-  "date_found": "2026-10-30T06:40:39.708000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Saab",
-  "title": "Associate Software Engineer",
-  "location": "East Syracuse, NY",
-  "pay": "$72k–$90k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Associate-Software-Engineer_R-03377-1",
-  "date_posted": "2026-10-30T05:47:26.683000+00:00",
-  "date_found": "2026-10-30T05:59:35.868000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Formlabs",
-  "title": "Industrial Designer - Entry Level",
-  "location": "Boston, MA",
-  "pay": "$90k–$120k/yr",
-  "tracks": [
-   "design"
-  ],
-  "url": "https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032",
-  "date_posted": null,
-  "date_found": "2026-10-30T02:57:59.210000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Formlabs",
   "title": "Embedded Software Engineer - Entry Level",
   "location": "Boston, MA",
@@ -8214,22 +8197,6 @@
   "date_found": "2026-10-30T02:57:59.210000+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Caterpillar",
-  "title": "Associate Design Engineer",
-  "location": "Rapid City, SD",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rapid-City-South-Dakota/Associate-Design-Engineer_R0000402088",
-  "date_posted": "2026-10-30T02:42:13.260000+00:00",
-  "date_found": "2026-10-30T02:57:59.210000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -8252,22 +8219,6 @@
  },
  {
   "company": "Formlabs",
-  "title": "R&D Engineer - Entry Level",
-  "location": "Boston, MA",
-  "pay": "$110k–$140k/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://careers.formlabs.com/job/8249038/apply/?gh_jid=8249038",
-  "date_posted": null,
-  "date_found": "2026-10-30T01:57:59.667000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Formlabs",
   "title": "R&D Reliability/Test Engineer - Entry Level",
   "location": "Boston, MA",
   "pay": "$100k–$140k/yr",
@@ -8276,38 +8227,6 @@
   ],
   "url": "https://careers.formlabs.com/job/8241461/apply/?gh_jid=8241461",
   "date_posted": null,
-  "date_found": "2026-10-30T01:57:59.667000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Formlabs",
-  "title": "Technical Program Manager - Entry Level",
-  "location": "Boston, MA",
-  "pay": "$110k–$140k/yr",
-  "tracks": [
-   "product"
-  ],
-  "url": "https://careers.formlabs.com/job/8249069/apply/?gh_jid=8249069",
-  "date_posted": null,
-  "date_found": "2026-10-30T01:57:59.667000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Citi",
-  "title": "Junior Application Developer",
-  "location": "Tampa Florida United States",
-  "pay": "$76,560–$106,840/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Junior-Application-Developer_261003010",
-  "date_posted": "2026-10-30T01:42:36.904000+00:00",
   "date_found": "2026-10-30T01:57:59.667000+00:00",
   "top_company": false,
   "no_sponsorship": false,
@@ -8679,22 +8598,6 @@
   "date_posted": null,
   "date_found": "2026-10-29T11:52:07.233196+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Raydar",
-  "title": "Junior Software Engineer",
-  "location": "United States",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://apply.workable.com/raydar/j/36D21159FF/",
-  "date_posted": "2026-10-29T00:00:00+00:00",
-  "date_found": "2026-10-30T01:57:59.667000+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
