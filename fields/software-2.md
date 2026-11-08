@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,172 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,176 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,6 +10,10 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=gliacelltechnologies.com" width="20" height="20" align="absmiddle">&nbsp; **GliaCell Technologies** | Software Engineer | Annapolis Junction, MD<br><sub>$50k–&#8288;$120k/yr</sub> | Aug&nbsp;3 | <a href="https://gliacelltechnologies.applytojob.com/apply/F5wpzZFcry/Software-Engineer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Junior Java Software Engineer | Annapolis Junction, MD<br><sub>$50k–&#8288;$120k/yr</sub> | Aug&nbsp;3 | <a href="https://gliacelltechnologies.applytojob.com/apply/5LJjRwD5B9/Junior-Java-Software-Engineer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=analog.com" width="20" height="20" align="absmiddle">&nbsp; **Analog&nbsp;Devices** | Product Engineer - Design Evaluation | Wilmington,&nbsp;MA<br><sub>$87,188–&#8288;$119,906/yr</sub> | Aug&nbsp;3 | <a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=ntst.com" width="20" height="20" align="absmiddle">&nbsp; **Netsmart** | Software Engineer 🛂 | Overland Park, KS<br><sub>-</sub> | Aug&nbsp;3 | <a href="https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer----Dec26-May-27-Grads-_R015658"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=akima.com" width="20" height="20" align="absmiddle">&nbsp; **Akima** | Unreal Game Designer | Huntsville,&nbsp;AL<br><sub>-</sub> | Aug&nbsp;2 | <a href="https://careers.akima.com/jobs/22581?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=mantech.com" width="20" height="20" align="absmiddle">&nbsp; **ManTech** | Software Engineer 1 🛂 | Crane,&nbsp;IN<br><sub>-</sub> | Aug&nbsp;2 | <a href="https://mantech.avature.net/en_US/careers/JobDetail/61501"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=garmin.com" width="20" height="20" align="absmiddle">&nbsp; **Garmin** | Software Engineer 1 - Connect IQ Applications | Olathe,&nbsp;KS<br><sub>-</sub> | Aug&nbsp;1 | <a href="https://careers.garmin.com/jobs/18475?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

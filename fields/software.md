@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,172 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,176 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 1 of 2: **1** · [2](software-2.md)
 
@@ -10,6 +10,10 @@ Page 1 of 2: **1** · [2](software-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=everwatchsolutions.com" width="20" height="20" align="absmiddle">&nbsp; **Everwatch Everwatchsolutions** | Junior Engineer ✨ | -<br><sub>$48.08–&#8288;$57.70/hr</sub> | Nov&nbsp;7 | <a href="https://everwatch-everwatchsolutions.icims.com/jobs/3578/junior-engineer/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=primecontrols.com" width="20" height="20" align="absmiddle">&nbsp; **Prime&nbsp;Controls** | Controls Engineer I ✨ | - | Nov&nbsp;7 | <a href="https://careers-primecontrols.icims.com/jobs/2109/controls-engineer-i/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Controls Engineer I ✨ | - | Nov&nbsp;7 | <a href="https://careers-primecontrols.icims.com/jobs/2269/controls-engineer-i/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Controls Engineer I ✨ | - | Nov&nbsp;7 | <a href="https://careers-primecontrols.icims.com/jobs/2272/controls-engineer-i/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=navitus.com" width="20" height="20" align="absmiddle">&nbsp; **Navitus** | Developer I, Application Systems ✨ | -<br><sub>$67,656.79–&#8288;$81,514.20/yr</sub> | Nov&nbsp;7 | <a href="https://careers-navitus.icims.com/jobs/6627/developer-i%2c-application-systems/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=abbvie.com" width="20" height="20" align="absmiddle">&nbsp; **AbbVie** | Associate Software Engineer I | North&nbsp;Chicago<br><sub>-</sub> | Nov&nbsp;7 | <a href="https://jobs.smartrecruiters.com/AbbVie/3743990016715126"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=boozallen.com" width="20" height="20" align="absmiddle">&nbsp; **Booz Allen Hamilton** | Model-Based Systems Engineer, Junior ✨ 🛂 | El&nbsp;Segundo,&nbsp;CA<br><sub>$53k–&#8288;$108k/yr</sub> | Nov&nbsp;7 | <a href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/Model-Based-Systems-Engineer--Junior_R0253162"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -959,10 +963,6 @@ Page 1 of 2: **1** · [2](software-2.md)
 | ↳ | Software Engineer New Grad - Ads Measurement Signal Technology 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$256k/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7668717356843977013"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=petersontechnologies.com" width="20" height="20" align="absmiddle">&nbsp; **Peterson Technologies** | Junior Software Engineer | Annapolis Junction, MD<br><sub>$71k–&#8288;$120k/yr</sub> | Aug&nbsp;3 | <a href="https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Junior Software Engineer | Annapolis Junction, MD<br><sub>$71k–&#8288;$120k/yr</sub> | Aug&nbsp;3 | <a href="https://petersontechnologies.applytojob.com/apply/Y3TD9CDM0V/Junior-Software-Engineer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=gliacelltechnologies.com" width="20" height="20" align="absmiddle">&nbsp; **GliaCell Technologies** | Software Engineer | Annapolis Junction, MD<br><sub>$50k–&#8288;$120k/yr</sub> | Aug&nbsp;3 | <a href="https://gliacelltechnologies.applytojob.com/apply/F5wpzZFcry/Software-Engineer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Junior Java Software Engineer | Annapolis Junction, MD<br><sub>$50k–&#8288;$120k/yr</sub> | Aug&nbsp;3 | <a href="https://gliacelltechnologies.applytojob.com/apply/5LJjRwD5B9/Junior-Java-Software-Engineer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=analog.com" width="20" height="20" align="absmiddle">&nbsp; **Analog&nbsp;Devices** | Product Engineer - Design Evaluation | Wilmington,&nbsp;MA<br><sub>$87,188–&#8288;$119,906/yr</sub> | Aug&nbsp;3 | <a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=ntst.com" width="20" height="20" align="absmiddle">&nbsp; **Netsmart** | Software Engineer 🛂 | Overland Park, KS<br><sub>-</sub> | Aug&nbsp;3 | <a href="https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer----Dec26-May-27-Grads-_R015658"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](software-2.md)
 
