@@ -2,12 +2,13 @@
 
 # 📱 Product new grad and entry-level roles
 
-All 106 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
+All 107 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| **Tint** | Associate Product Manager | Remote&nbsp;in<br><sub>$93,500–&#8288;$125k/yr</sub> | Nov&nbsp;6 | <a href="https://job-boards.greenhouse.io/tintai/jobs/4751433005"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=blackrock.com" width="20" height="20" align="absmiddle">&nbsp; **BlackRock** | ETF Product Developer, Associate – ETF Platform ✨ | San Francisco, CA<br><sub>$110k–&#8288;$150k/yr</sub> | Nov&nbsp;6 | <a href="https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/ETF-Product-Developer--Associate---ETF-Platform_R267103-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=hpe.com" width="20" height="20" align="absmiddle">&nbsp; **Hewlett Packard Enterprise** | Campus Switching Product Manager Graduate | 2&nbsp;Locations<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Campus Switching Product Manager Graduate | 2&nbsp;Locations<br><sub>-</sub> | Nov&nbsp;6 | <a href="https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
