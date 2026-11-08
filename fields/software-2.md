@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,194 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,193 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,9 +10,7 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=metecs.com" width="20" height="20" align="absmiddle">&nbsp; **METECS** | Simulation Software Engineer | Houston,&nbsp;TX<br><sub>-</sub> | Aug&nbsp;3 | <a href="https://metecs.applytojob.com/apply/WykvenszhG/Junior-Simulation-Software-Engineer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=eai-technologies.com" width="20" height="20" align="absmiddle">&nbsp; **EAi&nbsp;Technologies** | Entry Level Software Developer | Vienna,&nbsp;VA<br><sub>$70k–&#8288;$85k/yr</sub> | Aug&nbsp;3 | <a href="https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Physics/Math Graduate Software Developer | Vienna,&nbsp;VA<br><sub>$70k–&#8288;$85k/yr</sub> | Aug&nbsp;3 | <a href="https://eaiti.applytojob.com/apply/04bnB7a43f/PhysicsMath-Graduate-Entry-Level-Software-Developer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=eai-technologies.com" width="20" height="20" align="absmiddle">&nbsp; **EAi&nbsp;Technologies** | Physics/Math Graduate Software Developer | Vienna,&nbsp;VA<br><sub>$70k–&#8288;$85k/yr</sub> | Aug&nbsp;3 | <a href="https://eaiti.applytojob.com/apply/04bnB7a43f/PhysicsMath-Graduate-Entry-Level-Software-Developer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Entry Level .NET Software Developer | Vienna,&nbsp;VA<br><sub>$70k–&#8288;$85k/yr</sub> | Aug&nbsp;3 | <a href="https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Backend Software Engineer Graduate - Risk &amp; Response 🔥 | Seattle,&nbsp;WA<br><sub>$121,600–&#8288;$243,200/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7663032057264244997"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Backend Software Engineer New Grad - Feed Safety 🔥 | Seattle,&nbsp;WA<br><sub>$121,600–&#8288;$243,200/yr</sub> | Aug&nbsp;3 | <a href="https://lifeattiktok.com/search/7663028952600807733"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

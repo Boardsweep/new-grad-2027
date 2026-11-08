@@ -1,5 +1,53 @@
 [
  {
+  "company": "Cisco",
+  "title": "ASIC DFT Engineer I (Full Time) - United States",
+  "location": "3 Locations",
+  "pay": "$107,800–$157,400/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/ASIC-DFT-Engineer-I--Full-Time----United-States_2030926",
+  "date_posted": "2026-11-07T04:51:44.650000+00:00",
+  "date_found": "2026-11-07T04:57:47.517000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Bank of America",
+  "title": "Merrill Advisor Development Program - Financial Advisor: Silicon Valley Market",
+  "location": "4 Locations",
+  "pay": "$80k–$90k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/San-Jose/Merrill-Advisor-Development-Program---Financial-Advisor--Silicon-Valley-Market_26041616-1",
+  "date_posted": "2026-11-07T03:49:45.082000+00:00",
+  "date_found": "2026-11-07T03:57:19.022000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "AbbVie",
+  "title": "Associate Software Engineer I",
+  "location": "North Chicago",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016715126",
+  "date_posted": "2026-11-07T01:25:14+00:00",
+  "date_found": "2026-11-07T01:40:43.948000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "NVIDIA",
   "title": "Research Scientist, AI and Systems Security - PhD New College Grad 2026",
   "location": "2 Locations",
@@ -60,6 +108,22 @@
   "date_posted": "2026-11-07T00:57:25.039000+00:00",
   "date_found": "2026-11-07T00:58:29.625000+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Northwood Space",
+  "title": "Electrical Engineer (New Grad)",
+  "location": "Torrance, CA",
+  "pay": "$104k–$121k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/northwoodspace/ca73b132-2264-4649-ad83-73ea3e69fe5d",
+  "date_posted": "2026-11-07T00:00:00+00:00",
+  "date_found": "2026-11-07T03:03:47.413000+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -8413,22 +8477,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Parsons",
-  "title": "Linux Systems Administrator - Junior",
-  "location": "",
-  "pay": "$88,400–$154,700/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://parsons.wd5.myworkdayjobs.com/search/job/US---VA-Centreville/Systems-Engineer---Junior_R188078",
-  "date_posted": null,
-  "date_found": "2026-10-31T01:57:40.071000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "NVIDIA",
   "title": "ASIC Design Verification Engineer",
   "location": "Austin, TX",
@@ -8477,22 +8525,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Northrop Grumman",
-  "title": "Associate Software Engineer - Hollywood (MD)",
-  "location": "United States-Maryland-Hollywood",
-  "pay": "$76,200–$114,400/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018",
-  "date_posted": "2026-10-31T00:00:00+00:00",
-  "date_found": "2026-10-31T04:37:10.594000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Rocket Lab",
   "title": "Business Systems Engineer I",
   "location": "Long Beach, CA",
@@ -8504,22 +8536,6 @@
   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087292003",
   "date_posted": "2026-10-30T22:32:21+00:00",
   "date_found": "2026-10-30T22:34:45.158000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Cobalt",
-  "title": "Associate Security Researcher",
-  "location": "Remote",
-  "pay": "$55k–$70k/yr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://job-boards.greenhouse.io/cobaltio/jobs/8924332002",
-  "date_posted": "2026-10-30T21:29:33+00:00",
-  "date_found": "2026-10-31T05:57:17.040000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -11767,6 +11783,23 @@
   "date_posted": "2026-10-21T21:16:19+00:00",
   "date_found": "2026-10-21T21:19:27.162000+00:00",
   "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Orbis Operations",
+  "title": "Research Engineer - AI",
+  "location": "Remote in USA",
+  "pay": null,
+  "tracks": [
+   "aiml",
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009",
+  "date_posted": "2026-10-21T19:35:51+00:00",
+  "date_found": "2026-10-31T06:50:06.502000+00:00",
+  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
