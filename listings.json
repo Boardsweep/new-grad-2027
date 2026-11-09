@@ -1,5 +1,38 @@
 [
  {
+  "company": "Shield AI",
+  "title": "Engineer I, Software - Perception - New Grad - 6135",
+  "location": "Washington, D.C.",
+  "pay": "$77k–$211k/yr",
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319",
+  "date_posted": "2026-11-08T23:09:12+00:00",
+  "date_found": "2026-11-08T17:46:51.118000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
+  "location": "United States",
+  "pay": "$77k–$211k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896",
+  "date_posted": "2026-11-08T23:09:12+00:00",
+  "date_found": "2026-11-08T17:25:34.508000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "General Dynamics",
   "title": "Embedded Engineer Columbia Missile Compartment Project Engineering Entry Level",
   "location": "",
@@ -26,6 +59,23 @@
   "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3578/junior-engineer/job",
   "date_posted": null,
   "date_found": "2026-11-07T17:57:27.336000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Ande",
+  "title": "Software Engineer, AI (Early Career)",
+  "location": "New York City",
+  "pay": null,
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1",
+  "date_posted": "2026-11-07T16:43:59.034000+00:00",
+  "date_found": "2026-11-08T16:50:35.658108+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -4006,7 +4056,7 @@
   "tracks": [
    "hardware"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/10eb4e64-8f2d-473f-a53a-1dc53e90f1d6",
+  "url": "https://jobs.ashbyhq.com/shield/10eb4e64-8f2d-473f-a53a-1dc53e90f1d6",
   "date_posted": null,
   "date_found": "2026-11-04T15:53:10.832636+00:00",
   "top_company": false,
@@ -8381,23 +8431,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Rocket Lab",
-  "title": "Business Systems Engineer I",
-  "location": "Long Beach, CA",
-  "pay": "$67k–$84k/yr",
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087292003",
-  "date_posted": "2026-10-30T22:32:21+00:00",
-  "date_found": "2026-10-30T22:34:45.158000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "GetBuilt",
   "title": "Innovation Software Engineer 1",
   "location": "Nashville, TN",
@@ -9308,7 +9341,7 @@
   "tracks": [
    "hardware"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/076e1129-ec52-4ee7-9219-dabb0541dd17",
+  "url": "https://jobs.ashbyhq.com/shield/076e1129-ec52-4ee7-9219-dabb0541dd17",
   "date_posted": null,
   "date_found": "2026-10-28T14:53:39.597943+00:00",
   "top_company": false,
@@ -9324,7 +9357,7 @@
   "tracks": [
    "hardware"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/8e4c450e-a3f3-413c-94af-f91478519530",
+  "url": "https://jobs.ashbyhq.com/shield/8e4c450e-a3f3-413c-94af-f91478519530",
   "date_posted": null,
   "date_found": "2026-10-28T14:53:39.597943+00:00",
   "top_company": false,
@@ -9340,7 +9373,7 @@
   "tracks": [
    "hardware"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/1b197484-45f1-4dc4-b72e-cccf3f5b5fcc",
+  "url": "https://jobs.ashbyhq.com/shield/1b197484-45f1-4dc4-b72e-cccf3f5b5fcc",
   "date_posted": null,
   "date_found": "2026-10-28T14:53:39.597943+00:00",
   "top_company": false,
@@ -9383,13 +9416,13 @@
  },
  {
   "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
-  "title": "Engineer I, Software - Factory Team (R6235)",
+  "title": "Engineer I, Software - Factory Team - New Grad - 6235",
   "location": "Washington, D.C.",
   "pay": null,
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9",
+  "url": "https://jobs.ashbyhq.com/shield/6b5da15b-b34e-4771-bc6c-a05892ae87e9",
   "date_posted": null,
   "date_found": "2026-10-28T14:53:39.597943+00:00",
   "top_company": false,
@@ -9705,6 +9738,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Shield AI",
+  "title": "Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125",
+  "location": "Washington, D.C.",
+  "pay": "$77k–$211k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa",
+  "date_posted": "2026-10-27T20:43:16.503000+00:00",
+  "date_found": "2026-11-08T17:34:31.039000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "SambaNova Systems",
   "title": "ML Infrastructure Engineer New Grad",
   "location": "2 locations",
@@ -9813,6 +9862,22 @@
   "date_posted": "2026-10-27T09:43:52.164000+00:00",
   "date_found": "2026-09-09T00:00:00+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140",
+  "location": "Washington, D.C.",
+  "pay": "$77k–$211k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff",
+  "date_posted": "2026-10-27T00:00:00+00:00",
+  "date_found": "2026-11-08T18:01:54.512000+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -10608,13 +10673,13 @@
  },
  {
   "company": "Shield AI",
-  "title": "Software Engineer New Grad",
+  "title": "Software Engineer I - Internal Tools (New Grad) - R6052",
   "location": "Seattle, WA",
   "pay": null,
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
+  "url": "https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902",
   "date_posted": "2026-10-23T00:00:00+00:00",
   "date_found": "2026-10-28T06:58:07.359000+00:00",
   "top_company": true,
@@ -11451,13 +11516,13 @@
  },
  {
   "company": "Shield AI",
-  "title": "Electrical Engineer 1 New Grad",
+  "title": "Electrical Engineer I - New Grad (BOS)",
   "location": "Boston, MA",
   "pay": null,
   "tracks": [
    "hardware"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/4abd60c3-04fa-4168-bed7-bc63707e1d0a/application?embed=true",
+  "url": "https://jobs.ashbyhq.com/shield/4abd60c3-04fa-4168-bed7-bc63707e1d0a",
   "date_posted": "2026-10-21T00:00:00+00:00",
   "date_found": "2026-10-28T06:58:07.359000+00:00",
   "top_company": true,
@@ -11467,13 +11532,13 @@
  },
  {
   "company": "Shield AI",
-  "title": "Electrical Engineer New Grad",
+  "title": "Electrical Engineer I - New Grad (SEA) (R6107)",
   "location": "Seattle, WA",
   "pay": null,
   "tracks": [
    "hardware"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/88fb99dc-26b8-4937-92a9-b8d13ce4e0f0/application?embed=true",
+  "url": "https://jobs.ashbyhq.com/shield/88fb99dc-26b8-4937-92a9-b8d13ce4e0f0",
   "date_posted": "2026-10-21T00:00:00+00:00",
   "date_found": "2026-10-28T06:58:07.359000+00:00",
   "top_company": true,
@@ -11483,13 +11548,13 @@
  },
  {
   "company": "Shield AI",
-  "title": "Engineer 1 New Grad - Electrical Integration & Test",
+  "title": "Engineer I, Electrical Integration & Test - New Grad (R5136)",
   "location": "Seattle, WA",
   "pay": null,
   "tracks": [
    "hardware"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/278bdf33-85f0-49ab-a448-567e7e362ca2/application?embed=true",
+  "url": "https://jobs.ashbyhq.com/shield/278bdf33-85f0-49ab-a448-567e7e362ca2",
   "date_posted": "2026-10-21T00:00:00+00:00",
   "date_found": "2026-10-28T06:58:07.359000+00:00",
   "top_company": true,
@@ -11499,13 +11564,13 @@
  },
  {
   "company": "Shield AI",
-  "title": "PCB Designer New Grad",
+  "title": "Engineer I, PCB - New Grad (R6065)",
   "location": "Seattle, WA",
   "pay": null,
   "tracks": [
    "hardware"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7/application?embed=true",
+  "url": "https://jobs.ashbyhq.com/shield/6ef12308-4d4e-4dc9-859b-0e1f0f2ba4a7",
   "date_posted": "2026-10-21T00:00:00+00:00",
   "date_found": "2026-10-28T06:58:07.359000+00:00",
   "top_company": true,
@@ -15320,13 +15385,13 @@
  },
  {
   "company": "Shield AI",
-  "title": "Simulation Framework Engineer - Simulation Framework",
+  "title": "Engineer I, Simulation Framework - New Grad - 6203",
   "location": "Washington, DC",
   "pay": null,
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true",
+  "url": "https://jobs.ashbyhq.com/shield/f5ea96c5-7d70-4058-adec-16be606f5ad3",
   "date_posted": "2026-10-07T00:00:00+00:00",
   "date_found": "2026-10-07T00:00:00+00:00",
   "top_company": true,
@@ -15352,13 +15417,13 @@
  },
  {
   "company": "Shield AI",
-  "title": "Simulation Framework Engineer 2",
+  "title": "Engineer II, Simulation Framework - New Grad - 6204",
   "location": "San Diego, CA",
   "pay": null,
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true",
+  "url": "https://jobs.ashbyhq.com/shield/a9e2509c-fa35-4bf7-b50d-a557666b629d",
   "date_posted": "2026-10-07T00:00:00+00:00",
   "date_found": "2026-10-07T00:00:00+00:00",
   "top_company": true,
@@ -16528,6 +16593,38 @@
   "date_posted": "2026-10-02T22:14:30+00:00",
   "date_found": "2026-10-02T22:53:20.103000+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Harvey",
+  "title": "Software Engineer, New Grad (2027)",
+  "location": "New York",
+  "pay": "$165k–$181,500/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+  "date_posted": "2026-10-02T19:13:48.998000+00:00",
+  "date_found": "2026-10-02T19:19:23.176000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Harvey",
+  "title": "Software Engineer, New Grad (2027)",
+  "location": "San Francisco",
+  "pay": "$165k–$181,500/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5",
+  "date_posted": "2026-10-02T19:13:45.839000+00:00",
+  "date_found": "2026-10-02T19:19:23.176000+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
