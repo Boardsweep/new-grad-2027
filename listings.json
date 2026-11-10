@@ -1,5 +1,69 @@
 [
  {
+  "company": "Northrop Grumman",
+  "title": "2027 Associate Engineer Electrical / Engineer Electrical",
+  "location": "6 Locations",
+  "pay": "$76,200–$114,400/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Associate-Engineer-Electrical---Engineer-Electrical_R10259688",
+  "date_posted": "2026-11-09T03:57:17.314000+00:00",
+  "date_found": "2026-11-09T03:58:25.890000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "RTX",
+  "title": "Process Engineer, NC Programmer (Onsite)",
+  "location": "Midland, GA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Process-Engineer--NC-Programmer--Onsite-_01885662",
+  "date_posted": "2026-11-09T02:43:31.045000+00:00",
+  "date_found": "2026-11-09T02:59:38.102000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "M&T Bank",
+  "title": "2027 Technology Development Program - Software Engineering (Data & API Engineering)",
+  "location": "Buffalo, NY",
+  "pay": "$29.57–$43.99/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036",
+  "date_posted": "2026-11-08T00:00:00+00:00",
+  "date_found": "2026-11-09T02:59:38.102000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "M&T Bank",
+  "title": "2027 Technology Development Program - Software Engineering (Enterprise & Wealth Application Development)",
+  "location": "Buffalo, NY",
+  "pay": "$29.57–$43.99/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035",
+  "date_posted": "2026-11-08T00:00:00+00:00",
+  "date_found": "2026-11-09T01:57:44.933000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Shield AI",
   "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
   "location": "United States",
@@ -7945,56 +8009,6 @@
   "advanced_degree": false
  },
  {
-  "company": "RTX",
-  "title": "Systems Engineer II - Business & Regional Avionics (Onsite)",
-  "location": "Cedar Rapids, IA",
-  "pay": null,
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineer-II---Business---Regional-Avionics--Onsite-_01884583",
-  "date_posted": "2026-11-02T04:12:06.288000+00:00",
-  "date_found": "2026-11-02T04:13:10.896000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Systems Engineer I - Business & Regional Programs (Onsite)",
-  "location": "Cedar Rapids, IA",
-  "pay": null,
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineer-I---Business---Regional-Programs--Onsite-_01884582",
-  "date_posted": "2026-11-02T03:55:09.693000+00:00",
-  "date_found": "2026-11-02T03:55:51.700000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Guidehouse",
-  "title": "Consultant - Defense & Security - IT Controls - Campus 2027",
-  "location": "US - VA, McLean",
-  "pay": "$56k–$94k/yr",
-  "tracks": [
-   "security"
-  ],
-  "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Consultant---Defense---Security---IT-Controls---Campus-2027_46116-1",
-  "date_posted": "2026-11-02T01:43:32.113000+00:00",
-  "date_found": "2026-11-02T01:57:53.621000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Draper",
   "title": "System Integration and Test Engineer",
   "location": "Cambridge, MA",
@@ -8314,22 +8328,6 @@
   "date_found": "2026-11-02T12:02:45.481000+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "American Express",
-  "title": "Software Engineer I - Java, Python , GCP , NoSQL - GMNST",
-  "location": "Phoenix, AZ",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011275",
-  "date_posted": "2026-11-02T00:00:00+00:00",
-  "date_found": "2026-11-02T06:19:35.844000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -9668,23 +9666,6 @@
   "url": "https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs",
   "date_posted": "2026-10-27T22:04:15+00:00",
   "date_found": "2026-10-27T22:58:39.443000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Shield AI",
-  "title": "Engineer I, Software - Perception - New Grad - 6135",
-  "location": "Washington, D.C.",
-  "pay": "$77k–$211k/yr",
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319",
-  "date_posted": "2026-10-27T22:03:17.567000+00:00",
-  "date_found": "2026-11-08T17:46:51.118000+00:00",
   "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,

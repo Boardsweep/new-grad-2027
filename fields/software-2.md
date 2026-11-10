@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,157 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,155 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,8 +10,6 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=color.com" width="20" height="20" align="absmiddle">&nbsp; **Color** | Software Engineer New Grad | San&nbsp;Bruno,&nbsp;CA<br><sub>$125k–&#8288;$140k/yr</sub> | Jul&nbsp;28 | <a href="https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=notability.com" width="20" height="20" align="absmiddle">&nbsp; **Notability** | Engineer – Web Apps | SF<br><sub>$120k–&#8288;$175k/yr</sub> | Jul&nbsp;27<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://job-boards.greenhouse.io/gingerlabsinc/jobs/4928821008"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=retellai.com" width="20" height="20" align="absmiddle">&nbsp; **Retell&nbsp;AI** | Internal Deployed Engineer | San&nbsp;Carlos,&nbsp;CA<br><sub>$180k–&#8288;$300k/yr</sub> | Jul&nbsp;26 | <a href="https://jobs.ashbyhq.com/retell-ai/2e3f3930-0949-4b86-8ed1-7f5d9e068c87/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=bridgeraerospace.com" width="20" height="20" align="absmiddle">&nbsp; **Bridger** | Early Career Product Engineer | NYC<br><sub>$150k–&#8288;$200k/yr</sub> | Jul&nbsp;23 | <a href="https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=appian.com" width="20" height="20" align="absmiddle">&nbsp; **Appian** | Associate Application Engineer | Mclean,&nbsp;VA<br><sub>$90k–&#8288;$95k/yr</sub> | Jul&nbsp;23 | <a href="https://job-boards.greenhouse.io/appian/jobs/8035372"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
