@@ -1,34 +1,66 @@
 [
  {
   "company": "Shield AI",
-  "title": "Engineer I, Software - Perception - New Grad - 6135",
-  "location": "Washington, D.C.",
-  "pay": "$77k–$211k/yr",
+  "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
+  "location": "United States",
+  "pay": null,
   "tracks": [
-   "software",
-   "aiml"
+   "software"
   ],
-  "url": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319",
-  "date_posted": "2026-11-08T23:09:12+00:00",
-  "date_found": "2026-11-08T17:46:51.118000+00:00",
+  "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10",
+  "date_posted": "2026-11-08T00:00:00+00:00",
+  "date_found": "2026-11-08T23:56:53.681000+00:00",
   "top_company": true,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
  {
   "company": "Shield AI",
-  "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
-  "location": "United States",
-  "pay": "$77k–$211k/yr",
+  "title": "Engineer I, Software - Perception - New Grad - 6135",
+  "location": "Washington, DC",
+  "pay": null,
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7",
+  "date_posted": "2026-11-08T00:00:00+00:00",
+  "date_found": "2026-11-08T23:56:53.681000+00:00",
+  "top_company": true,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125",
+  "location": "Washington, DC",
+  "pay": null,
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896",
-  "date_posted": "2026-11-08T23:09:12+00:00",
-  "date_found": "2026-11-08T17:25:34.508000+00:00",
+  "url": "https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f",
+  "date_posted": "2026-11-08T00:00:00+00:00",
+  "date_found": "2026-11-08T23:56:53.681000+00:00",
   "top_company": true,
-  "no_sponsorship": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140",
+  "location": "Washington, DC",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0",
+  "date_posted": "2026-11-08T00:00:00+00:00",
+  "date_found": "2026-11-08T23:56:53.681000+00:00",
+  "top_company": true,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -8882,22 +8914,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Northwood Space",
-  "title": "Software, Platform (Early Career)",
-  "location": "Torrance, CA",
-  "pay": "$123k–$140k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/NorthwoodSpace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6",
-  "date_posted": "2026-10-29T17:43:09.568000+00:00",
-  "date_found": "2026-10-29T19:03:50.920000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Akuna Capital",
   "title": "Junior Trader, 2027 | Carnegie Mellon University",
   "location": "Chicago",
@@ -9658,6 +9674,23 @@
   "advanced_degree": false
  },
  {
+  "company": "Shield AI",
+  "title": "Engineer I, Software - Perception - New Grad - 6135",
+  "location": "Washington, D.C.",
+  "pay": "$77k–$211k/yr",
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319",
+  "date_posted": "2026-10-27T22:03:17.567000+00:00",
+  "date_found": "2026-11-08T17:46:51.118000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "SambaNova Systems",
   "title": "Post-Silicon Validation Engineer New Grad",
   "location": "San Jose, CA",
@@ -9717,6 +9750,22 @@
   "date_posted": "2026-10-27T21:58:56+00:00",
   "date_found": "2026-10-28T00:24:29.407000+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
+  "location": "United States",
+  "pay": "$77k–$211k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896",
+  "date_posted": "2026-10-27T21:55:40.627000+00:00",
+  "date_found": "2026-11-08T17:25:34.508000+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -9862,22 +9911,6 @@
   "date_posted": "2026-10-27T09:43:52.164000+00:00",
   "date_found": "2026-09-09T00:00:00+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Shield AI",
-  "title": "Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140",
-  "location": "Washington, D.C.",
-  "pay": "$77k–$211k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff",
-  "date_posted": "2026-10-27T00:00:00+00:00",
-  "date_found": "2026-11-08T18:01:54.512000+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -10181,22 +10214,6 @@
   "url": "https://careers-navitus.icims.com/jobs/6924/job?mobile=true&needsRedirect=false",
   "date_posted": "2026-10-27T00:00:00+00:00",
   "date_found": "2026-10-27T00:00:00+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Bank of America",
-  "title": "Quantitative Finance Analyst",
-  "location": "New York",
-  "pay": "$89,800–$151,200/yr",
-  "tracks": [
-   "quant"
-  ],
-  "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Quantitative-Finance-Analyst_26039426-2",
-  "date_posted": "2026-10-26T23:51:34.052000+00:00",
-  "date_found": "2026-11-06T23:58:32.680000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -12879,22 +12896,6 @@
   "url": "https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1",
   "date_posted": "2026-10-15T16:06:19.390000+00:00",
   "date_found": "2026-10-15T17:00:45.855000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Muon Space",
-  "title": "RF Test Engineer I, Testbeds & EGSE",
-  "location": "San Jose, CA",
-  "pay": "$143k–$162k/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266382007",
-  "date_posted": "2026-10-15T14:06:04+00:00",
-  "date_found": "2026-10-15T15:01:02.084000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
