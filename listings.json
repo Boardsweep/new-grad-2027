@@ -1,5 +1,21 @@
 [
  {
+  "company": "Multimedia",
+  "title": "Software Engineer 1/2",
+  "location": "Remote in USA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs",
+  "date_posted": "2026-11-10T02:16:08+00:00",
+  "date_found": "2026-11-10T02:57:48.131000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Anduril",
   "title": "Early Career RF Mission Systems Engineer, Air Dominance & Strike",
   "location": "Costa Mesa, CA",
@@ -853,6 +869,22 @@
   "date_found": "2026-11-09T02:59:38.102000+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Microchip Technology",
+  "title": "Engineer 1 - Device/Test - Parametric/Etest",
+  "location": "Colorado Springs, CO",
+  "pay": "$70k–$110k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Engineer-I--Device-Test--Parametric-Etest-_R4730-26",
+  "date_posted": "2026-11-09T00:00:00+00:00",
+  "date_found": "2026-11-10T04:02:36.504000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -4487,6 +4519,22 @@
   "advanced_degree": false
  },
  {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Electrical Engineer I, X-BAT (New Grad)",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.ashbyhq.com/shield/10eb4e64-8f2d-473f-a53a-1dc53e90f1d6",
+  "date_posted": "2026-11-05T00:00:00+00:00",
+  "date_found": "2026-11-04T15:53:10.832636+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Twitch",
   "title": "Software Dev Engineer I - Security Platform",
   "location": "Irvine, CA",
@@ -5272,22 +5320,6 @@
   "url": "https://jobs.lever.co/camstex/cb41259c-ad4d-49d7-afe1-f1512c828491",
   "date_posted": null,
   "date_found": "2026-11-04T16:02:23.602000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
-  "title": "Electrical Engineer I, X-BAT (New Grad)",
-  "location": "Seattle, WA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.ashbyhq.com/shield/10eb4e64-8f2d-473f-a53a-1dc53e90f1d6",
-  "date_posted": null,
-  "date_found": "2026-11-04T15:53:10.832636+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -6212,6 +6244,22 @@
   "date_found": "2026-11-04T00:58:35.727000+00:00",
   "top_company": false,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
+  "title": "Engineer I, Software - Factory Team - New Grad - 6235",
+  "location": "Washington, D.C.",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.ashbyhq.com/shield/6b5da15b-b34e-4771-bc6c-a05892ae87e9",
+  "date_posted": "2026-11-04T00:00:00+00:00",
+  "date_found": "2026-10-28T14:53:39.597943+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -7468,102 +7516,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Baker Hughes",
-  "title": "Software Engineer",
-  "location": "Minden, NV",
-  "pay": "$67,690–$125,860/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272",
-  "date_posted": "2026-11-03T05:51:56.562738+00:00",
-  "date_found": "2026-11-03T05:50:37.890364+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "PricewaterhouseCoopers",
-  "title": "Associate - Cyber Security Consultant",
-  "location": "2 Locations",
-  "pay": null,
-  "tracks": [
-   "security"
-  ],
-  "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Ho-Chi-Minh-City/Associate---Cyber-Security-Consultant_771804WD",
-  "date_posted": "2026-11-03T03:56:03.814000+00:00",
-  "date_found": "2026-11-03T03:59:10.705000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "WEX",
-  "title": "Software Development Engineer 1",
-  "location": "2 Locations",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Portland-ME/Software-Development-Engineer-1_R23233",
-  "date_posted": "2026-11-03T03:49:19.319000+00:00",
-  "date_found": "2026-11-03T03:59:10.705000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Terex",
-  "title": "Designer I - Engineering",
-  "location": "US-PA Nesquehoning",
-  "pay": null,
-  "tracks": [
-   "design"
-  ],
-  "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-PA-Nesquehoning/Designer-I---Engineering_REQ-14967",
-  "date_posted": "2026-11-03T02:48:00.929000+00:00",
-  "date_found": "2026-11-03T02:58:02.714000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Centene",
-  "title": "Cloud Platform Engineer I",
-  "location": "28 Locations",
-  "pay": "$30.58–$55.09/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cloud-Platform-Engineer-I_1671976",
-  "date_posted": "2026-11-03T01:59:08.376000+00:00",
-  "date_found": "2026-11-03T02:06:11.077000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Airbus",
-  "title": "Stress Engineer I",
-  "location": "Wichita, KS",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Stress-Engineer-I_JR10454658",
-  "date_posted": "2026-11-03T01:45:34.353000+00:00",
-  "date_found": "2026-11-03T02:06:11.077000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Northrop Grumman",
   "title": "Optical Subsystem I&T Engineer - Level 1",
   "location": "United States-Arizona-Chandler",
@@ -8378,39 +8330,6 @@
   "url": "https://careers-steampunk.icims.com/jobs/5916/job?mobile=true&needsRedirect=false",
   "date_posted": "2026-11-01T00:00:00+00:00",
   "date_found": "2026-11-01T00:00:00+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "BlackRock",
-  "title": "Associate, Quant Research",
-  "location": "San Francisco, CA",
-  "pay": "$132,500–$162k/yr",
-  "tracks": [
-   "quant"
-  ],
-  "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/Associate--Quant-Research_R267061",
-  "date_posted": "2026-10-31T03:41:20.780000+00:00",
-  "date_found": "2026-11-03T03:59:10.705000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "BlackRock",
-  "title": "Associate, Application Deployment Engineer",
-  "location": "Atlanta, GA",
-  "pay": "$112k–$140k/yr",
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Atlanta-GA/Associate--Application-Deployment-Engineer_R266359-1",
-  "date_posted": "2026-10-31T03:41:20.780000+00:00",
-  "date_found": "2026-11-03T03:59:10.705000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -9413,22 +9332,6 @@
   "date_found": "2026-10-28T14:53:39.597943+00:00",
   "top_company": true,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "F7d8749a 72d6 407c Bf98 292ea630c73a",
-  "title": "Engineer I, Software - Factory Team - New Grad - 6235",
-  "location": "Washington, D.C.",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.ashbyhq.com/shield/6b5da15b-b34e-4771-bc6c-a05892ae87e9",
-  "date_posted": null,
-  "date_found": "2026-10-28T14:53:39.597943+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
