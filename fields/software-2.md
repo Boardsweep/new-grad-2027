@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,145 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,149 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,6 +10,9 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=endeavor.ai" width="20" height="20" align="absmiddle">&nbsp; **endeavorai.com** | Forward Deployed Engineer | Chicago,&nbsp;IL<br><sub>$120k–&#8288;$140k/yr</sub> | Jul&nbsp;21 | <a href="https://jobs.ashbyhq.com/endeavorai/e397ddef-2102-40e5-82e8-cd1e126f9da8/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=stradaglobal.com" width="20" height="20" align="absmiddle">&nbsp; **Strada** | Software Engineer New Grad | SF<br><sub>$110k–&#8288;$140k/yr</sub> | Jul&nbsp;21 | <a href="https://jobs.ashbyhq.com/stradahq/626411c6-808e-4eb2-b28d-76f5d88e0af6/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=idler.ai" width="20" height="20" align="absmiddle">&nbsp; **Idler** | Software Engineer | SF<br><sub>$125k–&#8288;$400k/yr</sub> | Jul&nbsp;21 | <a href="https://jobs.ashbyhq.com/idler/cce9ab39-0ab0-489d-bbf9-4df74c2baeee/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=domesystems.ai" width="20" height="20" align="absmiddle">&nbsp; **Dome&nbsp;Systems** | Product Engineer | Redwood&nbsp;City,&nbsp;CA<br><sub>-</sub> | Jul&nbsp;21 | <a href="https://jobs.ashbyhq.com/dome-systems-inc/573303b2-efe1-409d-bf58-968a6a2f82a0/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=monogramhealth.com" width="20" height="20" align="absmiddle">&nbsp; **Monogram** | Software Engineer | San&nbsp;Mateo,&nbsp;CA<br><sub>-</sub> | Jul&nbsp;21 | <a href="https://jobs.ashbyhq.com/monogram/83fe2f22-953f-4848-b09c-fc9d78c655d1/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=oligospace.com" width="20" height="20" align="absmiddle">&nbsp; **Oligo&nbsp;Space** | AI Space Systems Software Engineer | Hawthorne,&nbsp;CA<br><sub>$110k–&#8288;$164k/yr</sub> | Jul&nbsp;21 | <a href="https://jobs.ashbyhq.com/oligo/1eda6c7f-694c-497e-a648-f9f388130cbc/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
