@@ -2,12 +2,17 @@
 
 # 📱 Product new grad and entry-level roles
 
-All 105 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
+All 110 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=baskhealth.com" width="20" height="20" align="absmiddle">&nbsp; **Bask&nbsp;Health** | Associate Product Manager | Remote&nbsp;in<br><sub>-</sub> | Nov&nbsp;11 | <a href="https://apply.workable.com/bask-health-1/j/E3BA07B52A/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Junior Product Manager - Intakes &amp; Conversion | Remote&nbsp;in<br><sub>-</sub> | Nov&nbsp;11 | <a href="https://apply.workable.com/bask-health-1/j/EB2C2D9268/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Associate Product Manager, New Grad | - | Nov&nbsp;11 | <a href="https://apply.workable.com/bask-health-1/j/10419258C9/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Apprentice Product Manager | - | Nov&nbsp;11 | <a href="https://apply.workable.com/bask-health-1/j/641A955226/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Product Builder, Early Career | - | Nov&nbsp;11 | <a href="https://apply.workable.com/bask-health-1/j/854A2D27D1/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=fbin.com" width="20" height="20" align="absmiddle">&nbsp; **Fortune&nbsp;Brands** | Associate Product Development Engineer ✨ | Pine&nbsp;Grove<br><sub>$55k–&#8288;$88k/yr</sub> | Nov&nbsp;10 | <a href="https://jobs.smartrecruiters.com/FortuneBrands/744000160932371"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rtx.com" width="20" height="20" align="absmiddle">&nbsp; **RTX** | Business Program Management Analyst (Remote) ✨ 🛂 | MX-BCN-MEXICALI-238<br><sub>-</sub> | Nov&nbsp;10 | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Senior-Analyst--Business-and-Program-Management--Remote-_01888396"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Tint** | Associate Product Manager | Remote&nbsp;in<br><sub>$93,500–&#8288;$125k/yr</sub> | Nov&nbsp;6 | <a href="https://job-boards.greenhouse.io/tintai/jobs/4751433005"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

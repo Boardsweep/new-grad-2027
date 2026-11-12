@@ -16,6 +16,70 @@
   "advanced_degree": false
  },
  {
+  "company": "Google",
+  "title": "Electronics Hardware Lab Generalist, Quantum AI",
+  "location": "Goleta, CA",
+  "pay": "$99k–$140k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://www.google.com/about/careers/applications/jobs/results/137886886671590086",
+  "date_posted": "2026-11-11T07:10:31+00:00",
+  "date_found": "2026-11-11T07:13:51.221000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Bask Health",
+  "title": "Associate Product Manager",
+  "location": "Remote in USA",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://apply.workable.com/bask-health-1/j/E3BA07B52A/apply",
+  "date_posted": "2026-11-11T02:06:20+00:00",
+  "date_found": "2026-11-11T03:04:19.901000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Bask Health",
+  "title": "Junior Product Manager - Intakes & Conversion",
+  "location": "Remote in USA",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://apply.workable.com/bask-health-1/j/EB2C2D9268/apply",
+  "date_posted": "2026-11-11T02:06:19+00:00",
+  "date_found": "2026-11-11T03:04:19.901000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Charles Schwab",
+  "title": "Junior Full Stack .Net Developer",
+  "location": "",
+  "pay": "$56.73–$64.90/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://career-schwab.icims.com/jobs/129918/junior-full-stack-.net-developer/job",
+  "date_posted": null,
+  "date_found": "2026-11-11T02:04:51.531000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "RTX",
   "title": "Analyst, Security - Tucson, AZ",
   "location": "Tucson, AZ",
@@ -32,6 +96,22 @@
   "advanced_degree": false
  },
  {
+  "company": "AST SpaceMobile",
+  "title": "RF Test Engineer 1",
+  "location": "3 locations",
+  "pay": "$88k–$93k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://ast-science.com/company/careers/?gh_jid=4753267005",
+  "date_posted": "2026-11-11T00:14:31+00:00",
+  "date_found": "2026-11-11T04:01:13.824000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Relativity Space",
   "title": "Vehicle Fluids Hardware Development Engineer I",
   "location": "Long Beach, CA",
@@ -44,6 +124,70 @@
   "date_found": "2026-11-11T00:07:47.081000+00:00",
   "top_company": false,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Bask Health",
+  "title": "Associate Product Manager, New Grad",
+  "location": "United States",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://apply.workable.com/bask-health-1/j/10419258C9/",
+  "date_posted": "2026-11-11T00:00:00+00:00",
+  "date_found": "2026-11-11T03:04:19.901000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Bask Health",
+  "title": "Apprentice Product Manager",
+  "location": "United States",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://apply.workable.com/bask-health-1/j/641A955226/",
+  "date_posted": "2026-11-11T00:00:00+00:00",
+  "date_found": "2026-11-11T03:04:19.901000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Bask Health",
+  "title": "Product Builder, Early Career",
+  "location": "United States",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://apply.workable.com/bask-health-1/j/854A2D27D1/",
+  "date_posted": "2026-11-11T00:00:00+00:00",
+  "date_found": "2026-11-11T03:04:19.901000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon.com Services",
+  "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2027, Amazon Dedicated Cloud (ADC)",
+  "location": "Jessup, MD",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://atoz.amazon/en-us/jobs/job/10601956",
+  "date_posted": "2026-11-10T23:57:19+00:00",
+  "date_found": "2026-11-11T03:50:06.830026+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -6648,135 +6792,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Northrop Grumman",
-  "title": "2027 Associate Systems Engineer – Sykesville MD",
-  "location": "United States-Maryland-Sykesville",
-  "pay": "$72,700–$109,100/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-Systems-Engineer---Sykesville-MD_R10258617-1",
-  "date_posted": "2026-11-04T05:27:06.400000+00:00",
-  "date_found": "2026-11-04T05:28:22.196000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Keysight Technologies",
-  "title": "Recent Graduate-Process Engineer – Semiconductor Wafer Fabrication",
-  "location": "Santa Rosa, CA",
-  "pay": "$76,870/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.keysight.com/jobs/55351",
-  "date_posted": "2026-11-04T05:21:28+00:00",
-  "date_found": "2026-11-04T05:25:24.658000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Keysight Technologies",
-  "title": "Recent Graduate-Process Engineer – Advanced Semiconductor Packaging",
-  "location": "Santa Rosa, CA",
-  "pay": "$76,870/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://jobs.keysight.com/jobs/55350",
-  "date_posted": "2026-11-04T05:20:28+00:00",
-  "date_found": "2026-11-04T05:22:13.557000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Engineering Development Program, Test Equipment Design, Engineer I (Onsite)",
-  "location": "East Hartford, CT",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Engineering-Development-Program--Test-Equipment-Design--Engineer-I--Onsite-_01884132",
-  "date_posted": "2026-11-04T04:42:33.353000+00:00",
-  "date_found": "2026-11-04T04:43:48.165000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Cotiviti",
-  "title": "Associate Software Engineer",
-  "location": "",
-  "pay": "$77k–$92k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers-cotiviti.icims.com/jobs/21591/associate-software-engineer/job",
-  "date_posted": null,
-  "date_found": "2026-11-04T02:57:59.696000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "AbbVie",
-  "title": "Associate DevSecOps Engineer, Platform and Tooling",
-  "location": "Mettawa",
-  "pay": null,
-  "tracks": [
-   "software",
-   "security"
-  ],
-  "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016610096",
-  "date_posted": "2026-11-04T02:25:48.475000+00:00",
-  "date_found": "2026-11-04T02:57:59.696000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Riverside Research",
-  "title": "Jr Software Engineer",
-  "location": "",
-  "pay": "$75k–$95k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers-riversideresearch.icims.com/jobs/4456/jr-software-engineer/job",
-  "date_posted": null,
-  "date_found": "2026-11-04T02:05:03.380000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Riverside Research",
-  "title": "Jr Software Engineer",
-  "location": "",
-  "pay": "$75k–$95k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers-riversideresearch.icims.com/jobs/4454/jr-software-engineer/job",
-  "date_posted": null,
-  "date_found": "2026-11-04T02:05:03.380000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Charles Schwab",
   "title": "Senior Specialist, Product Management - Digital Product Management - Trading Platform Team",
   "location": "2 locations",
@@ -7342,39 +7357,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Northrop Grumman",
-  "title": "2027 Associate S/W Embedded Engineer – Sykesville MD",
-  "location": "United States-Maryland-Sykesville",
-  "pay": "$72,700–$109,100/yr",
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Sykesville-MD_R10258626",
-  "date_posted": "2026-11-04T00:00:00+00:00",
-  "date_found": "2026-11-04T05:28:22.196000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Northrop Grumman",
-  "title": "2027 Associate H/W Electronics Engineer – Sykesville MD",
-  "location": "United States-Maryland-Sykesville",
-  "pay": "$72,700–$109,100/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-H-W-Electronics-Engineer---Sykesville-MD_R10258576",
-  "date_posted": "2026-11-04T00:00:00+00:00",
-  "date_found": "2026-11-04T05:28:22.196000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Endeavor AI",
   "title": "Forward Deployed Engineer, 2027 Graduate",
   "location": "Chicago",
@@ -7614,22 +7596,6 @@
   "date_found": "2026-11-10T20:04:38.037000+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Northrop Grumman",
-  "title": "Optical Subsystem I&T Engineer - Level 1",
-  "location": "United States-Arizona-Chandler",
-  "pay": "$72,400–$108,600/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Optical-Subsystem-I-T-Engineer---Level-1_R10259164",
-  "date_posted": "2026-11-03T00:00:00+00:00",
-  "date_found": "2026-11-04T01:34:47.971000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
