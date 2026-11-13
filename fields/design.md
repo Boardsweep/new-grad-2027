@@ -2,12 +2,13 @@
 
 # 🎨 Design new grad and entry-level roles
 
-All 24 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
+All 25 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=uline.com" width="20" height="20" align="absmiddle">&nbsp; **Uline** | Associate Instructional Designer ✨ | 5&nbsp;Locations<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Instructional-Designer_R269141-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=cscgeneration.com" width="20" height="20" align="absmiddle">&nbsp; **CSC&nbsp;Generation&nbsp;2** | Junior Graphic Designer ✨ | Forest&nbsp;Lake,&nbsp;MN<br><sub>-</sub> | Nov&nbsp;11<br><sub>⚡&nbsp;13m</sub> | <a href="https://jobs.lever.co/cscgeneration-2/8f687621-a48e-488f-93be-aff169db8b54"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nbcuniversal.com" width="20" height="20" align="absmiddle">&nbsp; **NBCUniversal** | Associate Design Engineer ✨ | New&nbsp;York<br><sub>$120k–&#8288;$165k/yr</sub> | Nov&nbsp;10 | <a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000160955954"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ttigroup.com" width="20" height="20" align="absmiddle">&nbsp; **Techtronic Industries** | Associate Industrial Designer ✨ | Brookfield,&nbsp;WI<br><sub>-</sub> | Nov&nbsp;10 | <a href="https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Associate-Industrial-Designer_R79384"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
