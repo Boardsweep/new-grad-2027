@@ -32,6 +32,70 @@
   "advanced_degree": false
  },
  {
+  "company": "ViaSat",
+  "title": "Associate Software Engineer",
+  "location": "Carlsbad, CA",
+  "pay": "$95k–$150k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers.viasat.com/jobs/7147?icims=1&lang=en-us",
+  "date_posted": "2026-11-12T01:03:00+00:00",
+  "date_found": "2026-11-12T04:04:28.789000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Bask Health",
+  "title": "Frontend Engineer, New Grad",
+  "location": "United States",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://apply.workable.com/bask-health-1/j/95FB1074E4/",
+  "date_posted": "2026-11-12T00:00:00+00:00",
+  "date_found": "2026-11-12T04:04:28.789000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Bask Health",
+  "title": "Junior Forward Deployed Engineer",
+  "location": "United States",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://apply.workable.com/bask-health-1/j/7E3C450C5D/",
+  "date_posted": "2026-11-12T00:00:00+00:00",
+  "date_found": "2026-11-12T04:04:28.789000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Bask Health",
+  "title": "Junior Design Engineer",
+  "location": "United States",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://apply.workable.com/bask-health-1/j/E8EA53DF48/",
+  "date_posted": "2026-11-12T00:00:00+00:00",
+  "date_found": "2026-11-12T04:04:28.789000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Perplexity AI",
   "title": "Product Manager - Legal",
   "location": "2 locations",
@@ -871,6 +935,23 @@
   "advanced_degree": false
  },
  {
+  "company": "The Aerospace Corporation",
+  "title": "Jr. Data Solutions and Software Engineer",
+  "location": "El Segundo, CA",
+  "pay": "$81,700–$122,500/yr",
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Jr-Data-Solutions-and-Software-Engineer_R017107",
+  "date_posted": "2026-11-11T10:40:52.524000+00:00",
+  "date_found": "2026-11-12T02:01:46.077000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "AMD",
   "title": "2027 Graduate Trainee - Silicon Design Engineer (March Intake)",
   "location": "Penang, Pulau Pinang",
@@ -995,6 +1076,22 @@
   "date_found": "2026-11-11T00:07:47.081000+00:00",
   "top_company": false,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "RTX",
+  "title": "Associate Software Engineer I – CDS / Engine System Software (Onsite)",
+  "location": "East Hartford, CT",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197",
+  "date_posted": "2026-11-11T00:00:00+00:00",
+  "date_found": "2026-11-12T04:04:28.789000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -6745,22 +6842,6 @@
   "advanced_degree": false
  },
  {
-  "company": "RTX",
-  "title": "Engineer I: Aftermarket Development Program (ADP)",
-  "location": "East Hartford, CT",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-M--400-Main-St--BLDG-M/Engineer-I--Aftermarket-Development-Program--ADP-_01871745",
-  "date_posted": "2026-11-05T03:51:16.669000+00:00",
-  "date_found": "2026-11-05T03:52:13.152000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "PACCAR",
   "title": "Associate System Integration and Test Engineer",
   "location": "Mount Vernon, WA",
@@ -6771,22 +6852,6 @@
   "url": "https://jobs.paccar.com/job/Mount-Vernon-Associate-System-Integration-and-Test-Engineer-WA-98273-9671/1454445133/?ats=successfactors",
   "date_posted": "2026-11-05T02:48:21+00:00",
   "date_found": "2026-11-05T04:01:03.633000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Applied Materials",
-  "title": "2027 Process Support Engineer, New College Grad - Bachelor's (Multiple Locations))",
-  "location": "3 Locations",
-  "pay": "$70k–$95,500/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/XMLNAME-2027-Process-Support-Engineer--New-College-Grad---Bachelor-s--Multiple-Locations--_R2632289",
-  "date_posted": "2026-11-05T02:40:34.338000+00:00",
-  "date_found": "2026-11-05T02:58:02.676000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -6805,22 +6870,6 @@
   "date_found": "2026-11-05T04:01:03.633000+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "L3Harris",
-  "title": "Senior Associate Software Engineer",
-  "location": "Palm Bay, FL",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jobs.l3harris.com/job/Palm-Bay-Sr_-Associate,-Software-Engineer-FL-32905/1447983300/?ats=successfactors",
-  "date_posted": "2026-11-05T02:16:22+00:00",
-  "date_found": "2026-11-05T02:58:02.676000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -6852,22 +6901,6 @@
   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939",
   "date_posted": "2026-11-05T01:51:45.117508+00:00",
   "date_found": "2026-09-09T00:00:00+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Applied Materials",
-  "title": "Mechanical Engineer I New College Grad - Bachelor's (Austin, TX)",
-  "location": "Austin, TX",
-  "pay": "$70k–$95,500/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Mechanical-Engineer-I-New-College-Grad---Bachelor-s--Austin--TX-_R2632478",
-  "date_posted": "2026-11-05T01:40:34.987000+00:00",
-  "date_found": "2026-11-05T01:57:59.567000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -7288,22 +7321,6 @@
   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Port-Hueneme-CA/Software-and-Documentation-Support-Engineer--Junior_R0252799-1",
   "date_posted": "2026-11-04T17:41:47.235000+00:00",
   "date_found": "2026-11-06T18:00:24.066000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Turner & Townsend",
-  "title": "Operations and Data Assistant - AI and Data Analyst",
-  "location": "Charlotte, NC",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159691614",
-  "date_posted": "2026-11-04T17:25:51+00:00",
-  "date_found": "2026-11-05T02:58:02.676000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -10624,6 +10641,22 @@
   "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1",
   "date_posted": "2026-10-23T17:12:47.620000+00:00",
   "date_found": "2026-10-23T17:14:02.289000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Lovelytics",
+  "title": "Advance Program Data Associate",
+  "location": "Arlington, VA",
+  "pay": "$60k–$80k/yr",
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://job-boards.greenhouse.io/lovelytics/jobs/4462233009",
+  "date_posted": "2026-10-23T16:41:00+00:00",
+  "date_found": "2026-11-05T02:58:02.676000+00:00",
   "top_company": false,
   "no_sponsorship": true,
   "citizenship_required": false,

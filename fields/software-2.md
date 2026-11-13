@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,175 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,178 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,7 +10,10 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=garmin.com" width="20" height="20" align="absmiddle">&nbsp; **Garmin** | Software Engineer 1 - Aviation Database | Olathe,&nbsp;KS<br><sub>-</sub> | Aug&nbsp;1 | <a href="https://careers.garmin.com/jobs/17162?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=akima.com" width="20" height="20" align="absmiddle">&nbsp; **Akima** | Unreal Game Designer | Huntsville,&nbsp;AL<br><sub>-</sub> | Aug&nbsp;2 | <a href="https://careers.akima.com/jobs/22581?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=mantech.com" width="20" height="20" align="absmiddle">&nbsp; **ManTech** | Software Engineer 1 🛂 | Crane,&nbsp;IN<br><sub>-</sub> | Aug&nbsp;2 | <a href="https://mantech.avature.net/en_US/careers/JobDetail/61501"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=garmin.com" width="20" height="20" align="absmiddle">&nbsp; **Garmin** | Software Engineer 1 - Connect IQ Applications | Olathe,&nbsp;KS<br><sub>-</sub> | Aug&nbsp;1 | <a href="https://careers.garmin.com/jobs/18475?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Software Engineer 1 - Aviation Database | Olathe,&nbsp;KS<br><sub>-</sub> | Aug&nbsp;1 | <a href="https://careers.garmin.com/jobs/17162?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer 1 - Web Development/Applications | Olathe,&nbsp;KS<br><sub>-</sub> | Aug&nbsp;1 | <a href="https://careers.garmin.com/jobs/18510?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer 1 | Olathe,&nbsp;KS<br><sub>-</sub> | Aug&nbsp;1 | <a href="https://careers.garmin.com/jobs/19098?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=noblis.org" width="20" height="20" align="absmiddle">&nbsp; **Noblis** | Software Engineer | Philadelphia,&nbsp;PA<br><sub>$65,200–&#8288;$164,125/yr</sub> | Aug&nbsp;1 | <a href="https://careers.noblis.org/jobs/26643?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
