@@ -1,5 +1,53 @@
 [
  {
+  "company": "Microchip Technology",
+  "title": "Engineer I- Device (Semiconductor Modeling Test & Analysis)",
+  "location": "Chandler, AZ",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://wd5.myworkdaysite.com/External/job/AZ---Chandler/Engineer-I--Device--Semiconductor-Modeling-Test---Analysis-_R4763-26",
+  "date_posted": "2026-11-13T18:12:58.407000+00:00",
+  "date_found": "2026-11-13T18:13:49.902000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Boeing",
+  "title": "Associate Missions Systems Software Engineer - Embedded",
+  "location": "USA - Berkeley, MO",
+  "pay": "$99,450–$134,550/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Missions-Systems-Software-Engineer---Embedded_JR2026523431",
+  "date_posted": "2026-11-13T17:18:06.310000+00:00",
+  "date_found": "2026-11-13T17:19:48.995000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "CM Telematics",
+  "title": "Software Engineer I, Cloud",
+  "location": "Cambridge, MA",
+  "pay": "$92,900–$116,100/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://job-boards.greenhouse.io/cmt/jobs/8385978",
+  "date_posted": "2026-11-13T17:11:24+00:00",
+  "date_found": "2026-11-13T17:16:56.606000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Iridium Communications",
   "title": "Applications Programmer I",
   "location": "",
@@ -251,6 +299,22 @@
   "date_posted": null,
   "date_found": "2026-11-13T00:10:49.373000+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Micron Technology",
+  "title": "New College Grad - Design Engineer",
+  "location": "San Jose, CA",
+  "pay": "$86k–$173k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Design-Engineer_JR117605",
+  "date_posted": "2026-11-13T00:00:00+00:00",
+  "date_found": "2026-11-13T18:19:49.863000+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -6320,38 +6384,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Pearce Services",
-  "title": "Entry-Level Electronics Technician (UPS Field Engineer)",
-  "location": "Fontana, CA",
-  "pay": "$24–$32/hr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://job-boards.greenhouse.io/pearceservices/jobs/5475627008",
-  "date_posted": "2026-11-06T18:36:59+00:00",
-  "date_found": "2026-11-06T18:40:46.865000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Colonial Pipeline",
-  "title": "Electrical Technician (Associate, Level I)",
-  "location": "Beaumont, TX",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://colpipe.wd1.myworkdayjobs.com/Search/job/Beaumont-TX/Technician--Associate--Level-I-_R0002063",
-  "date_posted": null,
-  "date_found": "2026-11-06T18:00:24.066000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Samsara",
   "title": "Security Operations Engineer I",
   "location": "Remote -, CA",
@@ -6363,70 +6395,6 @@
   "date_posted": "2026-11-06T17:48:59+00:00",
   "date_found": "2026-11-06T17:52:46.751000+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Thermal Analyst I- Huntsville, AL",
-  "location": "Huntsville, AL",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Thermal-Analyst-I--Huntsville--AL_01887170",
-  "date_posted": "2026-11-06T17:46:55.457000+00:00",
-  "date_found": "2026-11-06T18:00:24.066000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "AspenTech",
-  "title": "Associate DMS Applications Engineer",
-  "location": "Medina, MN",
-  "pay": "$65,400–$81,800/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Associate-DMS-Applications-Engineer_R9469",
-  "date_posted": "2026-11-06T17:41:03.064000+00:00",
-  "date_found": "2026-11-06T18:00:24.066000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Boeing",
-  "title": "Phantom Works Associate Guidance & Control Engineer",
-  "location": "USA - Saint Charles, MO",
-  "pay": "$93,500–$126,500/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Saint-Charles-MO/JR2026522356-Phantom-Works-Associate-Guidance---Control-Engineer_JR2026522356",
-  "date_posted": "2026-11-06T17:34:14.190000+00:00",
-  "date_found": "2026-11-06T17:34:49.227000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "JM Family",
-  "title": "Data Analyst I",
-  "location": "Florida - Deerfield Beach",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Analyst-I_JR105210",
-  "date_posted": "2026-11-06T16:55:19.884000+00:00",
-  "date_found": "2026-11-06T17:01:10.012000+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -6448,136 +6416,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Guidehouse",
-  "title": "Consulting Analyst - Health Automation & Analytics, Provider Advisory - Campus 2027",
-  "location": "5 Locations",
-  "pay": "$51k–$85k/yr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---NC-Charlotte/Consulting-Analyst---Health-Automation---Analytics--Provider-Advisory---Campus-2027_46423",
-  "date_posted": "2026-11-06T16:44:15.555000+00:00",
-  "date_found": "2026-11-06T17:01:10.012000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Johns Hopkins APL",
-  "title": "2027 Graduate - Weapon Control Engineer",
-  "location": "Laurel, MD",
-  "pay": "$85k/yr",
-  "tracks": [
-   "hardware",
-   "security"
-  ],
-  "url": "https://careers.jhuapl.edu/jobs/60819",
-  "date_posted": "2026-11-06T16:21:42+00:00",
-  "date_found": "2026-11-06T16:25:37.194000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "ANTPY-2 Program Protection Engineer II (Scrum Master)",
-  "location": "Woburn, MA",
-  "pay": null,
-  "tracks": [
-   "security"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/ANTPY-2-Program-Protection-Engineer-II--Scrum-Master-_01882079",
-  "date_posted": "2026-11-06T16:13:01.419000+00:00",
-  "date_found": "2026-11-06T16:13:51.751000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Intercontinental Exchange",
-  "title": "Junior Software Development Engineer In Test",
-  "location": "",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers-ice.icims.com/jobs/14205/junior-software-development-engineer-in-test/job",
-  "date_posted": null,
-  "date_found": "2026-11-06T16:03:33.515000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "LivaNova",
-  "title": "Software Test Engineer I",
-  "location": "Houston, TX",
-  "pay": "$85k–$100k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://livanova.wd5.myworkdayjobs.com/search/job/Houston-Texas-United-States/Software-Test-Engineer-I_JR-14953",
-  "date_posted": "2026-11-06T15:57:16.541000+00:00",
-  "date_found": "2026-11-06T16:03:33.515000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Contractor Special Security Officer (CSSO) - Tucson, AZ",
-  "location": "Tucson, AZ",
-  "pay": null,
-  "tracks": [
-   "security"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-842--1151-E-Hermans-Rd--BLDG-842/Contractor-Special-Security-Officer--CSSO----Tucson--AZ_01886255",
-  "date_posted": "2026-11-06T15:45:37.681000+00:00",
-  "date_found": "2026-11-06T15:46:53.853000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "BlackRock",
-  "title": "ETF Product Developer, Associate – ETF Platform",
-  "location": "San Francisco, CA",
-  "pay": "$110k–$150k/yr",
-  "tracks": [
-   "product",
-   "software"
-  ],
-  "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/ETF-Product-Developer--Associate---ETF-Platform_R267103-1",
-  "date_posted": "2026-11-06T15:41:50.982000+00:00",
-  "date_found": "2026-11-06T16:03:33.515000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "ASM",
-  "title": "Software Engineer - Early Career",
-  "location": "US > Arizona > Phoenix",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://www.asm.com/open-vacancies/?gh_jid=5019821101",
-  "date_posted": "2026-11-06T15:34:26+00:00",
-  "date_found": "2026-11-06T15:37:48.796000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "neurohire.ai",
   "title": "Data Scientist",
   "location": "Remote in USA",
@@ -6594,55 +6432,6 @@
   "advanced_degree": false
  },
  {
-  "company": "CACI",
-  "title": "Junior Boundary Systems Engineer",
-  "location": "2 Locations",
-  "pay": "$98,500–$206,800/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://caci.wd1.myworkdayjobs.com/External/job/Linthicum-MD-US/Junior-Boundary-Systems-Engineer_334745",
-  "date_posted": "2026-11-06T14:52:49.018000+00:00",
-  "date_found": "2026-11-06T14:59:48.927000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Nationwide",
-  "title": "Engineer, Software Engineer",
-  "location": "Des Moines, IA",
-  "pay": "$60,900–$113,300/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Engineer--Software-Engineer_101075",
-  "date_posted": null,
-  "date_found": "2026-11-06T14:51:33.369120+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Integration & Test Systems Engineer II - Secure Systems",
-  "location": "Cedar Rapids, IA",
-  "pay": null,
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Integration---Test-Systems-Engineer-II---Secure-Systems_01886776",
-  "date_posted": "2026-11-06T14:50:37.435000+00:00",
-  "date_found": "2026-11-06T14:59:48.927000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "SopraSteria1",
   "title": "FPGA Verification Engineer (Entry Level)",
   "location": "East Hartford",
@@ -6655,54 +6444,6 @@
   "date_found": "2026-11-06T14:43:47.969000+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Electronics Technician (Onsite)",
-  "location": "Cedar Rapids, IA",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Senior-Tech--Electronics-Technician--Onsite-_01885055",
-  "date_posted": "2026-11-06T14:30:55.205000+00:00",
-  "date_found": "2026-11-06T14:31:54.585000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Product Quality Engineer I (Onsite)",
-  "location": "Largo, FL",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Product-Quality-Engineer-I--Onsite-_01887468",
-  "date_posted": "2026-11-06T14:06:07.018000+00:00",
-  "date_found": "2026-11-06T14:07:41.142000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Cleveland Clinic",
-  "title": "Data Scientist I - Center for Diagnostics and Artificial Intelligence",
-  "location": "Remote Location",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Center-for-Diagnostics-and-Artificial-Intelligence_356735",
-  "date_posted": "2026-11-06T09:51:46.739078+00:00",
-  "date_found": "2026-11-06T19:01:53.127000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -7001,38 +6742,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Hewlett Packard Enterprise",
-  "title": "Campus Switching Product Manager Graduate",
-  "location": "2 Locations",
-  "pay": null,
-  "tracks": [
-   "product"
-  ],
-  "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267-1",
-  "date_posted": "2026-11-06T00:00:00+00:00",
-  "date_found": "2026-11-06T19:01:53.127000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Hewlett Packard Enterprise",
-  "title": "Campus Switching Product Manager Graduate",
-  "location": "2 Locations",
-  "pay": null,
-  "tracks": [
-   "product"
-  ],
-  "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267",
-  "date_posted": "2026-11-06T00:00:00+00:00",
-  "date_found": "2026-11-06T19:01:53.127000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Abbott",
   "title": "Electrical Engineer I Neuromodulation",
   "location": "United States - Texas - Plano",
@@ -7077,22 +6786,6 @@
   "date_found": "2026-11-06T16:03:33.515000+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Charles Schwab",
-  "title": "Associate Software Development & Engineering",
-  "location": "2 locations",
-  "pay": "$27.60–$52.74/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://career-schwab.icims.com/jobs/129593/associate---software-development-%26-engineering/job",
-  "date_posted": "2026-11-06T00:00:00+00:00",
-  "date_found": "2026-11-06T16:03:33.515000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -7625,22 +7318,6 @@
   "url": "https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009",
   "date_posted": "2026-11-04T18:01:23+00:00",
   "date_found": "2026-11-04T19:02:23.413000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Booz Allen Hamilton",
-  "title": "Software and Documentation Support Engineer, Junior",
-  "location": "Port Hueneme, CA",
-  "pay": "$52,900–$108k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Port-Hueneme-CA/Software-and-Documentation-Support-Engineer--Junior_R0252799-1",
-  "date_posted": "2026-11-04T17:41:47.235000+00:00",
-  "date_found": "2026-11-06T18:00:24.066000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -9125,22 +8802,6 @@
   "date_found": "2026-10-29T20:00:18.801000+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Akuna Capital",
-  "title": "Junior Trader, 2027 | Carnegie Mellon University",
-  "location": "Chicago",
-  "pay": "$145k/yr",
-  "tracks": [
-   "quant"
-  ],
-  "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8059752",
-  "date_posted": null,
-  "date_found": "2026-10-29T11:52:07.233196+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
