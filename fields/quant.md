@@ -2,12 +2,14 @@
 
 # 📈 Quant new grad and entry-level roles
 
-All 85 open quant new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant).
+All 87 open quant new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant), or [get them by email, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_quant).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=stonex.com" width="20" height="20" align="absmiddle">&nbsp; **StoneX&nbsp;Group** | Junior Trader (Portuguese Speakers Only) ✨ | - | Nov&nbsp;13 | <a href="https://careers-stonex.icims.com/jobs/17026/junior-trader-%28portuguese-speakers-only%29/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=barclays.com" width="20" height="20" align="absmiddle">&nbsp; **Barclays** | S&amp;T- Delta One Trading Analyst Graduate Program 2027 New York ✨ | New York, 745 7th Avenue<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/S-T--Delta-One-Trading-Analyst-Graduate-Program-2027-New-York_JR-0000118428"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=drw.com" width="20" height="20" align="absmiddle">&nbsp; **DRW** | Associate Trade Support Engineer 🔥 ✨ | Chicago<br><sub>$85k–&#8288;$125k/yr</sub> | Nov&nbsp;12 | <a href="https://job-boards.greenhouse.io/drweng/jobs/6821173"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Maven - Emerging Talent** | Graduate Floor Trader 2027 | Chicago<br><sub>-</sub> | Nov&nbsp;11<br><sub>⚡&nbsp;2m</sub> | <a href="https://job-boards.greenhouse.io/emergingtalent/jobs/8352764"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=maven.com" width="20" height="20" align="absmiddle">&nbsp; **Maven&nbsp;Securities** | Graduate Floor Trader 2027 ✨ | Chicago<br><sub>-</sub> | Nov&nbsp;11<br><sub>⚡&nbsp;2m</sub> | <a href="https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8352763"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
