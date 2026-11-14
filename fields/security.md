@@ -2,12 +2,13 @@
 
 # 🛡️ Security new grad and entry-level roles
 
-All 26 open security new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security), or [get them by email, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security).
+All 27 open security new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security), or [get them by email, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=jobgether.com" width="20" height="20" align="absmiddle">&nbsp; **Jobgether** | Associate GRC Engineer ✨ | - | Nov&nbsp;13 | <a href="https://jobs.lever.co/jobgether/aa7c4219-d118-4307-8f56-5021e1c0c40b"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=northropgrumman.com" width="20" height="20" align="absmiddle">&nbsp; **Northrop&nbsp;Grumman** | Associate Industrial Security Analyst ✨ 🛂 | United States-California-Palmdale<br><sub>$63k–&#8288;$94,600/yr</sub> | Nov&nbsp;12 | <a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Associate-Industrial-Security-Analyst_R10259295"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ilsos.gov" width="20" height="20" align="absmiddle">&nbsp; **Ilsos** | IS Specialist I - Security/Cyber Threats ✨ | Springfield,&nbsp;IL<br><sub>$6,052–&#8288;$11,261/mo</sub> | Nov&nbsp;12 | <a href="https://ilsos.applytojob.com/apply/Q4oQy8jDDg"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=americanexpress.com" width="20" height="20" align="absmiddle">&nbsp; **American&nbsp;Express** | Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY ✨ | New&nbsp;York,&nbsp;NY<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013354"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
