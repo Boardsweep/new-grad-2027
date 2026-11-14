@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,171 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,173 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 1 of 2: **1** · [2](software-2.md)
 
@@ -10,6 +10,8 @@ Page 1 of 2: **1** · [2](software-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=kinaxis.com" width="20" height="20" align="absmiddle">&nbsp; **Kinaxis** | Cloud Engineer 1, Site Reliability Engineering (Early Career, Junior Level) ✨ | -<br><sub>$79,500–&#8288;$95k/yr</sub> | Nov&nbsp;13 | <a href="https://careers-kinaxis.icims.com/jobs/35470/cloud-engineer-1%2c-site-reliability-engineering-%28early-career%2c-junior-level%29/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=paccar.com" width="20" height="20" align="absmiddle">&nbsp; **PACCAR** | Robotics Software Engineer 1 ✨ | Chillicothe, OH, US, 45601-8829<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://jobs.paccar.com/job/Chillicothe-Robotics-Software-Engineer-1-OH-45601-8829/1419447833/"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=affirm.com" width="20" height="20" align="absmiddle">&nbsp; **Affirm** | Software Engineer I, Backend (Continuous Delivery) 🔥 | Remote<br><sub>$130k–&#8288;$180k/yr</sub> | Nov&nbsp;12<br><sub>⚡&nbsp;1m</sub> | <a href="https://job-boards.greenhouse.io/affirm/jobs/8181183003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=rtx.com" width="20" height="20" align="absmiddle">&nbsp; **RTX** | Software Engineer I - Air Traffic Solutions (Onsite) 🛂 | Marlborough,&nbsp;MA<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=williams.com" width="20" height="20" align="absmiddle">&nbsp; **Williams** | Scada Analyst I,II (Upstream) ✨ | OK Tulsa - Headquarters<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Scada-Analyst--I-or-II-_R112987"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -969,8 +971,6 @@ Page 1 of 2: **1** · [2](software-2.md)
 | ↳ | Software Engineer 1 - Web Development/Applications | Olathe,&nbsp;KS<br><sub>-</sub> | Aug&nbsp;1 | <a href="https://careers.garmin.com/jobs/18510?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer 1 | Olathe,&nbsp;KS<br><sub>-</sub> | Aug&nbsp;1 | <a href="https://careers.garmin.com/jobs/19098?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=noblis.org" width="20" height="20" align="absmiddle">&nbsp; **Noblis** | Software Engineer | Philadelphia,&nbsp;PA<br><sub>$65,200–&#8288;$164,125/yr</sub> | Aug&nbsp;1 | <a href="https://careers.noblis.org/jobs/26643?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=panasonic.com" width="20" height="20" align="absmiddle">&nbsp; **Panasonic** | Software Engineer - Full Stack | Irvine,&nbsp;CA<br><sub>$33.17–&#8288;$55.29/hr</sub> | Aug&nbsp;1 | <a href="https://careers.na.panasonic.com/jobs/49874?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=newsbreak.com" width="20" height="20" align="absmiddle">&nbsp; **NewsBreak** | Software Engineer Junior New Grad - ML Infra | Mountain View, CA<br><sub>$125k–&#8288;$175k/yr</sub> | Jul&nbsp;31 | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4615879006"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](software-2.md)
 

@@ -1,5 +1,69 @@
 [
  {
+  "company": "Kinaxis",
+  "title": "Cloud Engineer 1, Site Reliability Engineering (Early Career, Junior Level)",
+  "location": "",
+  "pay": "$79,500–$95k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers-kinaxis.icims.com/jobs/35470/cloud-engineer-1%2c-site-reliability-engineering-%28early-career%2c-junior-level%29/job",
+  "date_posted": null,
+  "date_found": "2026-11-13T04:05:15.836000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Microsoft",
+  "title": "Electrical Engineer - Schie",
+  "location": "3 locations",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557023168",
+  "date_posted": "2026-11-13T02:54:50+00:00",
+  "date_found": "2026-11-13T04:05:15.836000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Boeing",
+  "title": "Associate Electrical Engineer",
+  "location": "USA - Heath, OH",
+  "pay": "$91,800–$124,200/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Heath-OH/Associate-Electrical-Engineer_JR2026522416",
+  "date_posted": "2026-11-13T02:01:42.631000+00:00",
+  "date_found": "2026-11-13T02:02:03.180000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "PACCAR",
+  "title": "Robotics Software Engineer 1",
+  "location": "Chillicothe, OH, US, 45601-8829",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.paccar.com/job/Chillicothe-Robotics-Software-Engineer-1-OH-45601-8829/1419447833/",
+  "date_posted": "2026-11-13T02:00:00+00:00",
+  "date_found": "2026-11-13T02:07:50.720000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "StoneX Group",
   "title": "Junior Trader (Portuguese Speakers Only)",
   "location": "",
@@ -6576,39 +6640,6 @@
   "date_posted": "2026-11-06T07:27:53+00:00",
   "date_found": "2026-11-06T07:27:53+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Powerdesigninc",
-  "title": "Associate Mechanical Designer",
-  "location": "FL Tampa Bay HQ",
-  "pay": null,
-  "tracks": [
-   "design"
-  ],
-  "url": "https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/FL-Tampa-Bay-HQ/Associate-Mechanical-Designer_R9500-1",
-  "date_posted": "2026-11-06T02:49:43.287000+00:00",
-  "date_found": "2026-11-06T02:58:20.362000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "ABB",
-  "title": "Associate Electrical Designer",
-  "location": "USA, NC, Mebane",
-  "pay": null,
-  "tracks": [
-   "hardware",
-   "design"
-  ],
-  "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Associate-Electrical-Designer_JR00052222",
-  "date_posted": "2026-11-06T02:41:02.721000+00:00",
-  "date_found": "2026-11-06T02:58:20.362000+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -18967,22 +18998,6 @@
   "date_posted": "2026-09-23T01:06:52+00:00",
   "date_found": "2026-09-23T01:06:52+00:00",
   "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Figma",
-  "title": "Early Career, Product Designer (2027)",
-  "location": "New York, NY",
-  "pay": null,
-  "tracks": [
-   "design"
-  ],
-  "url": "https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004",
-  "date_posted": "2026-09-23T00:27:29+00:00",
-  "date_found": "2026-09-24T18:34:29.911000+00:00",
-  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false

@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,171 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,173 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,6 +10,8 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=panasonic.com" width="20" height="20" align="absmiddle">&nbsp; **Panasonic** | Software Engineer - Full Stack | Irvine,&nbsp;CA<br><sub>$33.17–&#8288;$55.29/hr</sub> | Aug&nbsp;1 | <a href="https://careers.na.panasonic.com/jobs/49874?icims=1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=newsbreak.com" width="20" height="20" align="absmiddle">&nbsp; **NewsBreak** | Software Engineer Junior New Grad - ML Infra | Mountain View, CA<br><sub>$125k–&#8288;$175k/yr</sub> | Jul&nbsp;31 | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4615879006"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=chicagotrading.com" width="20" height="20" align="absmiddle">&nbsp; **Chicago Trading Company** | Associate Engineer 🔥 | 2&nbsp;locations<br><sub>$200k/yr</sub> | Jul&nbsp;31 | <a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=abec.com" width="20" height="20" align="absmiddle">&nbsp; **ABEC** | Product Engineer | Bethlehem,&nbsp;PA<br><sub>-</sub> | Jul&nbsp;31 | <a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372257"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=artera.ai" width="20" height="20" align="absmiddle">&nbsp; **ArteraAI** | Associate AI Builder 🛂 | Seattle,&nbsp;WA<br><sub>$80k–&#8288;$140k/yr</sub> | Jul&nbsp;31 | <a href="https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
