@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,135 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,132 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,8 +10,6 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=amazon.com" width="20" height="20" align="absmiddle">&nbsp; **Amazon** | Software Development Engineer - Military Veterans 🔥 | 7&nbsp;locations<br><sub>-</sub> | Jul&nbsp;14 | <a href="https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=hudsonrivertrading.com" width="20" height="20" align="absmiddle">&nbsp; **Hudson River Trading** | Software Engineer - C++ or Python 🔥 | 3&nbsp;locations<br><sub>-</sub> | Jul&nbsp;13 | <a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=drw.com" width="20" height="20" align="absmiddle">&nbsp; **DRW** | Software Developer 🔥 | Chicago,&nbsp;IL<br><sub>$225k/yr</sub> | Jul&nbsp;13 | <a href="https://job-boards.greenhouse.io/drweng/jobs/7980165"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=oldmissioncapital.com" width="20" height="20" align="absmiddle">&nbsp; **Old Mission Capital** | Software Engineer New Grad 🔥 | Chicago,&nbsp;IL<br><sub>-</sub> | Jul&nbsp;13<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=spacex.com" width="20" height="20" align="absmiddle">&nbsp; **SpaceX** | Software Engineer - Components Test - Starshield 🔥 | Hawthorne,&nbsp;CA<br><sub>-</sub> | Jul&nbsp;9<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://boards.greenhouse.io/spacex/jobs/8625615002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
