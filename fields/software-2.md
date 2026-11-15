@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,165 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,162 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,9 +10,6 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=kearney.com" width="20" height="20" align="absmiddle">&nbsp; **Kearney** | Full Stack Developer | 3&nbsp;locations<br><sub>-</sub> | Jul&nbsp;28 | <a href="https://kearney.taleo.net/careersection/01/jobdetail.ftl?job=006JX"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=tavernresearch.com" width="20" height="20" align="absmiddle">&nbsp; **Tavern&nbsp;Research** | Engineer 1 - Digital Engagement | Chicago,&nbsp;IL<br><sub>-</sub> | Jul&nbsp;28 | <a href="https://ats.rippling.com/tavernresearch/jobs/328ac66c-4c82-4598-8101-3d9fa64bd436"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=notability.com" width="20" height="20" align="absmiddle">&nbsp; **Notability** | Engineer – Web Apps | SF<br><sub>$120k–&#8288;$175k/yr</sub> | Jul&nbsp;27<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://job-boards.greenhouse.io/gingerlabsinc/jobs/4928821008"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=retellai.com" width="20" height="20" align="absmiddle">&nbsp; **Retell&nbsp;AI** | Internal Deployed Engineer | San&nbsp;Carlos,&nbsp;CA<br><sub>$180k–&#8288;$300k/yr</sub> | Jul&nbsp;26 | <a href="https://jobs.ashbyhq.com/retell-ai/2e3f3930-0949-4b86-8ed1-7f5d9e068c87/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=nextpower.com" width="20" height="20" align="absmiddle">&nbsp; **Nextpower** | Forward Deployed Engineer - AI | Fremont,&nbsp;CA<br><sub>-</sub> | Jul&nbsp;24 | <a href="https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Fremont-South-Bldg-California---USA/Forward-Deployed-Engineer--AI-_NX-4260"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=bridgeraerospace.com" width="20" height="20" align="absmiddle">&nbsp; **Bridger** | Early Career Product Engineer | NYC<br><sub>$150k–&#8288;$200k/yr</sub> | Jul&nbsp;23 | <a href="https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
