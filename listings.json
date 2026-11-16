@@ -626,6 +626,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Johnson Controls",
+  "title": "Nextgen Software Engineer New Grad",
+  "location": "3 locations",
+  "pay": "$75k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2",
+  "date_posted": "2026-11-13T00:00:00+00:00",
+  "date_found": "2026-11-14T23:57:03.010000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Memorial Hermann",
   "title": "Application Programmer/Analyst",
   "location": "United States",
@@ -6218,22 +6234,6 @@
   "date_found": "2026-11-08T23:56:53.681000+00:00",
   "top_company": true,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "General Dynamics",
-  "title": "Embedded Engineer Columbia Missile Compartment Project Engineering Entry Level",
-  "location": "",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://careers-gdeb.icims.com/jobs/21194/embedded-engineer---columbia-missile-compartment-project-engineering-entry-level/job",
-  "date_posted": null,
-  "date_found": "2026-11-07T20:52:47.062000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
