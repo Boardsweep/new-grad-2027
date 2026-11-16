@@ -7500,7 +7500,7 @@
   "advanced_degree": false
  },
  {
-  "company": "Edwards Health Care Services",
+  "company": "Gemcore Health",
   "title": "Programmer Analyst 3",
   "location": "Hudson, OH",
   "pay": null,
@@ -9159,6 +9159,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Shield AI",
+  "title": "Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125",
+  "location": "Washington, D.C.",
+  "pay": "$77k–$211k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa",
+  "date_posted": "2026-10-27T20:43:16.503000+00:00",
+  "date_found": "2026-11-08T17:34:31.039000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "SambaNova Systems",
   "title": "ML Infrastructure Engineer New Grad",
   "location": "2 locations",
@@ -9219,6 +9235,55 @@
   "date_posted": "2026-10-27T09:43:52.164000+00:00",
   "date_found": "2026-09-09T00:00:00+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140",
+  "location": "Washington, D.C.",
+  "pay": "$77k–$211k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff",
+  "date_posted": "2026-10-27T00:00:00+00:00",
+  "date_found": "2026-11-08T18:01:54.512000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Engineer I, Software - Perception - New Grad - 6135",
+  "location": "Washington, D.C.",
+  "pay": "$77k–$211k/yr",
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319",
+  "date_posted": "2026-10-27T00:00:00+00:00",
+  "date_found": "2026-11-08T17:46:51.118000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Shield AI",
+  "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
+  "location": "United States",
+  "pay": "$77k–$211k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896",
+  "date_posted": "2026-10-27T00:00:00+00:00",
+  "date_found": "2026-11-08T17:25:34.508000+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
