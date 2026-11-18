@@ -1,5 +1,86 @@
 [
  {
+  "company": "Microsoft",
+  "title": "Software Engineer Agentic Security",
+  "location": "Redmond, WA",
+  "pay": "$85,400–$168,100/yr",
+  "tracks": [
+   "software",
+   "security"
+  ],
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557074643",
+  "date_posted": "2026-11-17T02:49:55+00:00",
+  "date_found": "2026-11-17T03:42:51.789000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Wyetech",
+  "title": "Software Engineer 0 or 1",
+  "location": "United States",
+  "pay": "$49.26–$66.71/hr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1",
+  "date_posted": "2026-11-17T02:44:35+00:00",
+  "date_found": "2026-11-17T03:42:51.789000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TikTok",
+  "title": "Logistics Product Strategy & Operations Graduate",
+  "location": "Seattle, WA",
+  "pay": "$143,640–$212,040/yr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://lifeattiktok.com/search/7706618594172881205",
+  "date_posted": "2026-11-17T02:37:28+00:00",
+  "date_found": "2026-11-17T03:42:51.789000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
+  "company": "Laborie Medical Technologies",
+  "title": "Software Engineer 1",
+  "location": "Portsmouth, NH",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false",
+  "date_posted": "2026-11-17T02:35:03+00:00",
+  "date_found": "2026-11-17T03:42:51.789000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "The Opus Group",
+  "title": "Interactive Resident",
+  "location": "Remote in USA",
+  "pay": "$22/hr",
+  "tracks": [
+   "design"
+  ],
+  "url": "https://jobs.jobvite.com/theopusgroup/job/oPMUAfwP?nl=1&nl=1&fr=false",
+  "date_posted": "2026-11-17T02:08:44+00:00",
+  "date_found": "2026-11-17T02:55:07.761000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Steampunk",
   "title": "Junior Data Analyst",
   "location": "",
@@ -2261,6 +2342,22 @@
   "date_posted": "2026-11-12T01:03:00+00:00",
   "date_found": "2026-11-12T04:04:28.789000+00:00",
   "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Capital One",
+  "title": "Associate, Data Scientist - US Card",
+  "location": "Mclean, VA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1",
+  "date_posted": "2026-11-12T00:00:00+00:00",
+  "date_found": "2026-11-17T04:50:05.816309+00:00",
+  "top_company": true,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -5551,22 +5648,6 @@
   "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33337",
   "date_posted": "2026-11-09T00:00:00+00:00",
   "date_found": "2026-11-12T21:36:48.906000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Microchip Technology",
-  "title": "Engineer 1 - Device/Test - Parametric/Etest",
-  "location": "Colorado Springs, CO",
-  "pay": "$70k–$110k/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Engineer-I--Device-Test--Parametric-Etest-_R4730-26",
-  "date_posted": "2026-11-09T00:00:00+00:00",
-  "date_found": "2026-11-10T04:02:36.504000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,

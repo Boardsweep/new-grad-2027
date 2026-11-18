@@ -2,12 +2,13 @@
 
 # 📱 Product new grad and entry-level roles
 
-All 102 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
+All 103 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Logistics Product Strategy &amp; Operations Graduate 🔥 🎓 | Seattle,&nbsp;WA<br><sub>$143,640–&#8288;$212,040/yr</sub> | Nov&nbsp;17 | <a href="https://lifeattiktok.com/search/7706618594172881205"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=greatamericaninsurancegroup.com" width="20" height="20" align="absmiddle">&nbsp; **Great American Insurance Company** | Associate Product Analyst - Embedded Solutions ✨ 🛂 | Cincinnati,&nbsp;OH<br><sub>-</sub> | Nov&nbsp;13 | <a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Associate-Product-Analyst---Embedded-Solutions_R9882"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=uline.com" width="20" height="20" align="absmiddle">&nbsp; **Uline** | Corporate Analyst Rotational Program ✨ | 5&nbsp;Locations<br><sub>-</sub> | Nov&nbsp;12 | <a href="https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Corporate-Analyst-Rotational-Program_R269126-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=perplexityai.io" width="20" height="20" align="absmiddle">&nbsp; **Perplexity&nbsp;AI** | Product Manager - Legal 🔥 | 2&nbsp;locations<br><sub>$230k–&#8288;$330k/yr</sub> | Nov&nbsp;12<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://jobs.ashbyhq.com/perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

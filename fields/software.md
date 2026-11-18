@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,077 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,080 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 1 of 2: **1** · [2](software-2.md)
 
@@ -10,6 +10,9 @@ Page 1 of 2: **1** · [2](software-2.md)
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=microsoft.com" width="20" height="20" align="absmiddle">&nbsp; **Microsoft** | Software Engineer Agentic Security 🔥 | Redmond,&nbsp;WA<br><sub>$85,400–&#8288;$168,100/yr</sub> | Nov&nbsp;17 | <a href="https://apply.careers.microsoft.com/careers/job/1970393557074643"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=wyetechllc.com" width="20" height="20" align="absmiddle">&nbsp; **Wyetech** | Software Engineer 0 or 1 | -<br><sub>$49.26–&#8288;$66.71/hr</sub> | Nov&nbsp;17 | <a href="https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=laborie.com" width="20" height="20" align="absmiddle">&nbsp; **Laborie Medical Technologies** | Software Engineer 1 🛂 | Portsmouth,&nbsp;NH<br><sub>-</sub> | Nov&nbsp;17 | <a href="https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&amp;nl=1&amp;fr=false"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=mantech.com" width="20" height="20" align="absmiddle">&nbsp; **ManTech** | Junior Software Developer 🛂 | St&nbsp;Inigoes,&nbsp;MD<br><sub>$69,900–&#8288;$116,400/yr</sub> | Nov&nbsp;16 | <a href="https://mantech.avature.net/en_US/careers/JobDetail/67115"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=microsoft.com" width="20" height="20" align="absmiddle">&nbsp; **Microsoft** | Business Planner, Azure Container Services and Developer Innovation 🔥 ✨ | 2&nbsp;locations<br><sub>-</sub> | Nov&nbsp;16 | <a href="https://apply.careers.microsoft.com/careers/job/1970393557051130"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **RR&nbsp;Donnelley** | Associate Software Developer (Manufacturing) ✨ | Houston<br><sub>$64k–&#8288;$98,400/yr</sub> | Nov&nbsp;16 | <a href="https://jobs.smartrecruiters.com/RRDonnelley/744000161907179"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -969,9 +972,6 @@ Page 1 of 2: **1** · [2](software-2.md)
 | ↳ | Software Engineer 🔥 🛂 | California<br><sub>$90k–&#8288;$147,500/yr</sub> | Jul&nbsp;1 | <a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011522"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer 🔥 🛂 | California<br><sub>$90k–&#8288;$147,500/yr</sub> | Jul&nbsp;1 | <a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011531"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Software Engineer 🔥 🛂 | California<br><sub>$90k–&#8288;$147,500/yr</sub> | Jul&nbsp;1 | <a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011530"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Software Engineer 🔥 🛂 | California<br><sub>$90k–&#8288;$147,500/yr</sub> | Jul&nbsp;1 | <a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011524"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Software Engineer 🔥 🛂 | California<br><sub>$90k–&#8288;$147,500/yr</sub> | Jul&nbsp;1 | <a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011516"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| ↳ | Software Engineer 🔥 🛂 | California<br><sub>$90k–&#8288;$147,500/yr</sub> | Jul&nbsp;1 | <a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011539"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 
 **1** · [2](software-2.md)
 
