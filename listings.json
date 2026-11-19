@@ -1,5 +1,37 @@
 [
  {
+  "company": "Jobgether",
+  "title": "Junior Security Engineer",
+  "location": "US",
+  "pay": null,
+  "tracks": [
+   "security"
+  ],
+  "url": "https://jobs.lever.co/jobgether/7d7aae14-b608-463f-82c1-8eda7918b8cd",
+  "date_posted": "2026-11-18T08:19:41.498000+00:00",
+  "date_found": "2026-11-18T07:33:48.587000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "TikTok",
+  "title": "Logistics Product Manager Graduate - Supply Chain and Logistics",
+  "location": "Seattle, WA",
+  "pay": "$143,640–$212,040/yr",
+  "tracks": [
+   "product"
+  ],
+  "url": "https://lifeattiktok.com/search/7704910847553931573",
+  "date_posted": "2026-11-18T02:11:13+00:00",
+  "date_found": "2026-11-18T02:43:53.628000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Hanes Companies",
   "title": "Product Management Trainee",
   "location": "Winston-Salem, NC",
@@ -4762,22 +4794,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Google",
-  "title": "Electronics Hardware Lab Generalist, Quantum AI",
-  "location": "Goleta, CA",
-  "pay": "$99k–$140k/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://www.google.com/about/careers/applications/jobs/results/137886886671590086",
-  "date_posted": "2026-11-11T07:10:31+00:00",
-  "date_found": "2026-11-11T07:13:51.221000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Bask Health",
   "title": "Associate Product Manager",
   "location": "Remote in USA",
@@ -4804,38 +4820,6 @@
   "url": "https://apply.workable.com/bask-health-1/j/EB2C2D9268/apply",
   "date_posted": "2026-11-11T02:06:19+00:00",
   "date_found": "2026-11-11T03:04:19.901000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Charles Schwab",
-  "title": "Junior Full Stack .Net Developer",
-  "location": "",
-  "pay": "$56.73–$64.90/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://career-schwab.icims.com/jobs/129918/junior-full-stack-.net-developer/job",
-  "date_posted": null,
-  "date_found": "2026-11-11T02:04:51.531000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "AST SpaceMobile",
-  "title": "RF Test Engineer 1",
-  "location": "3 locations",
-  "pay": "$88k–$93k/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://ast-science.com/company/careers/?gh_jid=4753267005",
-  "date_posted": "2026-11-11T00:14:31+00:00",
-  "date_found": "2026-11-11T04:01:13.824000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -5338,22 +5322,6 @@
   "date_found": "2026-11-11T03:04:19.901000+00:00",
   "top_company": false,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Amazon.com Services",
-  "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2027, Amazon Dedicated Cloud (ADC)",
-  "location": "Jessup, MD",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://atoz.amazon/en-us/jobs/job/10601956",
-  "date_posted": "2026-11-10T23:57:19+00:00",
-  "date_found": "2026-11-11T03:50:06.830026+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -6180,6 +6148,22 @@
   "date_found": "2026-11-08T23:56:53.681000+00:00",
   "top_company": true,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Salesforce",
+  "title": "Associate Security Consultant- PSSA, Early Talent",
+  "location": "4 Locations",
+  "pay": "$75,200–$82,800/yr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/Washington---Seattle/Associate-Security-Consultant--PSSA--Early-Talent_JR367671-2",
+  "date_posted": "2026-11-07T05:42:17.412000+00:00",
+  "date_found": "2026-11-18T05:43:25.142000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
