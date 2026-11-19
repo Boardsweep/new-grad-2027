@@ -1,5 +1,102 @@
 [
  {
+  "company": "Canon",
+  "title": "Associate Solutions Analyst Pts",
+  "location": "",
+  "pay": "$69,300–$103,770/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://external-canoncareers.icims.com/jobs/36349/associate-solutions-analyst---pts/job",
+  "date_posted": null,
+  "date_found": "2026-11-18T18:44:47.120000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Peraton",
+  "title": "Junior Software Engineer (Aws Cloud Services)",
+  "location": "",
+  "pay": "$66k–$106k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers-peraton.icims.com/jobs/173024/junior-software-engineer-%28aws-cloud-services%29/job",
+  "date_posted": null,
+  "date_found": "2026-11-18T17:44:38.353000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Altamira Technologies",
+  "title": "Entry Level Intelligence Analyst – TS/SCI CI Poly",
+  "location": "Aurora, CO",
+  "pay": "$75k–$90k/yr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://jobs.jobvite.com/altamiracorps/job/o0p7AfwQ",
+  "date_posted": null,
+  "date_found": "2026-11-18T17:44:38.353000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "DEKA",
+  "title": "Junior Android Developer",
+  "location": "Manchester, NH",
+  "pay": null,
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://deka.applytojob.com/apply/LGbBmHPeqo",
+  "date_posted": "2026-11-18T17:02:38+00:00",
+  "date_found": "2026-11-18T17:44:38.353000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Johns Hopkins APL",
+  "title": "2027 Graduate - Acoustic and Electromagnetic Sensors and Systems",
+  "location": "Laurel, MD",
+  "pay": "$85k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://careers.jhuapl.edu/jobs/60936",
+  "date_posted": "2026-11-18T15:59:21+00:00",
+  "date_found": "2026-11-18T16:01:06.445000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "L3Harris",
+  "title": "Associate, Integration and Test Engineering",
+  "location": "Wilmington, MA",
+  "pay": "$68k–$126k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Integration-&-Test-Engineering-MA-01887/1446383600/?ats=successfactors",
+  "date_posted": "2026-11-18T15:48:24+00:00",
+  "date_found": "2026-11-18T16:45:00.018000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Adyen",
   "title": "Full-Stack Developer (Junior) - Docs Experience Engineering Team",
   "location": "Chicago",
@@ -10,6 +107,38 @@
   "url": "https://job-boards.greenhouse.io/adyen/jobs/8068230",
   "date_posted": "2026-11-18T15:42:04+00:00",
   "date_found": "2026-10-19T20:59:31.159000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Berkshire Hathaway Energy",
+  "title": "Software Engineer - Bhepg",
+  "location": "Omaha, NE",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023",
+  "date_posted": "2026-11-18T15:06:28+00:00",
+  "date_found": "2026-11-18T15:45:24.406000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Johns Hopkins APL",
+  "title": "2027 Graduate - Missile Effectiveness Modeling and Simulation Analyst",
+  "location": "Laurel, MD",
+  "pay": "$85k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers.jhuapl.edu/jobs/60982",
+  "date_posted": "2026-11-18T14:31:14+00:00",
+  "date_found": "2026-11-18T14:34:17.873000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -44,6 +173,86 @@
   "date_found": "2026-11-18T02:43:53.628000+00:00",
   "top_company": true,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "American Express",
+  "title": "Software Engineer I - Vertx, Spring, Spring Boot, RESTful micro services, Ignite - GMNST",
+  "location": "Phoenix, AZ",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011281",
+  "date_posted": "2026-11-18T00:00:00+00:00",
+  "date_found": "2026-11-18T19:01:26.769000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "WSP",
+  "title": "Civil & Earthworks Junior Designer",
+  "location": "Reno, NV",
+  "pay": null,
+  "tracks": [
+   "design"
+  ],
+  "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99103",
+  "date_posted": "2026-11-18T00:00:00+00:00",
+  "date_found": "2026-11-18T17:04:11.361000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "Security Engineer I, Security Incident Response Team (SIRT)",
+  "location": "Arlington, VA",
+  "pay": null,
+  "tracks": [
+   "security"
+  ],
+  "url": "https://www.amazon.jobs/en/jobs/10608212/security-engineer-i-security-incident-response-team-sirt",
+  "date_posted": "2026-11-18T00:00:00+00:00",
+  "date_found": "2026-11-18T16:58:26.595000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Amazon",
+  "title": "Security Engineer I, Security Incident Response Team (SIRT)",
+  "location": "Arlington, VA",
+  "pay": null,
+  "tracks": [
+   "security"
+  ],
+  "url": "https://www.amazon.jobs/en/jobs/10608214/security-engineer-i-security-incident-response-team-sirt",
+  "date_posted": "2026-11-18T00:00:00+00:00",
+  "date_found": "2026-11-18T16:58:26.595000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "UL Solutions",
+  "title": "Entry-Level Electrical Engineer - Power",
+  "location": "Northbrook, IL",
+  "pay": "$64,800–$86,400/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11534",
+  "date_posted": "2026-11-18T00:00:00+00:00",
+  "date_found": "2026-11-18T16:45:00.018000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -4470,22 +4679,6 @@
   "advanced_degree": false
  },
  {
-  "company": "PulteGroup",
-  "title": "Associate Analyst",
-  "location": "Atlanta, GA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://pultegroup.wd1.myworkdayjobs.com/pgi/job/Atlanta-GA/Associate-Analyst_JR9797",
-  "date_posted": "2026-11-11T18:56:25.486000+00:00",
-  "date_found": "2026-11-11T19:01:59.578000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Twitch",
   "title": "Software Engineer I, Commerce",
   "location": "San Francisco, CA",
@@ -4502,183 +4695,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Broadcom",
-  "title": "Verification Engineer",
-  "location": "USA-CA San Jose Innovation Drive",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Verification-Engineer_R027750",
-  "date_posted": "2026-11-11T18:15:34.639000+00:00",
-  "date_found": "2026-11-11T18:16:53.341000+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Tandem Diabetes Care",
-  "title": "Software Test Engineer I (Systems Test)",
-  "location": "California - Barnes",
-  "pay": "$39.23–$49/hr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/California---Barnes/Software-Test-Engineer-I--Systems-Test-_JR101674",
-  "date_posted": "2026-11-11T17:59:27.711000+00:00",
-  "date_found": "2026-11-11T18:05:06.213000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "IMEG",
-  "title": "Electrical Engineering New Graduate | Scottsdale, AZ",
-  "location": "Phoenix, AZ",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://wd1.myworkdaysite.com/Imeg_Careers/job/Phoenix-AZ/Electrical-Engineering-New-Graduate---Scottsdale--AZ_R-16747",
-  "date_posted": "2026-11-11T17:50:59.492000+00:00",
-  "date_found": "2026-11-11T18:05:06.213000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Northrop Grumman",
-  "title": "2027 Associate Digital Signal Processing Engineer - Cincinnati OH",
-  "location": "United States-Ohio-Cincinnati",
-  "pay": "$76,200–$114,400/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Associate-Digital-Signal-Processing-Engineer---Cincinnati-OH_R10254967",
-  "date_posted": "2026-11-11T17:15:39.667000+00:00",
-  "date_found": "2026-11-11T17:16:52.412000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Faith Technologies",
-  "title": "Manufacturing Systems Engineer I",
-  "location": "2 Locations",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://faithtechnologies.wd1.myworkdayjobs.com/FTI_Engineering/job/WI---Menasha/Manufacturing-Systems-Engineer-I_R12702",
-  "date_posted": "2026-11-11T16:56:15.416000+00:00",
-  "date_found": "2026-11-11T17:05:13.261000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Blue Origin",
-  "title": "Lunar Systems Administrator - Level 1",
-  "location": "Space Coast, FL",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Lunar-Systems-Administrator---Level-1_R75118",
-  "date_posted": "2026-11-11T16:55:01.080000+00:00",
-  "date_found": "2026-11-11T17:05:13.261000+00:00",
-  "top_company": true,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Northrop Grumman",
-  "title": "2027 Associate Systems Engineer - Pathways - Colorado Springs",
-  "location": "United States-Colorado-Colorado Springs",
-  "pay": "$69,300–$103,900/yr",
-  "tracks": [
-   "software",
-   "hardware"
-  ],
-  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Systems-Engineer---Pathways---Colorado-Springs_R10260203",
-  "date_posted": "2026-11-11T16:54:18.397000+00:00",
-  "date_found": "2026-11-11T16:55:47.801000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "CSC Generation 2",
-  "title": "Junior Graphic Designer",
-  "location": "Forest Lake, MN",
-  "pay": null,
-  "tracks": [
-   "design"
-  ],
-  "url": "https://jobs.lever.co/cscgeneration-2/8f687621-a48e-488f-93be-aff169db8b54",
-  "date_posted": "2026-11-11T16:09:57.933000+00:00",
-  "date_found": "2026-11-11T16:22:46.400000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Section Leader, Systems Engineering",
-  "location": "Colorado Springs, CO",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Section-Leader--Systems-Engineering_01888819",
-  "date_posted": "2026-11-11T15:53:59.169000+00:00",
-  "date_found": "2026-11-11T16:03:45.579000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Systems Engineer I, V&V Testing (Onsite - Security Clearance)",
-  "location": "Aguadilla, PR",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Systems-Engineer-I--V-V-Testing--Onsite---Security-Clearance-_01875336",
-  "date_posted": "2026-11-11T15:44:02.582000+00:00",
-  "date_found": "2026-11-11T16:03:45.579000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Engineering Execution Engineer",
-  "location": "Richardson, TX",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Engineering-Execution-Engineer_01888876-1",
-  "date_posted": "2026-11-11T14:49:15.193000+00:00",
-  "date_found": "2026-11-11T15:04:19.577000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Maven - Emerging Talent",
   "title": "Graduate Floor Trader 2027",
   "location": "Chicago",
@@ -4688,22 +4704,6 @@
   ],
   "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8352764",
   "date_posted": "2026-11-11T14:38:36+00:00",
-  "date_found": "2026-11-11T14:40:45.917000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Maven Securities",
-  "title": "Graduate Floor Trader 2027",
-  "location": "Chicago",
-  "pay": null,
-  "tracks": [
-   "quant"
-  ],
-  "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8352763",
-  "date_posted": "2026-11-11T14:38:33+00:00",
   "date_found": "2026-11-11T14:40:45.917000+00:00",
   "top_company": false,
   "no_sponsorship": false,
@@ -5208,38 +5208,6 @@
   "date_found": "2026-11-11T15:40:46.104000+00:00",
   "top_company": false,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "RTX",
-  "title": "Software Engineer I (CMA-P1-1)",
-  "location": "Ft Wayne, IN",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--CMA-P1-1-_01888038",
-  "date_posted": "2026-11-11T00:00:00+00:00",
-  "date_found": "2026-11-11T15:04:19.577000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Verdantas",
-  "title": "Data Analyst I",
-  "location": "San Diego CA-West",
-  "pay": "$30–$33/hr",
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/San-Diego-CA-West/Data-Analyst-I_R-101337",
-  "date_posted": "2026-11-11T00:00:00+00:00",
-  "date_found": "2026-11-11T14:03:55.192000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -5875,22 +5843,6 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
- },
- {
-  "company": "Boeing",
-  "title": "Associate Technical Data Designer",
-  "location": "USA - Fort Walton Beach, FL",
-  "pay": "$73,100–$98,900/yr",
-  "tracks": [
-   "design"
-  ],
-  "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Fort-Walton-Beach-FL/Associate-Technical-Data-Designer_JR2026516239",
-  "date_posted": "2026-11-09T18:01:39.625000+00:00",
-  "date_found": "2026-11-11T18:01:59.995000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
  },
  {
   "company": "Wolverine Trading",
