@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,056 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,053 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,10 +10,6 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=peopleculturetalent.com" width="20" height="20" align="absmiddle">&nbsp; **People Culture Talent** | Full-Stack Engineer | San Francisco, CA<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://jobs.ashbyhq.com/people-culture-talent/c1049c49-aea6-4862-a711-a4c78cf6e959"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Software Engineer - Data Arch - Data Ecosystem 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$316,800/yr</sub> | Jun&nbsp;15 | <a href="https://lifeattiktok.com/search/7527441329384147208"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=aerovironment.com" width="20" height="20" align="absmiddle">&nbsp; **AeroVironment** | Computer Network Operations Developer | Jessup,&nbsp;MD<br><sub>$102k–&#8288;$180k/yr</sub> | Jun&nbsp;13 | <a href="https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/CNO-Developer_6358"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=sncorp.com" width="20" height="20" align="absmiddle">&nbsp; **Sierra Nevada Corporation** | Software Engineer Fellow | Fort&nbsp;Worth,&nbsp;TX<br><sub>-</sub> | Jun&nbsp;13 | <a href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Fort-Worth-TX/Military-Fellowship-Program--Software-Engineer_R0029492"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=hpe.com" width="20" height="20" align="absmiddle">&nbsp; **Hewlett Packard Enterprise** | Research Engineer | Milpitas,&nbsp;CA<br><sub>-</sub> | Jun&nbsp;13 | <a href="https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Milpitas-California-United-States-of-America/HPE-Labs---Research-Engineer_1206781"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=varsitybrands.com" width="20" height="20" align="absmiddle">&nbsp; **Varsity&nbsp;Brands** | Software Engineer | Farmers Branch, TX<br><sub>-</sub> | Jun&nbsp;13 | <a href="https://careers.varsitybrands.com/global/en/job/JR113366"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=quantiq.io" width="20" height="20" align="absmiddle">&nbsp; **Quantiq** | Software Developer New Grad | Austin,&nbsp;TX<br><sub>-</sub> | Jun&nbsp;11<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://job-boards.greenhouse.io/quantiq/jobs/4280650009"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

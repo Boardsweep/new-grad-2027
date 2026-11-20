@@ -2,12 +2,14 @@
 
 # 📱 Product new grad and entry-level roles
 
-All 105 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
+All 107 open product new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product), or [get them by email, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_product).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=americanexpress.com" width="20" height="20" align="absmiddle">&nbsp; **American&nbsp;Express** | Analyst – Product Management | NYC<br><sub>-</sub> | Nov&nbsp;19 | <a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016885"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=bloomberg.com" width="20" height="20" align="absmiddle">&nbsp; **Bloomberg** | Enterprise Services Entry-level Technical Program 🔥 ✨ | - | Nov&nbsp;19 | <a href="https://bloomberg.avature.net/careers/JobDetail/Enterprise-Services-Entry-level-Technical-Program/46235"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Logistics Product Manager Graduate - Supply Chain and Logistics 🔥 | Seattle,&nbsp;WA<br><sub>$143,640–&#8288;$212,040/yr</sub> | Nov&nbsp;18 | <a href="https://lifeattiktok.com/search/7704910847553931573"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=hanescompanies.com" width="20" height="20" align="absmiddle">&nbsp; **Hanes&nbsp;Companies** | Product Management Trainee | Winston-Salem, NC<br><sub>-</sub> | Nov&nbsp;17 | <a href="https://hanescompanies.applytojob.com/apply/NKLr584hFW/Product-Management-Trainee"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=jpmorganchase.com" width="20" height="20" align="absmiddle">&nbsp; **JPMorgan&nbsp;Chase** | Product Manager - Investor Access - Analyst 🔥 | NYC<br><sub>-</sub> | Nov&nbsp;17 | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810015"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
