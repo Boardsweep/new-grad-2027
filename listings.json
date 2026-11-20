@@ -1,5 +1,70 @@
 [
  {
+  "company": "URBN",
+  "title": "Anthropologie Associate Apparel Designer Maeve Soft Wovens",
+  "location": "",
+  "pay": null,
+  "tracks": [
+   "design"
+  ],
+  "url": "https://homeoffice-na-urbn.icims.com/jobs/41735/anthropologie-associate-apparel-designer---maeve-soft-wovens/job",
+  "date_posted": null,
+  "date_found": "2026-11-19T02:44:24.418000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Qualcomm",
+  "title": "Embedded Audio Software Engineer - Software Engineering",
+  "location": "San Diego, CA",
+  "pay": "$99,500–$149,300/yr",
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://qualcomm.eightfold.ai/careers/job/446722197774",
+  "date_posted": "2026-11-19T02:38:29+00:00",
+  "date_found": "2026-11-19T03:43:39.364000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Think Academy",
+  "title": "Campus Security Officer (Unarmed, Part-Time)",
+  "location": "Cupertino, CA",
+  "pay": "$25–$30/hr",
+  "tracks": [
+   "security"
+  ],
+  "url": "https://job-boards.greenhouse.io/thinkacademyus/jobs/8208942003",
+  "date_posted": "2026-11-19T01:46:57+00:00",
+  "date_found": "2026-11-19T01:48:30.486000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Intelerad",
+  "title": "Radiology System Support Specialist I - DICOM / Linux / Backend",
+  "location": "Remote",
+  "pay": "$60k–$80k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.smartrecruiters.com/Intelerad/744000162425439",
+  "date_posted": "2026-11-19T01:33:24.060000+00:00",
+  "date_found": "2026-11-19T01:36:47.380000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Securitycareers Aus",
   "title": "Security Officer Entry Level Part Time Multiple Shifts",
   "location": "",
@@ -30,6 +95,22 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
+ },
+ {
+  "company": "Amazon",
+  "title": "Software Engineer I, Commerce",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce",
+  "date_posted": "2026-11-19T00:00:00+00:00",
+  "date_found": "2026-11-19T01:42:31.201000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
  },
  {
   "company": "Wyetech",
@@ -3937,22 +4018,6 @@
   "advanced_degree": false
  },
  {
-  "company": "ViaSat",
-  "title": "Associate Software Engineer",
-  "location": "Carlsbad, CA",
-  "pay": "$95k–$150k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers.viasat.com/jobs/7147?icims=1&lang=en-us",
-  "date_posted": "2026-11-12T01:03:00+00:00",
-  "date_found": "2026-11-12T04:04:28.789000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "Capital One",
   "title": "Associate, Data Scientist - US Card",
   "location": "Mclean, VA",
@@ -4340,22 +4405,6 @@
  },
  {
   "company": "Bask Health",
-  "title": "Junior Forward Deployed Engineer",
-  "location": "United States",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://apply.workable.com/bask-health-1/j/7E3C450C5D/",
-  "date_posted": "2026-11-12T00:00:00+00:00",
-  "date_found": "2026-11-12T04:04:28.789000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Bask Health",
   "title": "Junior Design Engineer",
   "location": "United States",
   "pay": null,
@@ -4641,23 +4690,6 @@
   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Associate-HMI-Design-Engineer_R0000404925",
   "date_posted": "2026-11-11T10:42:45.330000+00:00",
   "date_found": "2026-11-12T11:07:27.221000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "The Aerospace Corporation",
-  "title": "Jr. Data Solutions and Software Engineer",
-  "location": "El Segundo, CA",
-  "pay": "$81,700–$122,500/yr",
-  "tracks": [
-   "software",
-   "aiml"
-  ],
-  "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Jr-Data-Solutions-and-Software-Engineer_R017107",
-  "date_posted": "2026-11-11T10:40:52.524000+00:00",
-  "date_found": "2026-11-12T02:01:46.077000+00:00",
   "top_company": false,
   "no_sponsorship": true,
   "citizenship_required": false,
