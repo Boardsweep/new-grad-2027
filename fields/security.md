@@ -2,12 +2,13 @@
 
 # 🛡️ Security new grad and entry-level roles
 
-All 25 open security new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security), or [get them by email, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security).
+All 26 open security new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security), or [get them by email, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=google.com" width="20" height="20" align="absmiddle">&nbsp; **Google** | Engineering Analyst, Trust and Safety, Payments 🔥 ✨ | Seattle,&nbsp;WA<br><sub>$108k–&#8288;$153k/yr</sub> | Nov&nbsp;19 | <a href="https://www.google.com/about/careers/applications/jobs/results/118661277319865030"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Think&nbsp;Academy** | Campus Security Officer (Unarmed, Part-Time) ✨ | Cupertino,&nbsp;CA<br><sub>$25–&#8288;$30/hr</sub> | Nov&nbsp;19<br><sub>⚡&nbsp;2m</sub> | <a href="https://job-boards.greenhouse.io/thinkacademyus/jobs/8208942003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Securitycareers Aus** | Security Officer Entry Level Part Time Multiple Shifts ✨ | -<br><sub>$18.73/hr</sub> | Nov&nbsp;19 | <a href="https://securitycareers-aus.icims.com/jobs/1753528/security-officer-entry-level-part-time-multiple-shifts/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=altamiracorp.com" width="20" height="20" align="absmiddle">&nbsp; **Altamira Technologies** | Entry Level Intelligence Analyst – TS/SCI CI Poly ✨ | Aurora,&nbsp;CO<br><sub>$75k–&#8288;$90k/yr</sub> | Nov&nbsp;18 | <a href="https://jobs.jobvite.com/altamiracorps/job/o0p7AfwQ"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
