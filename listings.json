@@ -1,5 +1,183 @@
 [
  {
+  "company": "Rocket Lab",
+  "title": "Radar RF Design Engineer I",
+  "location": "Long Beach, CA",
+  "pay": "$88k–$132k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8203624003",
+  "date_posted": "2026-11-20T17:34:29+00:00",
+  "date_found": "2026-11-20T17:37:04.600000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Anduril",
+  "title": "Radar Systems Engineer, Early Career",
+  "location": "Costa Mesa, CA",
+  "pay": "$117k–$150k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007",
+  "date_posted": "2026-11-20T16:43:30+00:00",
+  "date_found": "2026-11-20T16:45:47.095000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Anduril",
+  "title": "RF Integration Systems Engineer, Early Career",
+  "location": "Costa Mesa, CA",
+  "pay": "$117k–$150k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007",
+  "date_posted": "2026-11-20T16:42:31+00:00",
+  "date_found": "2026-11-20T16:45:47.095000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Anduril",
+  "title": "Mission Systems Engineer, Early Career",
+  "location": "Costa Mesa, CA",
+  "pay": "$117k–$150k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007",
+  "date_posted": "2026-11-20T16:40:06+00:00",
+  "date_found": "2026-11-20T16:42:36.386000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "L3Harris",
+  "title": "Associate FPGA Firmware Electrical Engineering",
+  "location": "Fort Wayne, IN",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-FPGA-Firmware-Electrical-Engineering-IN-46818/1452528900/?ats=successfactors",
+  "date_posted": "2026-11-20T15:58:48+00:00",
+  "date_found": "2026-11-20T16:45:08.934000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "L3Harris",
+  "title": "Associate, FPGA Firmware Electrical Engineering",
+  "location": "Fort Wayne, IN",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-FPGA-Firmware-Electrical-Engineering-IN-46818/1452529600/?ats=successfactors",
+  "date_posted": "2026-11-20T15:58:48+00:00",
+  "date_found": "2026-11-20T16:45:08.934000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "L3Harris",
+  "title": "Associate Embedded Software Engineer",
+  "location": "Fort Wayne, IN",
+  "pay": null,
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Embedded-Software-Engineer-IN-46818/1452529800/?ats=successfactors",
+  "date_posted": "2026-11-20T15:58:47+00:00",
+  "date_found": "2026-11-20T16:45:08.934000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Systems Technology Research",
+  "title": "Associate Signal Processing Engineer",
+  "location": "Woburn, MA",
+  "pay": "$110k–$115k/yr",
+  "tracks": [
+   "software",
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4703073006",
+  "date_posted": "2026-11-20T15:24:09+00:00",
+  "date_found": "2026-11-20T15:36:52.296000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "USAN",
+  "title": "Application Developer New Grad",
+  "location": "Norcross, GA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://usan.bamboohr.com/careers/204/",
+  "date_posted": "2026-11-20T15:17:56+00:00",
+  "date_found": "2026-11-20T15:44:35.052000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Keenfinity",
+  "title": "Associate Automation Engineer",
+  "location": "Fairport",
+  "pay": "$75k–$83k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.smartrecruiters.com/keenfinity/744000162754894",
+  "date_posted": "2026-11-20T15:12:02.017000+00:00",
+  "date_found": "2026-11-20T15:15:40.908000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Autura",
+  "title": "Data Operations Associate",
+  "location": "5 locations",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://autura.com/careers?gh_jid=5470341008",
+  "date_posted": "2026-11-20T14:25:50+00:00",
+  "date_found": "2026-11-20T16:45:08.934000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "General Dynamics",
   "title": "Systems Engineer Entry Level",
   "location": "",
@@ -239,6 +417,22 @@
   "date_found": "2026-11-20T03:44:27.952000+00:00",
   "top_company": false,
   "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Thorlabs",
+  "title": "Electrical Engineer I - RF/Microwave",
+  "location": "Ann Arbor, MI",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://apply.workable.com/thorlabs/j/DDD66DA6AE/",
+  "date_posted": "2026-11-20T00:00:00+00:00",
+  "date_found": "2026-11-20T18:44:32.813000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -1058,6 +1252,22 @@
   "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Integration-&-Test-Engineering-MA-01887/1446383600/?ats=successfactors",
   "date_posted": "2026-11-18T15:48:24+00:00",
   "date_found": "2026-11-18T16:45:00.018000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "KLA",
+  "title": "Semiconductor Field Service Engineer - New College Grads",
+  "location": "Boise, ID",
+  "pay": null,
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Boise-ID/Semiconductor-Field-Service-Engineer---New-College-Grads_2639745",
+  "date_posted": "2026-11-18T15:42:04.370000+00:00",
+  "date_found": "2026-11-20T15:44:35.052000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -3276,38 +3486,6 @@
   "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Associate-Product-Analyst---Embedded-Solutions_R9882",
   "date_posted": "2026-11-13T18:46:33.321000+00:00",
   "date_found": "2026-11-14T19:01:17.482000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Microchip Technology",
-  "title": "Engineer I- Device (Semiconductor Modeling Test & Analysis)",
-  "location": "Chandler, AZ",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://wd5.myworkdaysite.com/External/job/AZ---Chandler/Engineer-I--Device--Semiconductor-Modeling-Test---Analysis-_R4763-26",
-  "date_posted": "2026-11-13T18:12:58.407000+00:00",
-  "date_found": "2026-11-13T18:13:49.902000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Boeing",
-  "title": "Associate Missions Systems Software Engineer - Embedded",
-  "location": "USA - Berkeley, MO",
-  "pay": "$99,450–$134,550/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Missions-Systems-Software-Engineer---Embedded_JR2026523431",
-  "date_posted": "2026-11-13T17:18:06.310000+00:00",
-  "date_found": "2026-11-13T17:19:48.995000+00:00",
   "top_company": false,
   "no_sponsorship": true,
   "citizenship_required": false,
@@ -5605,22 +5783,6 @@
   "url": "https://job-boards.greenhouse.io/ultimagenomics/jobs/6250742004",
   "date_posted": "2026-11-05T21:59:48+00:00",
   "date_found": "2026-11-05T22:10:48.752000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Relativity Space",
-  "title": "Propulsion Integration & Test Engineer I, First shift",
-  "location": "Long Beach, CA",
-  "pay": "$93k–$139k/yr",
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://boards.greenhouse.io/relativity/jobs/8932458002?gh_jid=8932458002",
-  "date_posted": "2026-11-05T21:52:24+00:00",
-  "date_found": "2026-11-05T21:55:36.202000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -38520,7 +38682,7 @@
    "software"
   ],
   "url": "https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application?embed=true",
-  "date_posted": null,
+  "date_posted": "2026-04-03T15:24:15.805000+00:00",
   "date_found": "2026-04-03T22:09:26+00:00",
   "top_company": false,
   "no_sponsorship": false,
