@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,053 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,052 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,7 +10,6 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=hpe.com" width="20" height="20" align="absmiddle">&nbsp; **Hewlett Packard Enterprise** | Research Engineer | Milpitas,&nbsp;CA<br><sub>-</sub> | Jun&nbsp;13 | <a href="https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Milpitas-California-United-States-of-America/HPE-Labs---Research-Engineer_1206781"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=varsitybrands.com" width="20" height="20" align="absmiddle">&nbsp; **Varsity&nbsp;Brands** | Software Engineer | Farmers Branch, TX<br><sub>-</sub> | Jun&nbsp;13 | <a href="https://careers.varsitybrands.com/global/en/job/JR113366"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=quantiq.io" width="20" height="20" align="absmiddle">&nbsp; **Quantiq** | Software Developer New Grad | Austin,&nbsp;TX<br><sub>-</sub> | Jun&nbsp;11<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://job-boards.greenhouse.io/quantiq/jobs/4280650009"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=anduril.com" width="20" height="20" align="absmiddle">&nbsp; **Anduril** | Software Engineer 🔥 🛂 | 5&nbsp;locations<br><sub>$112k–&#8288;$149k/yr</sub> | Jun&nbsp;11 | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5162263007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
