@@ -3,11 +3,11 @@
 
 <a href="https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=cta_email"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-email-dark.png"><img src="assets/cta-email-light.png" height="44" alt="Get the free digest"></picture></a>&nbsp;&nbsp;<a href="https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=cta_instant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-instant-dark.png"><img src="assets/cta-instant-light.png" height="44" alt="Instant alerts, 7 days free"></picture></a>
 
-<img src="assets/stats.svg" width="100%" alt="85 new in the last 24 hours, 2540 open">
+<img src="assets/stats.svg" width="100%" alt="87 new in the last 24 hours, 2538 open">
 </div>
 
 > [!TIP]
-> **This list runs a day behind.** The 85 new grad and entry-level roles we found in the last 24 hours are already in subscribers' inboxes, and appear here tomorrow. [Get a free daily email](https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_email), or [get each one the minute the company posts it](https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_instant) with the season pass (7 days free).
+> **This list runs a day behind.** The 87 new grad and entry-level roles we found in the last 24 hours are already in subscribers' inboxes, and appear here tomorrow. [Get a free daily email](https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_email), or [get each one the minute the company posts it](https://boardsweep.io/#pricing?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=tip_instant) with the season pass (7 days free).
 
 <br>
 
@@ -15,13 +15,13 @@
 
 | Field | Open now | New this week | |
 | --- | ---: | ---: | --- |
-| 💻 **[Software engineering](fields/software.md)** | 1,052 | 76 | [Email me these, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_software) |
+| 💻 **[Software engineering](fields/software.md)** | 1,052 | 78 | [Email me these, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_software) |
 | 🤖 **[AI, ML and data](fields/aiml.md)** | 689 | 26 | [Email me these, free](https://boardsweep.io/new-grad/aiml?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_aiml) |
 | 📈 **[Quant](fields/quant.md)** | 79 | 3 | [Email me these, free](https://boardsweep.io/new-grad/quant?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_quant) |
-| 🔧 **[Hardware](fields/hardware.md)** | 546 | 35 | [Email me these, free](https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_hardware) |
+| 🔧 **[Hardware](fields/hardware.md)** | 545 | 35 | [Email me these, free](https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_hardware) |
 | 📱 **[Product](fields/product.md)** | 107 | 7 | [Email me these, free](https://boardsweep.io/new-grad/product?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_product) |
 | 🎨 **[Design](fields/design.md)** | 16 | 6 | [Email me these, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_design) |
-| 🛡️ **[Security](fields/security.md)** | 24 | 13 | [Email me these, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_security) |
+| 🛡️ **[Security](fields/security.md)** | 23 | 13 | [Email me these, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=browse_security) |
 
 <br>
 
@@ -31,10 +31,11 @@
 
 ## Software engineering
 
-<sub>This week's 76 of 1,052. <a href="fields/software.md">See all 1,052 (2 pages)</a> · <a href="https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_software">Get only software engineering new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 78 of 1,052. <a href="fields/software.md">See all 1,052 (2 pages)</a> · <a href="https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_software">Get only software engineering new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| **ATA&nbsp;Engineering** | Engineering Software Programmer 🛂 | 3&nbsp;locations<br><sub>$85k–&#8288;$125k/yr</sub> | Nov&nbsp;20 | <a href="https://ataengineering.applytojob.com/apply/ivXsyvzO4I/Engineering-Software-Programmer"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=redarchsolutions.com" width="20" height="20" align="absmiddle">&nbsp; **Red Arch Solutions** | Junior Software Engineer | Annapolis Junction, MD<br><sub>$90k–&#8288;$105k/yr</sub> | Nov&nbsp;19 | <a href="https://redarchsolutions.applytojob.com/apply/SjXMZVX4He/Jr-Software-Engineer"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=saic.com" width="20" height="20" align="absmiddle">&nbsp; **SAIC** | Software Developer 🛂 | Huntsville,&nbsp;AL<br><sub>-</sub> | Nov&nbsp;19 | <a href="https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619347"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=kochind.com" width="20" height="20" align="absmiddle">&nbsp; **Koch&nbsp;Industries** | Software Engineer - AI Agents | Fremont,&nbsp;CA<br><sub>$110k–&#8288;$120k/yr</sub> | Nov&nbsp;19 | <a href="https://koch.avature.net/en_US/careers/JobDetail/197657"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -42,6 +43,7 @@
 | <img src="https://boardsweep.io/api/logo?domain=metaphase.tech" width="20" height="20" align="absmiddle">&nbsp; **MetaPhase Consulting** | Junior Forward Deployed Engineer 🛂 | Reston,&nbsp;VA<br><sub>$85k–&#8288;$115k/yr</sub> | Nov&nbsp;19 | <a href="https://jobs.jobvite.com/metaphaseconsulting/job/oaR7Afws?nl=1&amp;nl=1&amp;fr=false"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=zotecpartners.com" width="20" height="20" align="absmiddle">&nbsp; **Zotec&nbsp;Partners** | Security Platform Engineer I – Splunk, Analytics &amp; Automation ✨ | Carmel,&nbsp;IN<br><sub>-</sub> | Nov&nbsp;19 | <a href="https://zotecpartners.applytojob.com/apply/NN8wbulQjf"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=motive.com" width="20" height="20" align="absmiddle">&nbsp; **Motive** | Associate Solutions Engineer, Commercial (Austin - Onsite) ✨ | 2&nbsp;locations<br><sub>$70k–&#8288;$75k/yr</sub> | Nov&nbsp;19 | <a href="https://job-boards.greenhouse.io/gomotive/jobs/7251832002"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=redarchsolutions.com" width="20" height="20" align="absmiddle">&nbsp; **Redarch&nbsp;Solutions** | Jr. Software Engineer ✨ | Annapolis Junction, MD<br><sub>$90k–&#8288;$105k/yr</sub> | Nov&nbsp;19 | <a href="https://redarchsolutions.applytojob.com/apply/SjXMZVX4He"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=redwoodcu.org" width="20" height="20" align="absmiddle">&nbsp; **Redwood Credit Union** | DevOps Engineer I ✨ | Napa,&nbsp;CA<br><sub>-</sub> | Nov&nbsp;19<br><sub>⚡&nbsp;13m</sub> | <a href="https://jobs.lever.co/redwoodcu/69c327df-2541-4395-b14a-2f66d3236bf4"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=viasat.com" width="20" height="20" align="absmiddle">&nbsp; **ViaSat** | Associate Software Engineer – Early Career | Carlsbad,&nbsp;CA<br><sub>$95k–&#8288;$150k/yr</sub> | Nov&nbsp;19 | <a href="https://careers.viasat.com/jobs/7077?icims=1&amp;lang=en-us"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=peraton.com" width="20" height="20" align="absmiddle">&nbsp; **Peraton** | Junior Tool Support Software Engineer ✨ 🛂 | -<br><sub>$135k–&#8288;$216k/yr</sub> | Nov&nbsp;19 | <a href="https://careers-peraton.icims.com/jobs/174948/junior-tool-support-software-engineer/job"><img src="assets/apply.png" width="58" height="23" alt="Apply"></a> |
@@ -163,7 +165,7 @@
 
 ## Hardware
 
-<sub>This week's 35 of 546. <a href="fields/hardware.md">See all 546</a> · <a href="https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_hardware">Get only hardware new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 35 of 545. <a href="fields/hardware.md">See all 545</a> · <a href="https://boardsweep.io/new-grad/hardware?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_hardware">Get only hardware new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -238,7 +240,7 @@
 
 ## Security
 
-<sub>This week's 13 of 24. <a href="fields/security.md">See all 24</a> · <a href="https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_security">Get only security new grad and entry-level roles by email, free</a></sub>
+<sub>This week's 13 of 23. <a href="fields/security.md">See all 23</a> · <a href="https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=track_security">Get only security new grad and entry-level roles by email, free</a></sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
@@ -266,6 +268,6 @@
 
 Also see: [Summer 2027 internships](https://github.com/Boardsweep/summer-2027-internships) · [Every role, filterable, on boardsweep.io](https://boardsweep.io/new-grad?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=footer)
 
-<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 21, 2026 at 01:33 UTC. Not affiliated with any company listed.</sub>
+<sub>⚡ is measured from the time the company published the posting, where its job board gives one. Updated Nov 21, 2026 at 07:30 UTC. Not affiliated with any company listed.</sub>
 
 </div>
