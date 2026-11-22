@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,057 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,058 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,7 +10,8 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=palantir.com" width="20" height="20" align="absmiddle">&nbsp; **Palantir** | Forward Deployed Software Engineer New Grad 🔥 | Washington,&nbsp;DC<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=palantir.com" width="20" height="20" align="absmiddle">&nbsp; **Palantir** | Forward Deployed Software Engineer New Grad 🔥 | NYC<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| ↳ | Forward Deployed Software Engineer New Grad 🔥 | Washington,&nbsp;DC<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=peopleculturetalent.com" width="20" height="20" align="absmiddle">&nbsp; **People Culture Talent** | Full-Stack Engineer | San Francisco, CA<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://jobs.ashbyhq.com/people-culture-talent/c1049c49-aea6-4862-a711-a4c78cf6e959"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=tiktok.com" width="20" height="20" align="absmiddle">&nbsp; **TikTok** | Software Engineer - Data Arch - Data Ecosystem 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$128k–&#8288;$316,800/yr</sub> | Jun&nbsp;15 | <a href="https://lifeattiktok.com/search/7527441329384147208"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=aerovironment.com" width="20" height="20" align="absmiddle">&nbsp; **AeroVironment** | Computer Network Operations Developer | Jessup,&nbsp;MD<br><sub>$102k–&#8288;$180k/yr</sub> | Jun&nbsp;13 | <a href="https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/CNO-Developer_6358"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

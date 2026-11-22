@@ -1081,6 +1081,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Toyota",
+  "title": "Software Engineer",
+  "location": "Plano, TX",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10340846",
+  "date_posted": "2026-11-20T00:00:00+00:00",
+  "date_found": "2026-11-21T03:44:16.782000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Diversified Services Network",
   "title": "(1121223) Embedded Software Engineer- Entry Level role",
   "location": "Mossville, IL",
