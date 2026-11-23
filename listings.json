@@ -1629,6 +1629,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Global Infrastructure",
+  "title": "Graduate Engineering Designer, Water",
+  "location": "3 locations",
+  "pay": null,
+  "tracks": [
+   "design"
+  ],
+  "url": "https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--VA--Alexandria---5301-Shawnee-Road/Graduate-Engineering-Designer--Water_6793",
+  "date_posted": "2026-11-19T06:43:55.038000+00:00",
+  "date_found": "2026-11-22T06:44:44.490000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "URBN",
   "title": "Anthropologie Associate Apparel Designer Maeve Soft Wovens",
   "location": "",
@@ -1639,6 +1655,22 @@
   "url": "https://homeoffice-na-urbn.icims.com/jobs/41735/anthropologie-associate-apparel-designer---maeve-soft-wovens/job",
   "date_posted": null,
   "date_found": "2026-11-19T02:44:24.418000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "American Cancer Society",
+  "title": "Associate Scientist, Data Analysis",
+  "location": "GA Atlanta",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://acs.wd5.myworkdayjobs.com/acscareers/job/GA-Atlanta/Associate-Scientist--Data-Analysis_JR3787-1",
+  "date_posted": "2026-11-19T02:42:10.992000+00:00",
+  "date_found": "2026-11-22T02:44:13.114000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -1724,6 +1756,38 @@
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": true
+ },
+ {
+  "company": "Specialized",
+  "title": "Early Career Data Engineer",
+  "location": "Morgan Hill, CA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117",
+  "date_posted": "2026-11-19T00:00:00+00:00",
+  "date_found": "2026-11-22T02:44:13.114000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Specialized",
+  "title": "Early Career Equipment Product & Launch Manager",
+  "location": "Morgan Hill, CA",
+  "pay": null,
+  "tracks": [
+   "product"
+  ],
+  "url": "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Equipment-Product---Launch-Manager_R0012128",
+  "date_posted": "2026-11-19T00:00:00+00:00",
+  "date_found": "2026-11-22T02:44:13.114000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
  },
  {
   "company": "Cadence Design Systems",
@@ -4168,22 +4232,6 @@
   "date_found": "2026-11-13T04:05:15.836000+00:00",
   "top_company": true,
   "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Johnson Controls",
-  "title": "Nextgen Software Engineer New Grad",
-  "location": "3 locations",
-  "pay": "$75k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2",
-  "date_posted": "2026-11-13T00:00:00+00:00",
-  "date_found": "2026-11-14T23:57:03.010000+00:00",
-  "top_company": false,
-  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -8221,22 +8269,6 @@
   "date_found": "2026-10-28T23:59:14.336000+00:00",
   "top_company": true,
   "no_sponsorship": true,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Glean",
-  "title": "Software Engineer, University Grad",
-  "location": "Mountain View, CA",
-  "pay": "$115k–$150k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
-  "date_posted": "2026-10-28T17:22:26+00:00",
-  "date_found": "2026-10-28T17:53:36.510270+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
  },
