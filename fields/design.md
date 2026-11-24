@@ -2,12 +2,14 @@
 
 # 🎨 Design new grad and entry-level roles
 
-All 17 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
+All 19 open design new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design), or [get them by email, free](https://boardsweep.io/new-grad/design?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_design).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=thinkingbox.com" width="20" height="20" align="absmiddle">&nbsp; **Thinkingbox** | Junior Designer - Thinkingbox ✨ | New&nbsp;York&nbsp;City<br><sub>$50k–&#8288;$60k/yr</sub> | Nov&nbsp;23<br><sub>⚡&nbsp;12m</sub> | <a href="https://jobs.lever.co/thinkingbox/2b99aa8b-428c-4b84-bc63-516882e0e27c"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=koddi.com" width="20" height="20" align="absmiddle">&nbsp; **Koddi** | Associate UI/UX Product Designer ✨ | Fort&nbsp;Worth,&nbsp;TX<br><sub>-</sub> | Nov&nbsp;23<br><sub>⚡&nbsp;13m</sub> | <a href="https://job-boards.greenhouse.io/koddi/jobs/8944805002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=ironclad.com" width="20" height="20" align="absmiddle">&nbsp; **Ironclad** | Junior Production Designer ✨ | San&nbsp;Francisco<br><sub>$81k–&#8288;$101k/yr</sub> | Nov&nbsp;20<br><sub>⚡&nbsp;46m</sub> | <a href="https://jobs.ashbyhq.com/ironcladhq/ef2767b4-566d-4685-a136-aca0a756bf62"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=imegcorp.com" width="20" height="20" align="absmiddle">&nbsp; **IMEG** | Technology Designer New Graduate &#124; Columbus, OH ✨ | Columbus,&nbsp;OH<br><sub>-</sub> | Nov&nbsp;19 | <a href="https://wd1.myworkdaysite.com/Imeg_Careers/job/Columbus-OH/Technology-Designer-New-Graduate---Columbus--OH_R-17036"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Global Infrastructure** | Graduate Engineering Designer, Water ✨ | 3&nbsp;locations<br><sub>-</sub> | Nov&nbsp;19 | <a href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--VA--Alexandria---5301-Shawnee-Road/Graduate-Engineering-Designer--Water_6793"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
