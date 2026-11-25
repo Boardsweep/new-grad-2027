@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 999 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,004 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,6 +10,11 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=bytedance.com" width="20" height="20" align="absmiddle">&nbsp; **ByteDance** | Graduate Research Scientist - AI Agent Memory Infrastructure - PhD 🔥 | San&nbsp;Jose,&nbsp;CA<br><sub>$162k–&#8288;$387,600/yr</sub> | Apr&nbsp;8 | <a href="https://jobs.bytedance.com/en/position/7626145948402010421/detail"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=sigmacomputing.com" width="20" height="20" align="absmiddle">&nbsp; **Sigma&nbsp;Computing** | Software Engineer New Grad 🛂 | 2&nbsp;locations<br><sub>$65/hr</sub> | Apr&nbsp;6 | <a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| **Realm** | Software Engineer New Grad | Remote&nbsp;in<br><sub>-</sub> | Apr&nbsp;3 | <a href="https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application?embed=true"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=flex.ai" width="20" height="20" align="absmiddle">&nbsp; **FlexAI** | Software Engineer – New Grad | San&nbsp;Jose,&nbsp;CA<br><sub>-</sub> | Apr&nbsp;3 | <a href="https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
+| <img src="https://boardsweep.io/api/logo?domain=unconventionalai.xyz" width="20" height="20" align="absmiddle">&nbsp; **Unconventional&nbsp;AI** | Junior Member of Technical Staff, System Modeling | 2&nbsp;locations<br><sub>-</sub> | Apr&nbsp;1<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://unconv.ai/careers/?gh_jid=4206025009"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=gdmissionsystems.com" width="20" height="20" align="absmiddle">&nbsp; **General Dynamics Mission Systems** | Junior Full Stack Engineer (Java/React) 🇺🇸 | Dedham,&nbsp;MA<br><sub>-</sub> | Mar&nbsp;31 | <a href="https://careers-gdms.icims.com/jobs/71647/junior-full-stack-engineer-%28java-react%29/job"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | **Scout&nbsp;AI** | Junior Firmware Engineer 🇺🇸 | Sunnyvale,&nbsp;CA<br><sub>-</sub> | Mar&nbsp;31 | <a href="https://job-boards.greenhouse.io/scoutai/jobs/4643333008"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=praetorian.com" width="20" height="20" align="absmiddle">&nbsp; **Praetorian** | Software Engineer | Austin,&nbsp;TX<br><sub>-</sub> | Mar&nbsp;30 | <a href="https://www.praetorian.com/careers/?gh_jid=5386005003#job-opening"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |

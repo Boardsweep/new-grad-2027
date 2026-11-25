@@ -2,12 +2,13 @@
 
 # 🛡️ Security new grad and entry-level roles
 
-All 27 open security new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security), or [get them by email, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security).
+All 28 open security new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security), or [get them by email, free](https://boardsweep.io/new-grad/security?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_security).
 
 <sub>🔥 Top company &nbsp; ✨ Not on the other public lists &nbsp; ⚡ Minutes from posting to us &nbsp; 🛂 No visa sponsorship &nbsp; 🇺🇸 U.S. citizenship required &nbsp; 🎓 Advanced degree required</sub>
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
+| <img src="https://boardsweep.io/api/logo?domain=saliense.com" width="20" height="20" align="absmiddle">&nbsp; **Saliense** | System Security Status Reporting/Metrics Engineer | Tysons,&nbsp;VA<br><sub>-</sub> | Nov&nbsp;23 | <a href="https://ats.rippling.com/saliense/jobs/4bc9e33f-5579-4138-9294-17b43e37d8b4"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=pendo.io" width="20" height="20" align="absmiddle">&nbsp; **Pendo** | Associate Security Engineer ✨ | Raleigh,&nbsp;NC<br><sub>$88,800–&#8288;$106,500/yr</sub> | Nov&nbsp;23<br><sub>⚡&nbsp;14m</sub> | <a href="https://job-boards.greenhouse.io/pendo/jobs/8940085002"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=wyetechllc.com" width="20" height="20" align="absmiddle">&nbsp; **Wyetech** | CNO Reverse Engineer Level 1 ✨ | Hanover,&nbsp;MD<br><sub>$53.62–&#8288;$76.96/hr</sub> | Nov&nbsp;23 | <a href="https://wyetech.applytojob.com/apply/btIr7ZLR00"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=accenturefederal.com" width="20" height="20" align="absmiddle">&nbsp; **Accenture Federal Services** | Splunk Jr. Developer ✨ | Washington,&nbsp;DC<br><sub>$86k–&#8288;$176k/yr</sub> | Nov&nbsp;23<br><sub>⚡&nbsp;3m</sub> | <a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4707033006?gh_jid=4707033006"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
