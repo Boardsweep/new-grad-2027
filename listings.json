@@ -1,5 +1,215 @@
 [
  {
+  "company": "TikTok",
+  "title": "Backend Software Engineer - Data Lifecycle Management",
+  "location": "San Jose, CA",
+  "pay": "$128k–$316,800/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://lifeattiktok.com/search/7710030288165996805",
+  "date_posted": "2026-11-25T07:14:47+00:00",
+  "date_found": "2026-11-25T07:43:58.986000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "X Development",
+  "title": "PhD / Master's Resident - Revolutionary Nanodevice Measurement and Characterization - Early Stage Project",
+  "location": "Mountain View, CA",
+  "pay": "$125k–$147k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://x.company/careers/8472640002?gh_jid=8472640002",
+  "date_posted": "2026-11-25T02:45:10+00:00",
+  "date_found": "2026-11-25T03:45:21.540000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
+  "company": "Metropolitan Transportation Authority",
+  "title": "Application Developer Analyst Levels 1–2",
+  "location": "Queens, NY",
+  "pay": "$57,100–$81,572/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oHP8AfwY?nl=1&fr=false",
+  "date_posted": "2026-11-25T01:33:15+00:00",
+  "date_found": "2026-11-25T02:43:58.434000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Oracle",
+  "title": "Systems Engineer 1",
+  "location": "Kansas City, MO",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350415",
+  "date_posted": "2026-11-25T01:21:05+00:00",
+  "date_found": "2026-11-25T01:43:51.426000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Deloitte",
+  "title": "Software Engineer",
+  "location": "Nashville, TN",
+  "pay": "$69,400–$142,600/yr",
+  "tracks": [
+   "software",
+   "aiml"
+  ],
+  "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Software-Engineering-Summer-Fall-2027/376512",
+  "date_posted": "2026-11-25T01:14:25+00:00",
+  "date_found": "2026-11-25T01:43:51.426000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Dell Technologies",
+  "title": "Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement",
+  "location": "Hopkinton, MA",
+  "pay": "$91,800–$118,800/yr",
+  "tracks": [
+   "software",
+   "product"
+  ],
+  "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299999",
+  "date_posted": "2026-11-25T00:48:51+00:00",
+  "date_found": "2026-11-25T01:43:51.426000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "SAIC",
+  "title": "Computer Programmer Level 1",
+  "location": "Oklahoma City, OK",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619464",
+  "date_posted": "2026-11-24T23:36:20+00:00",
+  "date_found": "2026-11-25T00:44:37.831000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Consolidated Edison",
+  "title": "Associate – Research & Development",
+  "location": "NYC",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000518",
+  "date_posted": "2026-11-24T23:15:59+00:00",
+  "date_found": "2026-11-24T23:43:39.313000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
+  "company": "Amazon",
+  "title": "Front-End Engineer",
+  "location": "Seattle, WA",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://amazon.jobs/en/jobs/10610793/front-end-engineer-2027-us",
+  "date_posted": "2026-11-24T23:05:36+00:00",
+  "date_found": "2026-11-24T23:43:39.313000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Veeva Systems",
+  "title": "Associate Software Engineer - 2027 Start Dates",
+  "location": "North Carolina - Raleigh",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f",
+  "date_posted": "2026-11-24T22:56:21.398000+00:00",
+  "date_found": "2026-11-24T23:09:49.178000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Rocket Lab",
+  "title": "RF Design Engineer I",
+  "location": "Long Beach, CA",
+  "pay": "$88k–$121k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992145003",
+  "date_posted": "2026-11-24T22:35:59+00:00",
+  "date_found": "2026-11-24T22:36:25.457000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "CoreWeave",
+  "title": "Business System Engineer 1",
+  "location": "Dallas, TX",
+  "pay": "$109k–$145k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://coreweave.com/careers/job?4717711006&board=coreweave&gh_jid=4717711006",
+  "date_posted": null,
+  "date_found": "2026-11-24T21:54:20.715000+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Keysight Technologies",
+  "title": "R&D BS / MS Electrical Engineer Power Electronics Hardware Design",
+  "location": "Mt Olive, NJ",
+  "pay": "$76k/yr",
+  "tracks": [
+   "hardware"
+  ],
+  "url": "https://jobs.keysight.com/jobs/59478?icims=1&lang=en-us",
+  "date_posted": "2026-11-24T21:38:00+00:00",
+  "date_found": "2026-11-25T00:44:37.831000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": true
+ },
+ {
   "company": "Freedom Consulting",
   "title": "Junior Software Engineer 817",
   "location": "Annapolis Junction, MD",
@@ -32,6 +242,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Rubrik",
+  "title": "Software Engineer - Data Protection",
+  "location": "Palo Alto, CA",
+  "pay": "$131,400–$197,200/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058",
+  "date_posted": "2026-11-24T19:37:58+00:00",
+  "date_found": "2026-11-24T23:43:39.313000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Wurl",
   "title": "Software Engineer I - Remote",
   "location": "Remote - United States",
@@ -55,7 +281,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://www.interstates.com/careers/jobs?gh_jid=4520822009&gh_jid=4520822009",
+  "url": "https://www.interstates.com/careers/jobs?gh_jid=4520822009",
   "date_posted": "2026-11-24T17:50:20+00:00",
   "date_found": "2026-11-24T17:52:10.906000+00:00",
   "top_company": false,
@@ -71,7 +297,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://www.interstates.com/careers/jobs?gh_jid=4520575009&gh_jid=4520575009",
+  "url": "https://www.interstates.com/careers/jobs?gh_jid=4520575009",
   "date_posted": "2026-11-24T17:47:30+00:00",
   "date_found": "2026-11-24T17:52:10.906000+00:00",
   "top_company": false,
@@ -194,6 +420,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Analytical Mechanics Associates",
+  "title": "AIML Research Associate",
+  "location": "Hampton, VA",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/AIML-Research-Associate_R-100857",
+  "date_posted": "2026-11-24T04:42:52.744000+00:00",
+  "date_found": "2026-11-25T04:44:32.077000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Boston Scientific",
   "title": "Systems Test Engineer I - PCIG Systems",
   "location": "Maple Grove, MN",
@@ -272,6 +514,22 @@
   "date_found": "2026-11-24T00:44:34.957000+00:00",
   "top_company": false,
   "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "Beyond New Horizons",
+  "title": "ID&C Software Engineer",
+  "location": "Tullahoma, TN",
+  "pay": "$94,500–$126k/yr",
+  "tracks": [
+   "software"
+  ],
+  "url": "https://careers-bnh.icims.com/jobs/26055/job?mobile=true&needsRedirect=false",
+  "date_posted": "2026-11-24T00:00:00+00:00",
+  "date_found": "2026-11-25T01:43:51.426000+00:00",
+  "top_company": false,
+  "no_sponsorship": true,
   "citizenship_required": false,
   "advanced_degree": false
  },
@@ -773,6 +1031,22 @@
   "advanced_degree": false
  },
  {
+  "company": "Apple",
+  "title": "Engineer Evolve An Apple Services Rotation Program",
+  "location": "",
+  "pay": null,
+  "tracks": [
+   "software"
+  ],
+  "url": "https://jobs.apple.com/en-us/details/200695965-0836/engineer-evolve-an-apple-services-rotation-program",
+  "date_posted": "2026-11-23T17:15:00+00:00",
+  "date_found": "2026-11-23T17:50:04.713348+00:00",
+  "top_company": true,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
   "company": "Scientific Research Corporation",
   "title": "Engineer I",
   "location": "",
@@ -896,6 +1170,22 @@
   "url": "https://jobs.aon.com/jobs/113794?icims=1&lang=en-us",
   "date_posted": "2026-11-23T01:58:00+00:00",
   "date_found": "2026-11-23T07:44:00.141000+00:00",
+  "top_company": false,
+  "no_sponsorship": false,
+  "citizenship_required": false,
+  "advanced_degree": false
+ },
+ {
+  "company": "ADUS-Adobe",
+  "title": "2027 University Graduate - Research Scientist",
+  "location": "San Jose",
+  "pay": null,
+  "tracks": [
+   "aiml"
+  ],
+  "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Research-Scientist_R173584",
+  "date_posted": "2026-11-23T00:00:00+00:00",
+  "date_found": "2026-11-25T07:50:08.355969+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -2393,7 +2683,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.jobvite.com/metaphaseconsulting/job/oaR7Afws?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/metaphaseconsulting/job/oaR7Afws?nl=1&fr=false",
   "date_posted": "2026-11-19T23:08:02+00:00",
   "date_found": "2026-11-19T23:43:06.907000+00:00",
   "top_company": false,
@@ -3054,7 +3344,7 @@
    "aiml",
    "software"
   ],
-  "url": "https://jobs.jobvite.com/altamiracorps/job/o0p7AfwQ?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/altamiracorps/job/o0p7AfwQ?nl=1&fr=false",
   "date_posted": "2026-11-18T23:34:45+00:00",
   "date_found": "2026-11-19T00:44:49.906000+00:00",
   "top_company": false,
@@ -3352,22 +3642,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Jobgether",
-  "title": "Junior Security Engineer",
-  "location": "US",
-  "pay": null,
-  "tracks": [
-   "security"
-  ],
-  "url": "https://jobs.lever.co/jobgether/7d7aae14-b608-463f-82c1-8eda7918b8cd",
-  "date_posted": "2026-11-18T08:19:41.498000+00:00",
-  "date_found": "2026-11-18T07:33:48.587000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "TikTok",
   "title": "Logistics Product Manager Graduate - Supply Chain and Logistics",
   "location": "Seattle, WA",
@@ -3568,7 +3842,7 @@
   "tracks": [
    "aiml"
   ],
-  "url": "https://jobs.jobvite.com/encompass-supply-chain-solutions-inc/job/o7TjAfwD?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/encompass-supply-chain-solutions-inc/job/o7TjAfwD?nl=1&fr=false",
   "date_posted": "2026-11-17T23:43:43+00:00",
   "date_found": "2026-11-18T00:42:23.177000+00:00",
   "top_company": false,
@@ -3600,7 +3874,7 @@
   "tracks": [
    "hardware"
   ],
-  "url": "https://jobs.jobvite.com/edgeautonomy-careers/job/oeX0Afwv?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/edgeautonomy-careers/job/oeX0Afwv?nl=1&fr=false",
   "date_posted": "2026-11-17T23:37:06+00:00",
   "date_found": "2026-11-18T00:42:23.177000+00:00",
   "top_company": false,
@@ -3696,7 +3970,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.jobvite.com/actionet-review/job/ofYQzfwm?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/actionet-review/job/ofYQzfwm?nl=1&fr=false",
   "date_posted": "2026-11-17T23:12:52+00:00",
   "date_found": "2026-11-17T23:42:17.203000+00:00",
   "top_company": false,
@@ -3712,7 +3986,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.jobvite.com/compunetix/job/o25QAfwh?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/compunetix/job/o25QAfwh?nl=1&fr=false",
   "date_posted": "2026-11-17T23:07:36+00:00",
   "date_found": "2026-11-17T23:42:17.203000+00:00",
   "top_company": false,
@@ -3728,7 +4002,7 @@
   "tracks": [
    "hardware"
   ],
-  "url": "https://jobs.jobvite.com/compunetix/job/ol3oAfw6?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/compunetix/job/ol3oAfw6?nl=1&fr=false",
   "date_posted": "2026-11-17T23:07:35+00:00",
   "date_found": "2026-11-17T23:42:17.203000+00:00",
   "top_company": false,
@@ -3760,7 +4034,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.jobvite.com/redalpha/job/oNLpAfwh?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/redalpha/job/oNLpAfwh?nl=1&fr=false",
   "date_posted": "2026-11-17T23:04:26+00:00",
   "date_found": "2026-11-17T23:42:17.203000+00:00",
   "top_company": false,
@@ -3776,7 +4050,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.jobvite.com/redalpha/job/oy0ZpfwG?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/redalpha/job/oy0ZpfwG?nl=1&fr=false",
   "date_posted": "2026-11-17T23:04:25+00:00",
   "date_found": "2026-11-17T23:42:17.203000+00:00",
   "top_company": false,
@@ -3792,7 +4066,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.jobvite.com/redalpha/job/ouIosfwM?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/redalpha/job/ouIosfwM?nl=1&fr=false",
   "date_posted": "2026-11-17T23:04:24+00:00",
   "date_found": "2026-11-17T23:42:17.203000+00:00",
   "top_company": false,
@@ -3846,22 +4120,6 @@
   "date_posted": "2026-11-17T23:03:15+00:00",
   "date_found": "2026-11-17T23:42:17.203000+00:00",
   "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "General Matter",
-  "title": "Automation & Controls Engineer, New Grads",
-  "location": "Los Angeles, CA",
-  "pay": "$125k–$135k/yr",
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5476939008",
-  "date_posted": "2026-11-17T22:42:29+00:00",
-  "date_found": "2026-11-17T22:51:32.988000+00:00",
-  "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
   "advanced_degree": false
@@ -4135,7 +4393,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&fr=false",
   "date_posted": "2026-11-17T02:35:03+00:00",
   "date_found": "2026-11-17T03:42:51.789000+00:00",
   "top_company": false,
@@ -4151,7 +4409,7 @@
   "tracks": [
    "design"
   ],
-  "url": "https://jobs.jobvite.com/theopusgroup/job/oPMUAfwP?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/theopusgroup/job/oPMUAfwP?nl=1&fr=false",
   "date_posted": "2026-11-17T02:08:44+00:00",
   "date_found": "2026-11-17T02:55:07.761000+00:00",
   "top_company": false,
@@ -4186,22 +4444,6 @@
   "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1",
   "date_posted": "2026-11-17T00:00:00+00:00",
   "date_found": "2026-11-18T08:45:15.053000+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "Microchip Technology",
-  "title": "Engineer 1 - Verification",
-  "location": "Chandler, AZ",
-  "pay": null,
-  "tracks": [
-   "hardware"
-  ],
-  "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I---Verification_R4899-26",
-  "date_posted": "2026-11-17T00:00:00+00:00",
-  "date_found": "2026-11-17T23:42:17.203000+00:00",
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
@@ -9044,7 +9286,7 @@
    "aiml",
    "software"
   ],
-  "url": "https://jobs.jobvite.com/internetbrands/job/oChZAfwc?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/internetbrands/job/oChZAfwc?nl=1&fr=false",
   "date_posted": "2026-10-26T06:09:24+00:00",
   "date_found": "2026-10-26T07:03:23.558000+00:00",
   "top_company": false,
@@ -14721,13 +14963,13 @@
  },
  {
   "company": "Capgemini",
-  "title": "Associate Application Consultant",
+  "title": "Campus Associate Application Consultant",
   "location": "4 locations",
   "pay": null,
   "tracks": [
    "software"
   ],
-  "url": "https://careers.capgemini.com/job/Atlanta,-GA-Campus-Associate-Application-Consultant-GA-30301/1442487633/?ats=successfactors",
+  "url": "https://careers.capgemini.com/job/Atlanta%2C-GA-Campus-Associate-Application-Consultant-GA-30301/1442487633/",
   "date_posted": "2026-09-29T22:18:50+00:00",
   "date_found": "2026-09-29T22:18:50+00:00",
   "top_company": false,
@@ -14920,7 +15162,7 @@
   "tracks": [
    "aiml"
   ],
-  "url": "https://jobs.jobvite.com/internetbrands/job/ouLOAfwn?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/internetbrands/job/ouLOAfwn?nl=1&fr=false",
   "date_posted": "2026-09-28T22:20:10+00:00",
   "date_found": "2026-09-28T22:20:10+00:00",
   "top_company": false,
@@ -14936,7 +15178,7 @@
   "tracks": [
    "aiml"
   ],
-  "url": "https://jobs.jobvite.com/internetbrands/job/onLOAfwg?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/internetbrands/job/onLOAfwg?nl=1&fr=false",
   "date_posted": "2026-09-28T22:20:09+00:00",
   "date_found": "2026-09-28T22:20:09+00:00",
   "top_company": false,
@@ -15885,7 +16127,7 @@
   "tracks": [
    "aiml"
   ],
-  "url": "https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708",
+  "url": "https://careers.aqr.com/jobs?gh_jid=8224708",
   "date_posted": "2026-09-22T22:25:41+00:00",
   "date_found": "2026-09-23T02:07:37.493000+00:00",
   "top_company": true,
@@ -18293,7 +18535,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.jobvite.com/isoftstone/job/oB4MAfwL?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/isoftstone/job/oB4MAfwL?nl=1&fr=false",
   "date_posted": "2026-09-10T22:33:07+00:00",
   "date_found": "2026-09-10T22:33:07+00:00",
   "top_company": false,
@@ -21933,7 +22175,7 @@
   "tracks": [
    "aiml"
   ],
-  "url": "https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004",
+  "url": "https://www.newrocket.com/careers/job?gh_jid=6163544004",
   "date_posted": null,
   "date_found": "2026-08-26T15:20:55+00:00",
   "top_company": false,
@@ -21949,7 +22191,7 @@
   "tracks": [
    "aiml"
   ],
-  "url": "https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004",
+  "url": "https://www.newrocket.com/careers/job?gh_jid=6163518004",
   "date_posted": null,
   "date_found": "2026-08-26T15:20:55+00:00",
   "top_company": false,
@@ -24770,7 +25012,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oufJzfwL?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oufJzfwL?nl=1&fr=false",
   "date_posted": "2026-08-14T05:52:10+00:00",
   "date_found": "2026-08-14T05:52:10+00:00",
   "top_company": false,
@@ -28402,7 +28644,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.jobvite.com/synqor-careers/job/o2EKxfwH?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/synqor-careers/job/o2EKxfwH?nl=1&fr=false",
   "date_posted": "2026-08-04T06:14:42+00:00",
   "date_found": "2026-08-04T06:14:42+00:00",
   "top_company": false,
@@ -29858,7 +30100,7 @@
   "tracks": [
    "aiml"
   ],
-  "url": "https://jobs.jobvite.com/visionist/job/otszAfwO?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/visionist/job/otszAfwO?nl=1&fr=false",
   "date_posted": "2026-08-01T01:24:03+00:00",
   "date_found": "2026-08-01T01:24:03+00:00",
   "top_company": false,
@@ -32866,7 +33108,7 @@
   "tracks": [
    "software"
   ],
-  "url": "https://jobs.jobvite.com/actionet/job/ofYQzfwm?nl=1&nl=1&fr=false",
+  "url": "https://jobs.jobvite.com/actionet/job/ofYQzfwm?nl=1&fr=false",
   "date_posted": "2026-07-01T22:10:58+00:00",
   "date_found": "2026-07-01T22:10:58+00:00",
   "top_company": false,
@@ -36811,22 +37053,6 @@
   "advanced_degree": false
  },
  {
-  "company": "Figma",
-  "title": "Data Scientist, Core Data",
-  "location": "2 locations",
-  "pay": null,
-  "tracks": [
-   "aiml"
-  ],
-  "url": "https://job-boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004",
-  "date_posted": null,
-  "date_found": "2026-05-01T11:56:15+00:00",
-  "top_company": true,
-  "no_sponsorship": false,
-  "citizenship_required": false,
-  "advanced_degree": false
- },
- {
   "company": "DoorDash",
   "title": "AI Research Fellow - Multiple Teams",
   "location": "SF",
@@ -37592,38 +37818,6 @@
   "top_company": false,
   "no_sponsorship": false,
   "citizenship_required": false,
-  "advanced_degree": false
- },
- {
-  "company": "General Dynamics Mission Systems",
-  "title": "Junior Full Stack Engineer (Java/React)",
-  "location": "Dedham, MA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://careers-gdms.icims.com/jobs/71647/junior-full-stack-engineer-%28java-react%29/job",
-  "date_posted": null,
-  "date_found": "2026-03-31T05:31:52+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": true,
-  "advanced_degree": false
- },
- {
-  "company": "Scout AI",
-  "title": "Junior Firmware Engineer",
-  "location": "Sunnyvale, CA",
-  "pay": null,
-  "tracks": [
-   "software"
-  ],
-  "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643333008",
-  "date_posted": null,
-  "date_found": "2026-03-31T05:26:35+00:00",
-  "top_company": false,
-  "no_sponsorship": false,
-  "citizenship_required": true,
   "advanced_degree": false
  },
  {
