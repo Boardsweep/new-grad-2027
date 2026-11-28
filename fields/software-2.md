@@ -2,7 +2,7 @@
 
 # 💻 Software engineering new grad and entry-level roles
 
-All 1,044 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
+All 1,041 open software engineering new grad and entry-level roles, newest first, every link the company's own posting. Filter by city or keyword on [boardsweep.io](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software), or [get them by email, free](https://boardsweep.io/new-grad/software?utm_source=github&utm_medium=readme&utm_campaign=new-grad&utm_content=field_software).
 
 Page 2 of 2: [1](software.md) · **2**
 
@@ -10,9 +10,6 @@ Page 2 of 2: [1](software.md) · **2**
 
 | Company | Role | Where and pay | Posted | &nbsp;Apply&nbsp; |
 | --- | --- | --- | --- | :---: |
-| <img src="https://boardsweep.io/api/logo?domain=amazon.com" width="20" height="20" align="absmiddle">&nbsp; **Amazon** | Robotics – Software Development Engineer 🔥 | 6&nbsp;locations<br><sub>-</sub> | Jun&nbsp;17 | <a href="https://amazon.jobs/en/jobs/10452115/robotics-software-development-engineer"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=trueanomaly.space" width="20" height="20" align="absmiddle">&nbsp; **True&nbsp;Anomaly** | Platform Engineer - AI 🛂 | 2&nbsp;locations<br><sub>$120k–&#8288;$225k/yr</sub> | Jun&nbsp;17<br><sub>⚡&nbsp;&lt;1m</sub> | <a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166540007"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
-| <img src="https://boardsweep.io/api/logo?domain=exlservice.com" width="20" height="20" align="absmiddle">&nbsp; **EXL** | Junior Software Developer | -<br><sub>$45k–&#8288;$55k/yr</sub> | Jun&nbsp;16 | <a href="https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15785"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | <img src="https://boardsweep.io/api/logo?domain=palantir.com" width="20" height="20" align="absmiddle">&nbsp; **Palantir** | Forward Deployed Software Engineer New Grad 🔥 | Washington,&nbsp;DC<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Forward Deployed Software Engineer New Grad 🔥 | NYC<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
 | ↳ | Forward Deployed Software Engineer New Grad 🔥 | Washington,&nbsp;DC<br><sub>-</sub> | Jun&nbsp;16 | <a href="https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply"><img src="../assets/apply.png" width="58" height="23" alt="Apply"></a> |
